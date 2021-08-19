@@ -1,3 +1,5 @@
+[1](/MyPortfolio/OOIS/Unit01.html) | [2](/MyPortfolio/OOIS/Unit02.html) | [3](/MyPortfolio/OOIS/Unit03.html) | [4](/MyPortfolio/OOIS/Unit04.html) | [5](/MyPortfolio/OOIS/Unit05.html) | [6](/MyPortfolio/OOIS/Unit06.html) | [7](/MyPortfolio/OOIS/Unit07.html) | [8](/MyPortfolio/OOIS/Unit08.html) | [9](/MyPortfolio/OOIS/Unit09.html) | [10](/MyPortfolio/OOIS/Unit10.html) | [11](/MyPortfolio/OOIS/Unit11.html) | [12](/MyPortfolio/OOIS/Unit12.html)
+
 ### Week One [una sabbatorum]
 
 The First Week has mostly been looking at what information systems are and the differences between information data and knowledge 
@@ -56,3 +58,8 @@ OpenStreetMap contributors. (2017). Planet dump retrieved from https://planet.os
 
 
 Press Associated. (2020). German hospital hacked, patient taken to another city dies. [Online]. Available at: https://apnews.com/article/technology-hacking-europe-cf8f8eee1adcec69bcc864f2c4308c94 [Accessed 14 August 2021].
+
+**Weekly Skills Matrix New Knowledge Gained**
+
+- [x] Cause of Information Systems Failure
+- [X] Fact that Figher Jets Have USB Ports 
