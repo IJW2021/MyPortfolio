@@ -56,3 +56,8 @@ OpenStreetMap contributors. (2017). Planet dump retrieved from https://planet.os
 
 
 Press Associated. (2020). German hospital hacked, patient taken to another city dies. [Online]. Available at: https://apnews.com/article/technology-hacking-europe-cf8f8eee1adcec69bcc864f2c4308c94 [Accessed 14 August 2021].
+
+**Weekly Skills Matrix New Knowledge Gained**
+
+- [x] Cause of Information Systems Failure
+- [X] Fact that Figher Jets Have USB Ports 
