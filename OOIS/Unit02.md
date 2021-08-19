@@ -38,3 +38,7 @@ Ian
 Gren, L. and Antinyan, V. (2017). On the Relation Between Unit Testing and Code Quality. In: August 2017. [Online]. Available at: doi:10.1109/SEAA.2017.36.
 Shallahamer, C. A. PREDICTING COMPUTING SYSTEM CAPACITY AND THROUGHPUT.
 
+**Weekly Skills Matrix New Knowledge Gained**
+
+- [x] Even Greater understanding of the Cause of IT Systems Failures ☹️
+- [X] 
