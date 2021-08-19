@@ -8,11 +8,14 @@ The First Week has mostly been looking at what information systems are and the d
 
 **What is Data**
 
-Data	Facts and Figures
-Structure	How The Data is presented
-Context	Prior Understanding of the data
-Meaning	Data in the correct structure placed within context
-Knowledge	The application of information to a solution
+| Item            | Description |
+| :--             | :--
+| Data            | Facts and Figures | 
+| Structure	      | How The Data is presented |
+| Context	Prior   | Understanding of the data |
+| Meaning	        | Data in the correct structure placed within context |
+| Knowledge	      | The application of information to a solution |
+
 As part of my week one work I made my first forum post looking at an example of where an information system failed for this I selected Düsseldorf Hospital as my example in my initial forum post.
 
 ## Forum Post
