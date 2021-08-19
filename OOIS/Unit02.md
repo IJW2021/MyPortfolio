@@ -1,6 +1,44 @@
 ### Week Two [week Duo]
 
-In Week two we continued to look at the reasons why Information systems fail and had the first Zoom meeting of the module where we covered a couple of cases of IT systems failures along with finding out that fighter Jets 🛩 have USB ports 😀 that was a new one. along with the meeting we contined to engage by making follow up posts to the posts made last week my posts for this week are as follows :-
+In Week two we continued to look at the reasons why Information systems fail and had the first Zoom meeting of the module where we covered a couple of cases of IT systems failures along with finding out that fighter Jets 🛩 have USB ports 😀 that was a new one. along with the meeting 
+
+**Key Weekly Learning**
+
+### Part of a Information System
+
+A Information System is made up of 5 parts
+
+1. Hardware
+2. Software
+3. Data
+4. People
+5. Process
+
+| Name | Description |
+| :--  | :--         |
+| Technology | The application of scientific knowledge for practical purposes |
+| Hardware   | Hardware is the part of an information system you can touch    |
+| Software   | a set of instructions that tells the hardware what to do       |
+| Data       | a collection of facts                                          |
+| Process    | a series of steps undertaken to achieve a desired outcome or goal |
+
+(Bourgeois, D. (2014) Chapter 1)
+
+### The Role of Information Systems
+
+- Take data and turn it into information, and then transform that into organizational knowledge
+
+| ERA | Hardware | Operating System | Applications |
+| :-- | :--      | :--              | :--          |
+| Mainframe 1970s | Terminals connected to mainframe computer. | Time-sharing (TSO) on MVS | Custom-written MRP software |
+| PC Mid 1980s    | IBM PC Compatible                          | MS DOS                    | WordPerfect / Lotus 123     |
+| Client Server Late 80s / Early 90s | IBM PC clone on Novell Netware | Windows for Workgroups | Microsoft Word & Microsoft Excel |
+| WWW Mid 90s / Eary 2000s | IBM PC Clone | Windows XP | Micosoft Office / Internet Explorer |
+| Web 2.0 Mid 2000 to present | Laptop conencted to WI-Fi | Windows 7 | Microsoft office / Firefox |
+| Today and beyond | Apple IPAD | IOS | Mobile Apps |
+
+
+we contined to engage by making follow up posts to the posts made last week my posts for this week are as follows :-
 
 ### Week Two Forum Posts
 
