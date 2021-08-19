@@ -38,7 +38,7 @@ References
 
 Adams Douglas. (2000). Mostly Harmless (Hitchhiker’s Guide to the Galaxy).
 
-Busvine Douglas and Kaeckenhoff Tom. (2021). Prosecutors open homicide case after hacker attack on German hospital | Reuters. [Online]. Available at: https://www.reuters.com/article/idUSKBN26926X [Accessed 12 August 2021].
+Busvine Douglas and Kaeckenhoff Tom. (2021). Prosecutors open homicide case after hacker attack on German hospital Reuters. [Online]. Available at: https://www.reuters.com/article/idUSKBN26926X [Accessed 12 August 2021].
 
 Citrix. (2019). CVE-2019-19781 - Vulnerability in Citrix Application Delivery Controller, Citrix Gateway, and Citrix SD-WAN WANOP appliance. [Online]. Available at: https://support.citrix.com/article/CTX267027 [Accessed 12 August 2021].
 
