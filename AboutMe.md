@@ -12,6 +12,7 @@ From an early age I’ve always been deeply interested in science and engineerin
 | Biology           | A Level | Portsmouth College         | 1996 - 1998 |
 
 # 🏆 Certifications 
+
 | Qualification                 | Awarding Body | Year    |
 | :-----------                  | :---------    | :------ |
 | A+                            | CompTIA       | 2001    |
