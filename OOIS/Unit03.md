@@ -4,4 +4,5 @@
 
 ### Week Three [tres sabbati]
 
+**SuperMarket Data Diagram**
 ![SuperMarket](Image/SuperMarket.svg)
