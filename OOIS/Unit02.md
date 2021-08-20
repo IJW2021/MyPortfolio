@@ -4,7 +4,7 @@
 
 ### Week Two [week Duo]
 
-In Week two we continued to look at the reasons why Information systems fail and had the first Zoom meeting of the module where we covered a couple of cases of IT systems failures along with finding out that fighter Jets 🛩 have USB ports 😀 that was a new one. along with the meeting 
+In Week two we continued to look at the reasons why Information systems fail and had the first Zoom meeting of the module where we covered a couple of cases of IT systems failures along with finding out that fighter Jets 🛩 have USB ports 😀 that was a new one. 
 
 **Key Weekly Learning**
 
@@ -42,7 +42,7 @@ A Information System is made up of 5 parts
 | Today and beyond | Apple IPAD | IOS | Mobile Apps |
 
 
-we contined to engage by making follow up posts to the posts made last week my posts for this week are as follows :-
+ along with the meeting I continued to engage by making follow up posts to the posts made last week my posts for this week are as follows :-
 
 ### Week Two Forum Posts
 
