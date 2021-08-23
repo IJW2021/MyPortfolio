@@ -17,3 +17,13 @@ Also had a go at the excerise and produced a Diagram for a SuperMarket
 
 **SuperMarket Data Diagram**
 ![SuperMarket](Image/SuperMarket.svg)
+
+**Weekly Skills Matrix New Knowledge Gained**
+
+- [x] Python and Python OO
+- [X] Data Diagrams
+
+**Happiness Level**
+
+😀😀😀😀
+
