@@ -82,5 +82,9 @@ Shallahamer, C. A. PREDICTING COMPUTING SYSTEM CAPACITY AND THROUGHPUT.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] Even Greater understanding of the Cause of IT Systems Failures ☹️
-- [X] Introduction to UML
+- [x] Greater understanding of the Cause of IT Systems Failures ☹️
+- [X] Introduction to UML 
+
+**Happiness Level**
+
+😀😀😀
