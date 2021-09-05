@@ -23,7 +23,7 @@ class Person:
 Person = Person('John', 23,'Male')
 ```
 
-Aslo learned about the del keyword and the ability to delete a attribute from a class instance which is very cool 👍 as it allows class instances to be customised depending on the use case we want to put them to
+Aslo learned about the del keyword and the ability to delete a attribute from a class instance which is very cool 👍 as it allows class instances to be customised depending on the use case we want to put them to also learned about the importance of the self keyword and the use of staticmethod decorators.
 
 ```python
 
@@ -44,3 +44,13 @@ print(Person.__dict__)
 {'name': 'John', 'age': 23, 'gender': 'Male'}
 {'name': 'John', 'age': 23}
 ```
+
+**Weekly Skills Matrix New Knowledge Gained**
+
+- [x] Python Classes and the init method
+- [X] Python del method 
+- [X] self keyword when creating classes
+
+**Happiness Level**
+
+😀😀😀😀
