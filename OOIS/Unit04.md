@@ -9,3 +9,16 @@
 This week has been a python week leaning new concepts in OO design and relearning some OO design patterns from my C and C++ Days losts of creating classes class constructors using the magic __init__ method and learing more about inheretance quite a lot to take in and new ways of thinking about how to approach a problem. The OO approach opens up new ways of coding solutions to problems so in that regard enjoying the new content though having done non OO for quite a while need to unlearn some bad habits that dont fit in with the way of doinf things in the OO word
 
 **Python OO Examples**
+
+The Classic Person class 
+
+```python
+class Person:
+    def __init__(self, name, age, gender):
+        self.name = name
+        self.age = age
+        self.gender = gender
+
+
+Person = Person('John', 23,'Male')
+```
