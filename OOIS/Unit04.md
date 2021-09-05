@@ -22,3 +22,25 @@ class Person:
 
 Person = Person('John', 23,'Male')
 ```
+
+Aslo learned about the del keyword and the ability to delete a attribute from a class instance which is very cool 👍 as it allows class instances to be customised depending on the use case we want to put them to
+
+```python
+
+class Person:
+    def __init__(self, name, age, gender):
+        self.name = name
+        self.age = age
+        self.gender = gender
+
+
+Person = Person('John', 23,'Male')
+print(Person.__dict__)
+del Person.gender
+print(Person.__dict__)
+```
+
+```python
+{'name': 'John', 'age': 23, 'gender': 'Male'}
+{'name': 'John', 'age': 23}
+```
