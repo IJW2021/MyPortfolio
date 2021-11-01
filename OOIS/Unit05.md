@@ -4,4 +4,21 @@
 
 ### Week Five [Hebdomada Quinque]
 
-This week has been a week looking at UML both at the design level and by creating a class diagram for supermarket we created in unit3
+This week I was looking at UML and in particular class diagrams I think after some practice the concept of UML and diagrams is beginning to click and the diagram, I produces for this week’s exercise Week 5 Diagrams I was quite happy with how it turned out. Having produced diagrams in colour and B&W still undecided if adding colour aids or distracts from the information the diagram is suppose to convey. Will investigate further before I submit the first piece of accessed work. Still feeling positive on how the module is going though am beginning to wonder why there are so may different types of UML diagrams have also been looking at the different options for software to be used to create diagrams think I am going with draw.io as this appears to meet my needs outlook is still positive 
+
+
+
+**Weekly Skills Matrix New Knowledge Gained**
+
+- [x] UML Diagram Types
+- [X] Software Tools For UML
+
+
+**Artifacts**
+
+![Logo](Image/WK5.png)
+
+**Happiness Level**
+
+😀😀😀😀
+
