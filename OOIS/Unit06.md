@@ -9,7 +9,7 @@ More UML this week have also been sick so positivity for this week was lacking t
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] All the different UML Diagram Types
-- [X] Introduction to UML 
+- [X] Python Constructors and destructors
 
 **Happiness Level**
 
