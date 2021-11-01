@@ -10,6 +10,7 @@ This Week consisted of looking at Flask and webservices learnt a lot and wish I 
 
 - [x] Flask
 - [X] Web Services (REST)
+- [X] Flask Session Tokens
 
 **Happiness Level**
 
