@@ -1,3 +1,4 @@
+![Logo](Images/PCOM7E.png)
 **Network and Information Security Management**
 
 This module teaches us about network , network models and network security in this module we will cover the folloing areas 
