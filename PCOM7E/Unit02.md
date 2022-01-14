@@ -37,3 +37,12 @@ References
 Multi-factor authentication - Wikipedia. [Online]. Available at: https://en.wikipedia.org/wiki/Multi-factor_authentication [Accessed 14 November 2021b].
 
 Security Quotes. [Online]. Available at: https://www.nativeintelligence.com/resources/security-quotes/ [Accessed 14 November 2021c].
+
+**Weekly Skills Matrix New Knowledge Gained**
+
+- [x] Different Types of Security Issues
+- [X] Greater understanding that security can be hard
+
+**Happiness Level**
+
+😀😀😀😀
