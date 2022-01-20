@@ -1,6 +1,8 @@
 ![Logo](Images/PCOM7E.png)
 [1](/MyPortfolio/PCOM7E/Unit01.html) | [2](/MyPortfolio/PCOM7E/Unit02.html) | [3](/MyPortfolio/PCOM7E/Unit03.html) | [4](/MyPortfolio/PCOM7E/Unit04.html) | [5](/MyPortfolio/PCOM7E/Unit05.html) | [6](/MyPortfolio/PCOM7E/Unit06.html) | [7](/MyPortfolio/PCOM7E/Unit07.html) | [8](/MyPortfolio/PCOM7E/Unit08.html) | [9](/MyPortfolio/PCOM7E/Unit09.html) | [10](/MyPortfolio/PCOM7E/Unit10.html) | [11](/MyPortfolio/PCOM7E/Unit11.html) | [12](/MyPortfolio/PCOM7E/Unit12.html)
 ### Week Two [week Duo]
+As this was the first time I had done IT security this week was spent doing quite a bit of backgound reading around the topic along with building a pentest PC that I could user for the upcoming project work.
+
 ### Forum Post ###
 The healthcare arena is an area where traditionally the security of devices and services is often not the primary concern security often came as an afterthought when designing and implementing medical network enabled devices. This approach however no longer works in a modern world with IOT connected devices, combined with big data and cloud services. While Security is only one aspect of a system / application it is a vitally important part. But once a system is a connected system then as security researcher Dan farmer said
 
