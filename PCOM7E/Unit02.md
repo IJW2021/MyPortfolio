@@ -3,6 +3,8 @@
 ### Week Two [week Duo]
 As this was the first time I had done IT security this week was spent doing quite a bit of backgound reading around the topic along with building a pentest PC that I could user for the upcoming project work. Looking forward to picking up some new skills in the area of IT and application security.
 
+We aslo started to look at what causes a threat and this was a Interesting debate as security is hard to do properly and to be effective needs to be baked into the design of hardware and software from conception to final delivery. This is especially true in the healthcare realm that we looked at where security problems could have impacts far greater then IT. The forum post I made on the subject is shown below though now looking back i would have approached the problem in a slighty more measured way but at the time I made the post 
+
 ### Forum Post ###
 The healthcare arena is an area where traditionally the security of devices and services is often not the primary concern security often came as an afterthought when designing and implementing medical network enabled devices. This approach however no longer works in a modern world with IOT connected devices, combined with big data and cloud services. While Security is only one aspect of a system / application it is a vitally important part. But once a system is a connected system then as security researcher Dan farmer said
 
