@@ -4,6 +4,15 @@
 During This week I started by carrying out some work with the  Kali Linux security toolset so I could get a better understanding of the tools that I will be using for the network discovery and reconnaissance phase of our team project. I had used some of these tools in the past and during some CTF events I had attended but it was good to learn some new tools while getting a refesher in some of the classic tools that make up the pentesters toolkit. For this and due to having access to a VMWARE server I also built a number of VMs (Windows , Linux , Solaris) in order to do some testing with the tools. Liking Linux pretty similar to OSX that I use but Solaris is a pain to setup on a VM.So far quite happy with how the current module is going as it has a good mix of pratical and theory. 
 
 Also Started to put together a userful websites and resoucres spreadsheet that we could use during the pentest phase of the project to enable anyone in the team who comes across some useful information to share with the other members of the team.
+**Weekly Skills Matrix New Knowledge Gained**
+
+- [x] Security Tooling
+- [X] How to Build a VM using VMWARE Vsphere and Microsoft Azure 
+
+**Happiness Level**
+
+😀😀😀😀
+
 
 
 
