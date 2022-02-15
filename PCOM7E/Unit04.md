@@ -5,14 +5,22 @@ Really intresting week Looking at TCP/IP and the OSI stack being old enough to h
 
 OSI MODEL
 --
-| 7  | Application  |
+| 7  | Application|
 |---|---|
-|  6 | Presentation   |
-|  5 | Session   |
-|  4 | Transport  |
-|  3 | Network  |
-|  2 | Data Link  |
-|  1 |  Physical |
+|  6 | Presentation|
+|  5 | Session|
+|  4 | Transport|
+|  3 | Network|
+|  2 | Data Link|
+|  1 | Physical|
+
+TCP MODEL
+--
+| 4 |Application|
+|---|---|
+| 3 | Transport|
+| 2 | Internet|
+| 1 | Network Access|
 
 This week we contunued our team work on the first phase of the project along with also putting some building blocks in place for phase two which included for this week leaning how to use NMAP from the command line rather then using the more limited GUI and also playing around with the DirBuster and GoBuster tools used to identify public folders that are accessible on a web server.
 
