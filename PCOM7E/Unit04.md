@@ -14,11 +14,12 @@ OSI MODEL
 |  2 | Data Link  |
 |  1 |  Physical |
 
-Also Started to put together a userful websites and resoucres spreadsheet that we could use during the pentest phase of the project to enable anyone in the team who comes across some useful information to share with the other members of the team.
+This week we contunued our team work on the first phase of the project along with also putting some building blocks in place for phase two which included for this week leaning how to use NMAP from the command line rather then using the more limited GUI and also playing around with the DirBuster and GoBuster tools used to identify public folders that are accessible on a web server.
+
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] Security Tooling
-- [X] How to Build a VM using VMWARE Vsphere and Microsoft Azure 
+- [x] Security Tooling (NMAP , DirBuster , GoBuster)
+- [X] TCP/IP and OSI Model 
 
 **Happiness Level**
 
