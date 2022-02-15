@@ -24,9 +24,12 @@ TCP MODEL
 
 This week we contunued our team work on the first phase of the project along with also putting some building blocks in place for phase two which included for this week leaning how to use NMAP from the command line rather then using the more limited GUI and also playing around with the DirBuster and GoBuster tools used to identify public folders that are accessible on a web server.
 
+This week I also did some learning on the key TCP/IP tools to be found on a device (Ping , nslookup , dig , traceroute) though these tools date back to the beginning of the network age they are still very useful tools which is why they remain in use today. 
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Security Tooling (NMAP , DirBuster , GoBuster)
+- [X] Nerwork Tooling (Ping , nslookup , Dig, Traceroute)
 - [X] TCP/IP and OSI Model 
 
 **Happiness Level**
