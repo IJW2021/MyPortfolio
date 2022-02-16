@@ -18,3 +18,13 @@ We are going to try and divide the project into the following stages to align wi
 I have also been looking in more detail at TCP/IP networking using wirehark and tcpdump to look at the data at the packet level while not 100% happy with my understanding at the moment was interesting to see the data being trasmitted by our devices and how this can potentialy be captured and analysed. 
 ### TCP Packet Structure
 ![Logo](Images/TCP.png)
+
+**Weekly Skills Matrix New Knowledge Gained**
+
+- [x] Project Planning
+- [X] Nerwork Packet Capture (Wireshark PCAP file)
+- [X] TCP/IP Packet Structure
+
+**Happiness Level**
+
+😀😀😀
