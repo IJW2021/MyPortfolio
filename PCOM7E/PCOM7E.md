@@ -24,6 +24,9 @@ This module teaches us about network , network models and network security in th
 - [Unit 11](/MyPortfolio/PCOM7E/Unit11.html)
 - [Unit 12](/MyPortfolio/PCOM7E/Unit12.html)
 
-**Meeting Notes**
+**Meeting Notes 📝**
 
 - [Meeting 01](/MyPortfolio/PCOM7E/Notes01.html)
+
+**Presentations 📄**
+- [Seminar 1](/MyPortfolio/PCOM7E/Seminar_1.pptx)
