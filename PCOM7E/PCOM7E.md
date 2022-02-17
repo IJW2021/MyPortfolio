@@ -31,5 +31,5 @@ This module teaches us about network , network models and network security in th
 **Presentations 📄**
 - [Seminar 1](/MyPortfolio/PCOM7E/Seminar_1.pptx)
 
-**Scans**
+**Scans 💻**
 - [SSL Subdomains](/MyPortfolio/PCOM7E/SSL.html)
