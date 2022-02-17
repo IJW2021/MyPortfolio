@@ -27,12 +27,12 @@ Which returned the following doamins that my team are going to investigate furth
 - DNS:www.daedalus-systems.tech-sourcery.co.uk
 
 
-
+Looking forward I want to do some reading to see how / if the UKs version of GDPR differs from the European version and I want to investigate the URLS we discovered this week to see if that allows for access to our target. 
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] Security Tooling (Metasploit , Fuzzers , Nessus)
-- [X] Tool Evaluation 
+- [X] Command Line Tools (GREP, OPENSSL)
+- [X] GDPR 
 
 **Happiness Level**
 
