@@ -41,5 +41,5 @@ This module teaches us about network , network models and network security in th
 - [SQL MAP ](/MyPortfolio/PCOM7E/SQLMAP.html)
 - [NMAP ](/MyPortfolio/PCOM7E/NMAP.html)
 
-**Deliverable's **
-- [SSL Subdomains](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf)
+**Deliverable's**
+- [Executive Summary](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf)
