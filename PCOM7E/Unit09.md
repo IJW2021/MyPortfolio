@@ -40,7 +40,7 @@ Feb 18 09:19:13 Ians-MacBook-Pro Installer Progress[128]: Quitting Progress App 
 
 ## Example Syslog (Windows) ##
 
-![Logo](Images/MMC.png)
+![Logo](Images/MMC.PNG)
 
 **Weekly Skills Matrix New Knowledge Gained**
 
