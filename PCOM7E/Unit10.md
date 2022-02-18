@@ -15,3 +15,5 @@ We have in place a process to assess the likely risk to individuals as a result 
 - We know what information we must give the ICO about a breach.
 - We know what information about a breach we must provide to individuals, and that we should provide advice to help them protect themselves from its effects.
 - We document all breaches, even if they don’t all need to be reported
+
+The Second half of the week was spent researching our case study and preparing some slides
