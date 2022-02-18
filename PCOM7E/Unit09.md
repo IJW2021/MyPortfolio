@@ -38,14 +38,18 @@ Feb 18 09:19:12 Ians-MacBook-Pro Installer Progress[128]: Connected processes {
 Feb 18 09:19:12 Ians-MacBook-Pro Installer Progress[128]: Start quit timer, will attempt to quit in 1 second(s) at 09:19:13 Feb 18 09:19:13 Ians-MacBook-Pro Installer Progress[128]: Quitting because there are no phases. There are no connected processes. The UI is not showing.
 Feb 18 09:19:13 Ians-MacBook-Pro Installer Progress[128]: Quitting Progress App Feb 18 09:19:13 Ians-MacBook-Pro Installer Progress[128]: Showing the cursor in Progress UI Feb 18 09:19:13 Ians-MacBook-Pro Installer Progress[128]: GUI session is logged in Feb 18 09:19:13 Ians-MacBook-Pro Installer Progress[128]: Order Out CG Shield Window Feb 18 09:19:13 Ians-MacBook-Pro Installer Progress[128]: Setting window alpha values to 0.0 Feb 18 09:19:13 Ians-MacBook-Pro Installer Progress[128]: Showing the cursor in Progress UI Feb 18 09:19:13 Ians-MacBook-Pro loginwindow[172]: The connection was interrupted, calling interruption handlers
 
-## Example Syslog (Windows) ##
+## Example Event Viewer (Windows) ##
 
 ![Logo](Images/MMC.PNG)
 
+Looking forward focusing on the final delivery of the project and trying to absorb as much of the content of the module before the end of the module.
+
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] Different Types of Security Issues
-- [X] Greater understanding that security can be hard
+- [x] Logging (Why we Log)
+- [X] Information We Capture
+- [X] Syslog
+- [X] Windows Event Viewer
 
 **Happiness Level**
 
