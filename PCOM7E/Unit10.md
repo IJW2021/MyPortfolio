@@ -19,3 +19,12 @@ We have in place a process to assess the likely risk to individuals as a result 
 The Second half of the week was spent researching our case study and preparing some slides to present this was actually quite enjoyable and I think it proved to myself that I could talk about the subject and actually sound like i knew what i was talking about. Having been on both sides of a data breech and the post data breech work also I think gave me a good insight when talking about the data breech.
 
 Next week the plan is to refine the submission before the final submission date and to cut the number of words down to match the limit as currenty our introduction and background section is over the 2000 word limit so we will need to review and cut out sections that dont add value to the final report.
+
+**Weekly Skills Matrix New Knowledge Gained**
+
+- [x] Data Breeches
+- [X] Data Breech Responses  
+
+**Happiness Level**
+
+😀😀
