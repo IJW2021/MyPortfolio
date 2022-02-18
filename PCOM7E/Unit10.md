@@ -14,6 +14,8 @@ We have in place a process to assess the likely risk to individuals as a result 
 - We have a process to notify the ICO of a breach within 72 hours of becoming aware of it, even if we do not have all the details yet.
 - We know what information we must give the ICO about a breach.
 - We know what information about a breach we must provide to individuals, and that we should provide advice to help them protect themselves from its effects.
-- We document all breaches, even if they don’t all need to be reported
+- We document all breaches, even if they don’t all need to be reported (ICO https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/personal-data-breaches/)
 
-The Second half of the week was spent researching our case study and preparing some slides
+The Second half of the week was spent researching our case study and preparing some slides to present this was actually quite enjoyable and I think it proved to myself that I could talk about the subject and actually sound like i knew what i was talking about. Having been on both sides of a data breech and the post data breech work also I think gave me a good insight when talking about the data breech.
+
+Next week the plan is to refine the submission before the final submission date and to cut the number of words down to match the limit as currenty our introduction and background section is over the 2000 word limit so we will need to review and cut out sections that dont add value to the final report.
