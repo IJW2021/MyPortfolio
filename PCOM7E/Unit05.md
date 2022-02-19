@@ -20,6 +20,13 @@ I have also been looking in more detail at TCP/IP networking using wirehark and 
 ![Logo](Images/TCP.png)
 
 **TCP DUMP**
+
+Example output from the command line version of TCP dump showing packet capture from the en0 (Wireless) adapter
+
+```console
+sudo tcpdump -vv -i en0
+```
+
 ![Logo](Images/TCPDUMP.png)
 
 **Weekly Skills Matrix New Knowledge Gained**
