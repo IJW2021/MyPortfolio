@@ -32,7 +32,7 @@ sudo tcpdump -vv -i en0
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Project Planning
-- [X] Nerwork Packet Capture (Wireshark PCAP file)
+- [X] Network Packet Capture (Wireshark , TCPDUMP and PCAP files)
 - [X] TCP/IP Packet Structure
 
 **Happiness Level**
