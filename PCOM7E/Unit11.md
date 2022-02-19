@@ -44,7 +44,7 @@ In the case of streaming media services such as Video streaming (Netflix, Amazon
 3. Scalable the solution allows for caching, load balancing and has been designed from the ground up to cater for multicast traffic this can be seen by how content is routed through Content Routers (CR)
 
  CCN Routing
-
+ ![Routing](Images/Interest-routing-in-CCN-networks.png)
 ResearchGate GmbH (2021) https://www.researchgate.net/figure/Interest-routing-in-CCN-networks_fig1_323936795 Accessed [18.02.2022]
 
 References
@@ -56,7 +56,6 @@ Networking named content
 http://dl.acm.org/citation.cfm?id=1658941&CFID=515870947&CFTOKEN=33230744 [Accessed 18.02.2022]
 
 Routing in CCN
-
 https://www.researchgate.net/figure/Interest-routing-in-CCN-networks_fig1_323936795 [Accessed 18.02.2022]
 
 Statista https://www.statista.com/statistics/271735/internet-traffic-share-by-category-worldwide/ (2018) [Accessed 18.02.2022]
