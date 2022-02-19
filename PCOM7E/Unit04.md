@@ -5,19 +5,21 @@ Really intresting week Looking at TCP/IP and the OSI stack being old enough to h
 
 OSI MODEL
 --
-| 7  | Application|
+|Layer|Description|
 |---|---|
-|  6 | Presentation|
-|  5 | Session|
-|  4 | Transport|
-|  3 | Network|
-|  2 | Data Link|
-|  1 | Physical|
+| 7 | Application|
+| 6 | Presentation|
+| 5 | Session|
+| 4 | Transport|
+| 3 | Network|
+| 2 | Data Link|
+| 1 | Physical|
 
 TCP MODEL
 --
-| 4 |Application|
+|Layer|Description|
 |---|---|
+| 4 |Application|
 | 3 | Transport|
 | 2 | Internet|
 | 1 | Network Access|
