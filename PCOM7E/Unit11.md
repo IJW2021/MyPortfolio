@@ -18,37 +18,15 @@ With a current worldwide estimated population of 7.8 billion, approximately 4.93
 
 Along with the increase in volume and amount of internet traffic the content of the internet has changed from being composed of textual information to now being composed of
 
-Type
-
-Percentage Traffic
-
-Video
-
-57.7
-
-Web
-
-17
-
-Gaming
-
-7.8
-
-Social Media
-
-5.1
-
-Content Market Places
-
-4.6
-
-File Sharing
-
-2.8
-
-Audio Streaming
-
-1
+| Type    | Percentage Traffic  |
+|---      |---                  |
+| Video   |  57.7               |
+| Web     |  17                 |
+| Gaming  |  7.8                |
+| Social Media  |  5.1          |
+| Content MarketPlaces | 4.6    |
+| File Sharing  | 2.8           |
+| Audio Streaming  | 1          |
 
 Statista (2018)
 
