@@ -36,10 +36,11 @@ This module teaches us about network , network models and network security in th
 - [Seminar 3](/MyPortfolio/PCOM7E/Seminar3_Team1.pptx)
 - [Data Breach Case Study](/MyPortfolio/blob/gh-pages/PCOM7E/Data%20Breach%20Case%20Study.pptx)
 
-**Scans 💻**
+**Scans and Notes 💻**
 - [SSL Subdomains](/MyPortfolio/PCOM7E/SSL.html)
 - [SQL MAP ](/MyPortfolio/PCOM7E/SQLMAP.html)
 - [NMAP ](/MyPortfolio/PCOM7E/NMAP.html)
+- [KnockPy ](/MyPortfolio/PCOM7E/Knockpy.html)
 
 **Deliverable's**
 - [Executive Summary](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf)
