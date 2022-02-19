@@ -12,7 +12,7 @@ The tool requires the following python libraries to operate
 - beautifulsoup4 (https://pypi.org/project/beautifulsoup4/)
 - colorama (https://github.com/tartley/colorama)
 
-Usage 
+## Usage ##
 
 ![KP](Images/KP1.png)
 
