@@ -1,3 +1,4 @@
+![Logo](Images/Meeting.png)
 # 2 December 2021 / 6.30pm GMT #
 ## Attendees ##
 Alice, Ian, Lukman    Apologies: Aidan
