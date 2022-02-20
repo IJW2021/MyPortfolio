@@ -29,6 +29,10 @@ sudo tcpdump -vv -i en0
 
 ![Logo](Images/TCPDUMP.png)
 
+## Observation ##
+
+I appear to have graviated towards being the technicial person on the team this was not itentional but probably because I created some initial tests first as a way to learn the tooling for myself but I am not against the role being asked of me as I have always been a person who like to understand how something works. But I am concerned / mindful that I dont want to take the chance away from another member of the team. I will happily take the role along as im not affeccting other members growth.
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Project Planning
