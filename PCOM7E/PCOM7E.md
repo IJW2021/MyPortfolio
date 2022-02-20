@@ -44,4 +44,5 @@ This module teaches us about network , network models and network security in th
 - [Permutations ](/MyPortfolio/PCOM7E/Permutations.html)
 
 **Deliverable's**
+- [Design Document](/MyPortfolio/PCOM7E/Assignment1.docx)
 - [Executive Summary](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf)
