@@ -33,21 +33,16 @@
 | Creativity, Entrepreneurial, Problem solving, Initiative, Decision Making | Create, discuss and deliver strategies for sustainability for all stakeholders (company, community and environment) | Aware | No Current Proofs | 
 | Creativity, Entrepreneurial, Problem solving, Initiative, Decision Making | Able to make a decision on a complex matter/scenario using multiple sources of information |Aware | [Executive Summary](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf)| 
 
-**Technical (Data Science)**
+**Technical**
 
 | Graduate   | Skill    | Skill Level               | Evidence |
 | :--        | :--      | :--                       | :--      |
-| IT and Digital, Numeracy | Technical skills relevant to your degree programme | | | 
-| IT and Digital, Numeracy | SQL for database querying | | | 
-| IT and Digital, Numeracy | Python Programming |Proficient |[PCEP Entry Level Python Programmer](https://www.credly.com/badges/bc346695-950f-44ad-8891-31a2689c1223/public_url)| 
-| IT and Digital, Numeracy | Java Programming | | | 
-| IT and Digital, Numeracy | noSQL | | | 
-| IT and Digital, Numeracy | Scripting Language (Python) |Proficient|[PCEP Entry Level Python Programmer](https://www.credly.com/badges/bc346695-950f-44ad-8891-31a2689c1223/public_url) | 
-| IT and Digital, Numeracy | Statistical Language (R) | Aware | [IBM DataScience Tools](https://www.credly.com/badges/1368b8df-ff30-4b59-9674-f65f8b85a0d1/public_url)| 
-| IT and Digital, Numeracy | Gits - repository development and maintenance | | | 
-| IT and Digital, Numeracy | Use of conferenceing technologies and Moodle (VLE) |Proficient|Evidenced through use of the learning platform. | 
-| IT and Digital, Numeracy | Use of Word Processing tools and Spreadsheets |Proficient|[Design Document](/MyPortfolio/PCOM7E/Assignment1.docx) [Executive Summary](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf)| 
-| IT and Digital, Numeracy | Use of Word Processing tools and Spreadsheets |Proficient|[Design Document](/MyPortfolio/PCOM7E/Assignment1.docx) [Executive Summary](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf)| 
-| IT and Digital, Numeracy | Effective use of e-library resources | Aware | No Proofs At This Time| 
+| IT and Digital, Numeracy | GDPR |Aware|[GDPR Case Study](/MyPortfolio/PCOM7E/Unit10.md) [Executive Summary](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf) | 
+| IT and Digital, Numeracy | PCI DSS |Aware| [Design Document](/MyPortfolio/PCOM7E/Assignment1.docx) [Executive Summary](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf) | 
+| IT and Digital, Numeracy | STRIDE and DREAD |Aware| [Seminar 1](/MyPortfolio/PCOM7E/Seminar_1.pptx) | 
+| IT and Digital, Numeracy | Kali Linux Tools |Proficient| [Scanning Excerise](/MyPortfolio/PCOM7E/ScanningExcerise.docx) | 
+| IT and Digital, Numeracy | Vulnerabilities and Threat Detection |Proficient| [Executive Summary](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf) | 
+
+
 
 
