@@ -11,9 +11,9 @@
 | Commercial Awareness | Participate in scientific and professional organisations | Aware | No Current Proofs | 
 | Commercial Awareness | Emphasise quality, customer satisfaction and fair application of policies. | Aware | No Current Proofs | 
 | Commercial Awareness | Demonstrate familiriaty with codes of conduct for the Computing field. | Aware |[Design Document](/MyPortfolio/PCOM7E/Assignment1.docx)| 
-| Subject understanding, research, critical thinking, time management | Critically analyse complex ideas in concepts in the field of Computer Science | | | 
-| Subject understanding, research, critical thinking, time management | Recognise inconsistencies and gaps in information, and search for additional information when needed… | | | 
-| Subject understanding, research, critical thinking, time management | Explore complex real-world problems in a Computing context | | | 
+| Subject understanding, research, critical thinking, time management | Critically analyse complex ideas in concepts in the field of Computer Science |Aware |[Unit 2 Dicussion](/MyPortfolio/PCOM7E/Unit02.md) | 
+| Subject understanding, research, critical thinking, time management | Recognise inconsistencies and gaps in information, and search for additional information when needed… | Aware | [Design Document](/MyPortfolio/PCOM7E/Assignment1.docx) | 
+| Subject understanding, research, critical thinking, time management | Explore complex real-world problems in a Computing context | Proficient |  [GDPR Case Study](/MyPortfolio/PCOM7E/Unit10.md)| 
 
 **Legal and Ethical**
 
