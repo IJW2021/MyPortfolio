@@ -26,7 +26,7 @@
 
 | Graduate   | Skill    | Skill Level               | Evidence |
 | :--        | :--      | :--                       | :--      |
-| Cultural Awareness | Act in the best interest of the community at large - Social (Community) Responsibility | Trained | GDPR Case Study](/MyPortfolio/PCOM7E/Unit10.md | 
+| Cultural Awareness | Act in the best interest of the community at large - Social (Community) Responsibility | Trained | [GDPR Case Study](/MyPortfolio/PCOM7E/Unit10.md) | 
 | Teamwork, Leadership and Resilience, Time Management | Collaborate effectively in diverse teams to achieve team goals |Proficient |[Group Meeting 01](/MyPortfolio/PCOM7E/Notes01.html) [Group Meeting 02](/MyPortfolio/PCOM7E/Notes02.html) [Group Meeting 03](/MyPortfolio/PCOM7E/Notes03.html) | 
 | Teamwork, Leadership and Resilience, Time Management | Meeting team objectives using teamwork skills |Proficient |[Group Meeting 01](/MyPortfolio/PCOM7E/Notes01.html) [Group Meeting 02](/MyPortfolio/PCOM7E/Notes02.html) [Group Meeting 03](/MyPortfolio/PCOM7E/Notes03.html) | 
 | Teamwork, Leadership and Resilience, Time Management | Demonstrate skills in leadership and team building | Proficient|[Group Meeting 01](/MyPortfolio/PCOM7E/Notes01.html) [Group Meeting 02](/MyPortfolio/PCOM7E/Notes02.html) [Group Meeting 03](/MyPortfolio/PCOM7E/Notes03.html)| 
