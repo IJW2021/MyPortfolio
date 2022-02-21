@@ -2,7 +2,7 @@
 [1](/MyPortfolio/PCOM7E/Unit01.html) | [2](/MyPortfolio/PCOM7E/Unit02.html) | [3](/MyPortfolio/PCOM7E/Unit03.html) | [4](/MyPortfolio/PCOM7E/Unit04.html) | [5](/MyPortfolio/PCOM7E/Unit05.html) | [6](/MyPortfolio/PCOM7E/Unit06.html) | [7](/MyPortfolio/PCOM7E/Unit07.html) | [8](/MyPortfolio/PCOM7E/Unit08.html) | [9](/MyPortfolio/PCOM7E/Unit09.html) | [10](/MyPortfolio/PCOM7E/Unit10.html) | [11](/MyPortfolio/PCOM7E/Unit11.html) | [12](/MyPortfolio/PCOM7E/Unit12.html)
 ### Week Eight [week Hebdomada Octo]
 
-Another GDPR Week looking at the GDPR and how this releates to our website I think that GDPR is going to form a large part of our final submission as out of the box from the work we have done the site appears to be quite secure using the latest version of most of the server software but there are definitely issues on the compliance side that I feel will need to be addessed by our virtual client This week I also completed a GDPR case study looking at a real world example of when a company ended up in court over a violation of GDPR. In my case this was a irish Medical Company (River Medical)
+Another GDPR Week looking at the GDPR and how this releates to our website I think that GDPR is going to form a large part of our final submission as out of the box from the work we have done the site appears to be quite secure using the latest version of most of the server software but there are definitely issues on the compliance side that I feel will need to be addessed by our virtual client This week I also completed a GDPR case study looking at a real world example of when a company ended up in court over a violation of GDPR. In my case this was a Irish Medical Company (River Medical) https://www.rivermedical.ie
 
 ### Forum Post ###
 
