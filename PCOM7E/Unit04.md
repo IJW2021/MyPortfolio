@@ -32,7 +32,49 @@ This week we contunued our team work on the first phase of the project along wit
 
 ![Logo](Images/GOBUSTER.png)
 
-This week I also did some learning on the key TCP/IP tools to be found on a device (Ping , nslookup , dig , traceroute) though these tools date back to the beginning of the network age they are still very useful tools which is why they remain in use today. 
+This week I also did some learning on the key TCP/IP tools to be found on a device (Ping , nslookup , dig , traceroute) though these tools date back to the beginning of the network age they are still very useful tools which is why they remain in use today. I used these tools to track down the location of our webserver for one of the excerises this I enjoyed as it was part learning the tooling but also part detective work.
+
+**Location of WebServer**
+
+To Determine this there are a number of techniques that can be used but the one used here is using the lookup of IP address to geographic location for this a python script was written that takes a dictionary of IP addresses obtained from our traceroute and using the dataset provided by freegeoip returns information about the IP address based on the whois record that allows us to determine the location of the site.
+```Python
+import json
+import urllib.request
+import socket
+
+IP_Address = ["62.115.120.238", "209.124.94.237"]
+Resolver = "https://freegeoip.app/json/"
+
+try:
+    for hop, ip in enumerate(IP_Address):
+        with urllib.request.urlopen(Resolver + ip) as url:
+            data = json.loads(url.read().decode())
+            print("Hop Number:" + str(hop))
+            print("IP Address:" + data["ip"]
+            print("Country Code:" + data["country_code"])
+            print("Country Name:" + data["country_name"])
+            print("Time Zone:" + data["time_zone"])
+            print("Latitude:" + str(data["latitude"]))
+            print("Longitude:" + str(data["longitude"]) + "\n")
+
+except urllib.request.URLError:
+    print("Error Getting Data")
+
+except KeyError:
+    print("Error Getting JSON Key")
+```
+
+This Returns the Folloing
+
+| Hop Number| 0            |
+|---|---                      |
+| IP Address   | 192.168.0.1  |
+| Country Code |              |
+| Country Name |              |
+| Time Zone    |              |
+| Latitude     | 0            |
+| Longitude    | 0            |
+
 
 **References**
 
