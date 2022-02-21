@@ -19,8 +19,8 @@
 
 | Graduate   | Skill    | Skill Level               | Evidence |
 | :--        | :--      | :--                       | :--      |
-| Ethical Awareness | Comply with the letter and spirit of applicable laws | | | 
-| Ethical Awareness | Maintain privacy and confidentiality of company, co-worker and customer information | | | 
+| Ethical Awareness | Comply with the letter and spirit of applicable laws | Aware |[GDPR Case Study](/MyPortfolio/PCOM7E/Unit10.md)| 
+| Ethical Awareness | Maintain privacy and confidentiality of company, co-worker and customer information | Aware | No Current proofs| 
 
 **Social Inc TeamWork**
 
