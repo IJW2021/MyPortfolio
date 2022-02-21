@@ -226,6 +226,8 @@ From our traceroute result we can see our last hop is **68.66.247.187** which wo
 
 Imperva https://www.imperva.com/learn/application-security/osi-model/ (2021)
 
+A2Hosting https://www.a2hosting.com/about/data-center (2021)
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Security Tooling (NMAP , DirBuster , GoBuster)
