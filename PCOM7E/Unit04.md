@@ -183,6 +183,15 @@ This Returns the Folloing
 | Latitude     | 37.751       |
 | Longitude    | -97.822     |
 
+From this data our estimated traffic path is
+
+- United Kingdom
+- Netherlands
+- Sweden
+- United States
+
+The end point can be further verified by doing a whois on the last IP address in our traceroute chain
+
 **References**
 
 Imperva https://www.imperva.com/learn/application-security/osi-model/ (2021)
