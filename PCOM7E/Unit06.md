@@ -13,11 +13,13 @@ This was a mixed week spendt some time looking at the seminar preperation work t
 
 and assigining a score to each tool while initaly this sounds like a fairly easy thing to do but turned out to need a fair amount of thought in how to score the indvidual applications. But after doing the prep work I am happy with how we scored them as a team. This week I also did some more research into pentest tools there are so may different tools ranging from single tools for doing a single task to whole pentesting suites really like the metasploit suite as this brings together a complete pentest framework under one applciation while also allowing developmemt of our own exploits. Nessus is also quite a nice tool for automated scanning of both a single or a group of hosts.
 
-There have also been frustrations this week our team still have many questions about whether the content is relevant to the project we need to deliver for the module. However, I do feel for the first time since I began the module that the content I am learning in the module readings is directly releated to the design document that we need to produce for the assigmnment. 
+[Seminar 3](/MyPortfolio/PCOM7E/Seminar3_Team1.pptx)
+
+There have also been some frustrations this week our team still have many questions about the content and if it is relevant to the project we need to deliver for the module. However, I do feel for the first time since I began the module that the content I am learning in the module readings is directly releated to the design document that we need to produce for the assigmnment. 
 
 Looking to the week ahead, I see some opportunities to revisit GDPR having spent the best part of a year in my professional life dealing with this not sure how I will feel having to tread those boards again but there is no doubt that the compliance side will play and eaqual possibily even bigger then the pure security side when we come to sumbit our final report. 
 
-I plan to engage with and bring some of this background experence to the group so that we can move forward with the project.
+I plan to engage with and bring some of this background experence to the group so that we can move forward with the project to sum up the week happy but confused.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
