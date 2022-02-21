@@ -75,6 +75,23 @@ This Returns the Folloing
 | Latitude     | 0            |
 | Longitude    | 0            |
 
+| Hop Number| 1            |
+|---|---                      |
+| IP Address   | 80.0.142.213 |
+| Country Code | GB           |
+| Country Name | United Kingdom|
+| Time Zone    | Europe/London |
+| Latitude     | 52.5852       |
+| Longitude    | -0.236        |
+
+| Hop Number| 2            |
+|---|---                      |
+| IP Address   | 62.254.42.174 |
+| Country Code | GB           |
+| Country Name | United Kingdom|
+| Time Zone    | Europe/London |
+| Latitude     | 51.4964       |
+| Longitude    | -0.1224       |
 
 **References**
 
