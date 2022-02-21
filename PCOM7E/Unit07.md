@@ -27,7 +27,11 @@ Which returned the following doamins that my team are going to investigate furth
 - DNS:www.daedalus-systems.tech-sourcery.co.uk
 
 
-Looking forward I want to do some reading to see how / if the UKs version of GDPR differs from the European version and I want to investigate the URLS we discovered this week to see if that allows for access to our target. Hopfully next week will also be a good week and progress can be made on our project work.
+Looking forward I want to do some reading to see how / if the UKs version of GDPR differs from the European version and I want to investigate the URLS we discovered this week to see if that allows for access to our target. Hopfully next week will also be a good week and progress can be made on our project work. the team I feel is working well together as this is my first team based work I was at first a bit nervous on how we would intergrate as a team bur more then happy with the team I am in as everyone brings their own skills be that managing tasks and deadlines , coding and configuring of the toolchain we will be using or recording and documenting the results of or tests. To Quote Aristotle **"The whole is greater than the sum of its parts" Cohen, S. Marc (2916)** and I think this true for our team
+
+**References**
+
+Cohen, S. Marc, “Aristotle’s Metaphysics”, The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.). https://plato.stanford.edu/archives/win2016/entries/aristotle-metaphysics/
 
 **Weekly Skills Matrix New Knowledge Gained**
 
