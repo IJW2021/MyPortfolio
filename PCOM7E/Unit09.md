@@ -42,7 +42,7 @@ Feb 18 09:19:13 Ians-MacBook-Pro Installer Progress[128]: Quitting Progress App 
 
 ![Logo](Images/MMC.PNG)
 
-Looking forward focusing on the final delivery of the project and trying to absorb as much of the content of the module before the end of the module.
+Looking forward focusing on the final delivery of the project and trying to absorb as much of the content of the module before the end of the current course.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
