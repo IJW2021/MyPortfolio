@@ -45,9 +45,9 @@
 | IT and Digital, Numeracy | Scripting Language (Python) |Proficient|[PCEP Entry Level Python Programmer](https://www.credly.com/badges/bc346695-950f-44ad-8891-31a2689c1223/public_url) | 
 | IT and Digital, Numeracy | Statistical Language (R) | Aware | [IBM DataScience Tools](https://www.credly.com/badges/1368b8df-ff30-4b59-9674-f65f8b85a0d1/public_url)| 
 | IT and Digital, Numeracy | Gits - repository development and maintenance | | | 
-| IT and Digital, Numeracy | Use of conferenceing technologies and Moodle (VLE) | | | 
-| IT and Digital, Numeracy | Use of Word Processing tools and Spreadsheets | | | 
-| IT and Digital, Numeracy | Use of Word Processing tools and Spreadsheets | | | 
-| IT and Digital, Numeracy | Effective use of e-library resources | | | 
+| IT and Digital, Numeracy | Use of conferenceing technologies and Moodle (VLE) |Proficient|Evidenced through use of the learning platform. | 
+| IT and Digital, Numeracy | Use of Word Processing tools and Spreadsheets |Proficient|[Design Document](/MyPortfolio/PCOM7E/Assignment1.docx) [Executive Summary](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf)| 
+| IT and Digital, Numeracy | Use of Word Processing tools and Spreadsheets |Proficient|[Design Document](/MyPortfolio/PCOM7E/Assignment1.docx) [Executive Summary](/MyPortfolio/PCOM7E/Team1-ExecutiveSummary.pdf)| 
+| IT and Digital, Numeracy | Effective use of e-library resources | Aware | No Proofs At This Time| 
 
 
