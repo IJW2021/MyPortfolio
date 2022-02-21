@@ -43,7 +43,9 @@ I would also ensure that once a mailing list is no longer required it is removed
 
 ### References ###
 The Data Protection Commission (2017)  https://www.dataprotection.ie/en/pre-gdpr/case-studies#201713 
+
 UK ICO SPAM Emails https://ico.org.uk/your-data-matters/online/spam-emails/
+
 GDPR Official Text (2016) https://gdpr-info.eu/
 
 Looking torwards next week hopfully we can move on from GDPR back onto some more practical topics as GDPR while important in all our lives is quite a dry subject so mixing theory with some more practical topics shouls stop ✋ us burning out. On the team side I want to see if we can get together first of all to dicuss the submission but also because the other team members have good ideas and the whole is greater then the sum of its parts and the more we communicate the better I feel the final product will be. Still a bit frustrating that we have not been able to find any actual security exploits for our test site but I guess that is like the real world where not every job is one where you get to show your pentest skills but it would have been nice to show what we have been learning. 👨‍🏫  
