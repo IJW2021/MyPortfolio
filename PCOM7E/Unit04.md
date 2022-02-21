@@ -220,6 +220,8 @@ This however is not the whole story as we now know the site is hosted with a2hos
 
 From our traceroute result we can see our last hop is **68.66.247.187** which would seem to indicate that our site is actually physically hosted in the a2hosting Amsterdam datacentre. So our site is located in Amsterdam which would also tie in with GDPR regulations as hosting a site outside of Europe for a European organisation can be complex in regard to data protection and compliancy legislation. 
 
+![MAP](Images/MAP.png)
+
 **References**
 
 Imperva https://www.imperva.com/learn/application-security/osi-model/ (2021)
