@@ -192,6 +192,34 @@ From this data our estimated traffic path is
 
 The end point can be further verified by doing a whois on the last IP address in our traceroute chain
 
+![Logo](Images/WHOIS.png)
+
+This command returns the following data
+
+| OrgName  | A2 Hosting, Inc  |
+|---|---|
+| OrgId  | A2HOS |
+| Address  | P.O. Box 2998  |
+| City  | Ann Arbor  |
+| State  | MI  |
+| Postal Code  |  48106 |
+| Country | US  |
+| RegDate | 2004-03-16 |
+| Updated | 2021-10-13 |
+| Comment | http://www.a2hosting.com |
+| Ref | https://rdap.arin.net/registry/entity/A2HOS |
+
+This however is not the whole story as we now know the site is hosted with a2hosting while this provider is US based hence the US information in the Geocoded and whois record. Their core network is US based but from lookup up public information about this provider https://www.a2hosting.com/about/data-center (Anon) we can see that they have a number of datacentres located in the following areas.
+
+| Country  | City  | IP range |
+|---|---|---|
+| USA  | Michigan  | 75.98.175.109  |
+| USA  | Arizona  | 68.66.224.6  |
+| Netherlands  | Amsterdam  | 68.66.248.31  |
+| Asia  | Singapore   | 03.227.176.4  |
+
+From our traceroute result we can see our last hop is **68.66.247.187** which would seem to indicate that our site is actually physically hosted in the a2hosting Amsterdam datacentre. So our site is located in Amsterdam which would also tie in with GDPR regulations as hosting a site outside of Europe for a European organisation can be complex in regard to data protection and compliancy legislation. 
+
 **References**
 
 Imperva https://www.imperva.com/learn/application-security/osi-model/ (2021)
