@@ -12,6 +12,8 @@ The Command we used to extarct the information was
 echo | openssl s_client -showcerts -servername daedalus-systems.tech-sourcery.co.uk -connect daedalus-systems.tech-sourcery.co.uk:443 2>/dev/null | openssl x509 -inform pem -noout -text | grep -e DNS
 ```
 
+![DNS](Images/DNS.png)
+
 Which returned the following doamins that my team are going to investigate further
 
 - DNS:daedalus-systems.co.uk
