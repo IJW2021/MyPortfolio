@@ -222,11 +222,15 @@ From our traceroute result we can see our last hop is **68.66.247.187** which wo
 
 ![MAP](Images/MAP.png)
 
+Maps,Google (2021)
+
 **References**
 
 Imperva https://www.imperva.com/learn/application-security/osi-model/ (2021)
 
 A2Hosting https://www.a2hosting.com/about/data-center (2021)
+
+Google Maps (2021) Amsterdam Available from: https://www.google.com/maps/place/Amsterdam,+Netherlands/@52.3655117,4.8991048,15z/data=!4m5!3m4!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!8m2!3d52.3675734!4d4.9041389.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
