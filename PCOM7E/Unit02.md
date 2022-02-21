@@ -32,7 +32,7 @@ Employing these measures along with some form of heuristic based IDS solution an
 
 The outcome of these tests shows that proper security is hard and needs to be built into the design of hardware, software and systems from the design through to production this can also be seen by the devastating impact lack of security can have in healthcare where a security vulnerability can indeed cost lives. there is a good paper on this subject “Healthcare Data Breaches: Insights and Implications” (Seh et al., 2020)
 
-References 
+**References**
 
  Seh, A. H. et al. (2020). Healthcare Data Breaches: Insights and Implications. Healthcare, 8 (2). [Online]. Available at: doi:10.3390/HEALTHCARE8020133 [Accessed 14 November 2021].
 
