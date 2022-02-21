@@ -7,7 +7,7 @@
 | Literacy, Communication, Language Skills | Express information effectively to technical and non-technical audiences |Proficient |[Design Document](/MyPortfolio/PCOM7E/Assignment1.docx) | 
 | Literacy, Communication, Language Skills | Create documents to aid your communication (reports, diagrams, legal descriptions, plans, manuals and charts) | Proficient |[Design Document](/MyPortfolio/PCOM7E/Assignment1.docx) | 
 | Commercial Awareness | Keep current with tools of the industry, as well as emerging technology | Proficient | [Scanning Subdomains](/MyPortfolio/PCOM7E/SSL.html) [Scanning SQL MAP ](/MyPortfolio/PCOM7E/SQLMAP.html) [Scanning NMAP ](/MyPortfolio/PCOM7E/NMAP.html)| 
-| Commercial Awareness | Seek opportunites to improve and share knowledge of tools and technoology that may improve productivity | | | 
+| Commercial Awareness | Seek opportunites to improve and share knowledge of tools and technology that may improve productivity | Aware | Took part in Team Meetings and Group Seminars [Group Meeting 01](/MyPortfolio/PCOM7E/Notes01.html) [Group Meeting 02](/MyPortfolio/PCOM7E/Notes02.html) [Group Meeting 03](/MyPortfolio/PCOM7E/Notes03.html) | 
 | Commercial Awareness | Participate in scientific and professional organisations | | | 
 | Commercial Awareness | Emphasise quality, customer satisfaction and fair application of policies. | | | 
 | Commercial Awareness | Demonstrate familiriaty with codes of conduct for the Computing field. | | | 
