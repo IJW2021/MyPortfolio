@@ -22,3 +22,4 @@ From an early age I’ve always been deeply interested in science and engineerin
 | Cloud Core                    | IBM           | 2021    |
 | Docker Essentials             | IBM           | 2021    |
 | Big Data Foundations          | IBM           | 2021    |
+| Azure Fundamentals            | Microsoft     | 2021    |
