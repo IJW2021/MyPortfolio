@@ -16,3 +16,9 @@
 - [Unit 10](/MyPortfolio/SSDCS/Unit10.html)
 - [Unit 11](/MyPortfolio/SSDCS/Unit11.html)
 - [Unit 12](/MyPortfolio/SSDCS/Unit12.html)
+
+**Meeting Minutes 👨‍💻**
+
+- [Meeting 01](/MyPortfolio/SSDCS/Notes01.html)
+- [Meeting 02](/MyPortfolio/SSDCS/Notes02.html)
+- [Meeting 03](/MyPortfolio/SSDCS/Notes03.html)
