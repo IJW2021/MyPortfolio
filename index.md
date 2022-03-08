@@ -1,3 +1,4 @@
+![Logo](Images/EPORT.png)
 ### Hello My Name is Ian Wolloff and this is my E-Portfolio have a look around and find out more about me and what I have been doing.
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/IJW2021)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ian-wolloff-556228210/)
