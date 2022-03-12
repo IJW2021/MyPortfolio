@@ -16,6 +16,7 @@ What is a buffer overflow? When A program is run on an operating system the exec
 
 A Buffer overflow attack happens when more data than the size of the memory allocated for a variable or data structure is written allowing inputted data to overrun the bounds of the space allocated to store the data and therefore corrupt the heap or stack an attacker can use this flaw by crafting a custom input in the form of Shell Code in order to force the execution of arbitrary code this works by overwriting the values of the EIP (Instruction Pointer) , EBP (Base Pointer)  
 
+![BUFFER1](Images/BUFFER1.png)
 
 **Weekly Skills Matrix New Knowledge Gained**
 
