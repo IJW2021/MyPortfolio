@@ -48,8 +48,8 @@ The Second way is at the application level by ensuring that data is validated at
 ![HEX](Images/HEX.png)
 
 **UML**
-
-References
+![UML](Images/UML.png)
+**References**
 
 coder32 edition | X86 Opcode and Instruction Reference 1.12. [Online]. Available at: http://ref.x86asm.net/coder32.html [Accessed 12 March 2022a].
 
