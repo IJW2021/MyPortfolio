@@ -45,7 +45,18 @@ There are a number of ways to mitigate against buffer overflow attacks the first
 
 The Second way is at the application level by ensuring that data is validated at every step and the all user inputted data is classed as untrusted and is validated this however is not perfect if the attackers are proficient in reverse engineering and low level ASM programming they can bypass these checks by using a simple hex editor and editing the OP codes in the executable file. (Anon)
 
-```
+![HEX](Images/HEX.png)
+
+**UML**
+
+References
+
+coder32 edition | X86 Opcode and Instruction Reference 1.12. [Online]. Available at: http://ref.x86asm.net/coder32.html [Accessed 12 March 2022a].
+
+shell-storm | Shellcodes Database. [Online]. Available at: http://shell-storm.org/shellcode/ [Accessed 12 March 2022b].
+ 
+Buffer Overflows [Online]. Available at: https://owasp.org/www-community/attacks/Buffer_overflow_attack [Accessed 12 March 2022c]
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
