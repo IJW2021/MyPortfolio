@@ -4,6 +4,12 @@
 ![Logo](Images/Diary.png)
 ### Week One [una sabbatorum]
 
+Week one was a busy week as had to get back into the study mindset but was also quite a productive week in that got put into a team for the project work and I allready have a number of ideas on what 
+
+Personally I really fancy doing the NASA area of study as I think that has a good scope for what can be achieved but once I meet with the team happy to 
+
+![Logo](Images/NASA.png)
+
 **Forum Post**
 
 Buffer Overflow Attack
