@@ -25,6 +25,6 @@
 
 **Deliverable's**
 
-- [Team Contract](/MyPortfolio/SSDCS/TeamContract.doccx)
-- [Buffer Overflows Forum Post](/MyPortfolio/SSDCS/BufferOverflowAttack.doccx)
+- [Team Contract](/MyPortfolio/SSDCS/TeamContract.docx)
+- [Buffer Overflows Forum Post](/MyPortfolio/SSDCS/BufferOverflowAttack.docx)
 
