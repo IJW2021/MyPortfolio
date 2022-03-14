@@ -10,6 +10,8 @@ Personally I really fancy doing the NASA area of study as I think that has a goo
 
 ![Logo](Images/NASA.png)
 
+Once I have met with the team we will assign roles within the project the second half of the week was work comming out of the seminar both producing the UML for one of the OWSAP issues and producing the first draft of our team contract.
+
 **Forum Post**
 
 Buffer Overflow Attack
