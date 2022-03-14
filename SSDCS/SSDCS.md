@@ -24,3 +24,5 @@
 - [Meeting 03](/MyPortfolio/SSDCS/Notes03.html)
 
 **Deliverable's**
+
+- [Team Contract](/MyPortfolio/SSDCS/TeamContract.doccx)
