@@ -5,7 +5,7 @@
 
 # Forum Post
 
-Some say that people are the biggest risk of cyber security this from experience unfortunately tends to be the case people are often the week link in any security system but a lot of these risks can be overcome using the following technologies.
+Some say that people are the biggest risk of cyber security this from experience unfortunately tends to be the case people are often the weak link in any security system but a lot of these risks can be overcome using the following technologies.
 
 **Access control** restricting physical access to the underlying servers running the services this however is limited to on premise hardware with the increase in the use of SAAS, IAAS and cloud services local physical access control is no longer enough an organization also need to partner with a cloud vendor who has good datacentre security made up of the following 
 
