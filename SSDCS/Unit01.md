@@ -68,7 +68,8 @@ Buffer Overflows [Online]. Available at: https://owasp.org/www-community/attacks
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- Buffer Overflows [x] 
+- UML Refresher [x] 
 
 **Happiness Level**
+😀😀😀😀😀
