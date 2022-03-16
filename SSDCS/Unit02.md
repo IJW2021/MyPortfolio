@@ -56,7 +56,15 @@ One way that security can be implemented to prevent this type of attack and I’
 
 https://docs.oracle.com/database/121/TDPSG/GUID-72D524FF-5A86-495A-9D12-14CB13819D42.htm#TDPSG30351 [Accessed 16.03.2022]
 
+# Seminar Preperation
 
+| Stage  |  Processes |
+|---|---|
+|Ideation|   |
+|Development   |   |
+|Testing   |   |
+|Deployment   |   |
+|Operations   |   |
 
 **Weekly Skills Matrix New Knowledge Gained**
 
