@@ -52,7 +52,7 @@ One way that security can be implemented to prevent this type of attack and I’
 ![Logo](Images/Oracle.png)
 
 
-References
+**References**
 
 https://docs.oracle.com/database/121/TDPSG/GUID-72D524FF-5A86-495A-9D12-14CB13819D42.htm#TDPSG30351 [Accessed 16.03.2022]
 
