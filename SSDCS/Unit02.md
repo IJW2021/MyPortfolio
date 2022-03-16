@@ -49,7 +49,7 @@ One way that security can be implemented to prevent this type of attack and I’
 
 “Oracle Label Security (OLS) provides row-level security for your database tables. You can accomplish this by assigning one or more security labels that define the level of security you want for the data rows of the table.” (Oracle 2022)
 
-Oracle
+![Logo](Images/Oracle.png)
 
 
 References
