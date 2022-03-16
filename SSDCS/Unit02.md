@@ -41,6 +41,23 @@ Google https://cloud.google.com/docs/security/infrastructure/design [Accessed 15
 Microsoft Authentication Process https://docs.microsoft.com/en-us/windows-server/security/windows-authentication/credentials-processes-in-windows-authentication [Accessed 15.03.2022]
 Jeimy J The Human Factor in Information Security https://www.isaca.org/resources/isaca-journal/issues/2019/volume-5/the-human-factor-in-information-security [Accessed 15.03.2022]
 
+# Forum Response
+
+Nice post and an interesting topic one I feel often gets overlooked when talking about security with the external risks being the ones that generally get the attention without looking at internal risks. As someone who has been poking around in databases professionally for at least the last decade I can say that if you have access to the backend database you more than often have the keys to the kingdom and in a lot of cases you can bypass application-level security and auditing by directly editing the data in the DBMS. 
+
+One way that security can be implemented to prevent this type of attack and I’m speaking with my oracle hat on having implemented it in a commercial environment is the use of Oracle label Security (OLS) within the database as this allows sensitive data to be restricted within a database at the row level while still allowing access to the non-sensitive data Oracles Description of the technology is 
+
+“Oracle Label Security (OLS) provides row-level security for your database tables. You can accomplish this by assigning one or more security labels that define the level of security you want for the data rows of the table.” (Oracle 2022)
+
+Oracle
+
+
+References
+
+https://docs.oracle.com/database/121/TDPSG/GUID-72D524FF-5A86-495A-9D12-14CB13819D42.htm#TDPSG30351 [Accessed 16.03.2022]
+
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
