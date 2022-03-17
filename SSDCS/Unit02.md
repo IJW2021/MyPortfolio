@@ -60,10 +60,10 @@ https://docs.oracle.com/database/121/TDPSG/GUID-72D524FF-5A86-495A-9D12-14CB1381
 
 | Stage  |  Processes |
 |---|---|
-|Ideation|   |
-|Development   |   |
-|Testing   |   |
-|Deployment   |   |
+|Ideation| Build with Secirty in Mind  |
+|Development   | Use testing Tools to analyse code for secirity flaws|
+|Testing   | Full Code Coverage  |
+|Deployment   |Automate deployment |
 |Operations   |   |
 
 **Weekly Skills Matrix New Knowledge Gained**
