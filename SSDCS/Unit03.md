@@ -28,6 +28,35 @@ except ldap.INVALID_CREDENTIALS:
 
 ![Logo](Images/LDAP.png)
 
+Also as we plan to use multiple servers in our final project wrote some code to check if a server is up or down to enable smart routing of requests only to servers that are currently responding.
+
+```python
+def get_server_status(servers: list) -> list:
+    servers_status = {}
+
+    for x in servers:
+        # Get Platform as Ping command syntax differs between windows and Unix/OSX
+        if platform == "Windows":
+            if os.system(f"ping {x} -n 1") == 0:
+                servers_status[x] = 'OK'
+            else:
+                servers_status[x] = 'BAD'
+        else:
+            if os.system(f'ping -c 1 {x} > /dev/null 2>&1') == 0:
+                servers_status[x] = 'OK'
+            else:
+                servers_status[x] = 'BAD'
+
+    good_servers = [x for x, y in servers_status.items() if y == 'OK']
+    bad_servers = [x for x, y in servers_status.items() if y == 'BAD']
+
+    return [good_servers, bad_servers]
+
+
+# Example of Use
+Server_Status = get_server_status(['192.168.0.111', '192.168.0.14', '123.123.123.123'])
+```
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
