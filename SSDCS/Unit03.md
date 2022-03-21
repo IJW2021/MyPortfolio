@@ -74,6 +74,8 @@ Good Evening of work as have managed to set the first component of what will be 
 * 3x Manager Nodes
 * 3x Worker Nodes
 
+![Logo](Images/Cluster.png)
+
 All running Docker Swarm technology and setup to be HA and to also load balance
 
 Along with that also setup a reverse SSL proxy so any connections to our services will be secured with Lets Encrypt SSL Certificates
