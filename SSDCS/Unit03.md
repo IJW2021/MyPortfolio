@@ -69,6 +69,17 @@ Hacker-One Reports https://github.com/reddelexc/hackerone-reports/blob/master/to
 Calzavara Stefano (https://secgroup.dais.unive.it/wp-content/uploads/2020/03/more_server.pdf)
 OWSAP https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html [Accessed 21.03.2022]
 
+Good Evening of work as have managed to set the first component of what will be come our final solution 9 VMs to act as a HA cluster
+
+* 3x Manager Nodes
+* 3x Worker Nodes
+
+All running Docker Swarm technology and setup to be HA and to also load balance
+
+Along with that also setup a reverse SSL proxy so any connections to our services will be secured with Lets Encrypt SSL Certificates
+
+![Logo](Images/PROXY.png)
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
