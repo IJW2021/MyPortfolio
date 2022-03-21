@@ -78,7 +78,7 @@ All running Docker Swarm technology and setup to be HA and to also load balance
 
 Along with that also setup a reverse SSL proxy so any connections to our services will be secured with Lets Encrypt SSL Certificates
 
-![Logo](Images/PROXY.png)
+![Logo](Images/Proxy.png)
 
 
 **Weekly Skills Matrix New Knowledge Gained**
