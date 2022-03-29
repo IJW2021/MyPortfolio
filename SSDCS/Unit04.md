@@ -24,6 +24,19 @@ except LDAPInvalidCredentialsResult:
     
 ```
 
+**Slack Post about what language is better for a OS**
+Interesting question but a bit misleading as when we think of an operating system we think of a desktop PC or mobile device in this sense python would be a bad choice if not impossible due to python being a high level interpreted language  it would not have the low level access to carry out standard OS 
+functions
+
+* File Management
+* Network Management
+* Memory Management
+* Secondary Storage Management (HDD,SSD,NVME)
+* I/O Management
+* Security Management
+* Command Interpreter System
+
+That being said if we consider a device such as a embedded controller such as a pi pico this can run a stripped down version of python :snake:  (MicroPython) that has enough low level control to be considered a OS but C would still be the better choice as while having a far larger learning curve and being harder to do well for a OS you need the low level access to the hardware and compiled languages such as C give this along with better performance which in a real time applications such as a OS is an important consideration. Part of good system design is also using the right tools for the right situations and in this case you would use C rather than python as it gives you more options or as said by Linus Torvalds. "Nothing is better than C programming language" https://www.youtube.com/watch?v=CYvJPra7Ebk
 
 **Weekly Skills Matrix New Knowledge Gained**
 
