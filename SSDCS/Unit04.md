@@ -5,7 +5,7 @@ A new week and after some critical thought a few changed to the infastructure de
 
 **Meeting**
 
-Good meeting to dicuss project work got notification that from an initial team of 4 we are now a team of 3 or 2+1 when you take into account time difference isues but we are cracking on with our design document 📄 and are looking to use some quite interesting technology as part of that and our Drive for HA we have put using a active directory domain into our design as this will aid security and airgaps the web interface and user account info as we will only be sending NTLM hashes over the network to test this I created a simple test app using the ldap3 python library and please to say it works 
+Good meeting to dicuss project work got notification that from an initial team of 4 we are now a team of 3 or 2+1 when you take into account time difference isues but we are cracking on with our design document 📄 and are looking to use some quite interesting technology as part of that and our Drive for HA we have put using a active directory domain into our design as this will aid security and airgaps the web interface and user account info as we will only be sending NTLM hashes over the network to test this I redid my LDAP app using the ldap3 python library as this has more options then the ldap Library we were going to use and please to say it works 
 
 ```python
 from ldap3 import Server, Connection, ALL, NTLM
