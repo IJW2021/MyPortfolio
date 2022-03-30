@@ -38,6 +38,69 @@ functions
 
 That being said if we consider a device such as a embedded controller such as a pi pico this can run a stripped down version of python :snake:  (MicroPython) that has enough low level control to be considered a OS but C would still be the better choice as while having a far larger learning curve and being harder to do well for a OS you need the low level access to the hardware and compiled languages such as C give this along with better performance which in a real time applications such as a OS is an important consideration. Part of good system design is also using the right tools for the right situations and in this case you would use C rather than python as it gives you more options or as said by Linus Torvalds. "Nothing is better than C programming language" https://www.youtube.com/watch?v=CYvJPra7Ebk
 
+**Thread**
+
+Carried out the python excerise
+
+```Python
+code source: https://techmonger.github.io/55/producer-consumer-python/
+ 
+from threading import Thread
+from queue import Queue
+ 
+q = Queue()
+final_results = []
+ 
+def producer():
+    for i in range(100):
+        q.put(i)
+        
+ 
+def consumer():
+    while True:
+        number = q.get()
+        result = (number, number**2)
+        final_results.append(result)
+        q.task_done()
+   
+   
+for i in range(5):
+    t = Thread(target=consumer)
+    t.daemon = True
+    t.start()
+    
+producer()
+ 
+q.join()
+ 
+print (final_results)
+```
+
+**How is the queue data structure used to achieve the purpose of the code? **
+
+The Queue structure is acting as a stack FIFO taking the output of the threads and storing the results into a single structure 
+
+**What is the purpose of q.put(I)?**
+
+This statment takes the current value of the loop itterator (I) and places the value into the queue structure q i.e the value is pushed into the queue if for example the current queue held the value shown below
+
+| 1  | 3 | 4  | 2  |
+|---|---|---|---|
+
+and the value of I was 5 the queue would become
+
+| 1  | 3 | 4  | 2  | 5 |
+|---|---|---|---|--|
+
+
+What is achieved by q.get()?
+What functionality is provided by q.join()?
+Extend this producer-consumer code to make the producer-consumer scenario available in a secure way. What technique(s) would be appropriate to apply?
+
+
+
+Intersting excerise and shows the issues of predicting sequence and concurency when dealing with indipendent threads.
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
