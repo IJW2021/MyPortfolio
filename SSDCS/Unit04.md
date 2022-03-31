@@ -101,6 +101,41 @@ Extend this producer-consumer code to make the producer-consumer scenario availa
 
 Intersting excerise and shows the issues of predicting sequence and concurency when dealing with indipendent threads.
 
+
+```python
+from typing import Dict, List
+
+# Postcodes to test With
+POSTCODE = ['M1 1AA', 'M60 1NW', 'CR2 6XH', 'DN55 1PT', 'W1A 1HQ', 'EC1A 1BB']
+
+
+# Regex Tests
+def validate_pcode(pcode: List[str]) -> Dict[str, bool]:
+    RESULT = {}
+    for x in pcode:
+        if any(re.findall(r'\b[A-Z]{1,2}[0-9][A-Z0-9]? [0-9][ABD-HJLNP-UW-Z]{2}\b', x)):
+            RESULT[x] = True
+        else:
+            RESULT[x] = False
+    return RESULT
+
+
+# Lookup Postcodes using Public API
+def api_validate(pcode):
+    result = {}
+    headers = {'Content-type': 'application/json', 'Accept': 'text/plain'}
+    api = requests.post(url='https://api.postcodes.io/postcodes/', json={"postcodes": POSTCODE}, headers=headers)
+
+    for x in api.json()["result"]:
+        if x['result'] is not None:
+            result[x["result"]["postcode"]] = True
+    return result
+
+
+print(validate_pcode(POSTCODE))
+print(api_validate(POSTCODE))
+```
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
