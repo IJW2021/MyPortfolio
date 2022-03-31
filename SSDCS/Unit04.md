@@ -101,6 +101,9 @@ Extend this producer-consumer code to make the producer-consumer scenario availa
 
 Intersting excerise and shows the issues of predicting sequence and concurency when dealing with indipendent threads.
 
+**Regex**
+
+Also wrote some code lookign at validation of Postcodes using regex very close to my actual day job this one as its something i have written numerous times over the years as part of data migration projects and FOI requests but never in python 🐍 as I usualy write the regex at the DMBS level using Oralce regex operators so it was nice to see how python does it. And just because it was interesting wrote some code to call a public API to validate postcodes using the public API hosted at https://api.postcodes.io 
 
 ```python
 from typing import Dict, List
