@@ -41,6 +41,8 @@ supportedSASLMechanisms (4): GSSAPI; GSS-SPNEGO; EXTERNAL; DIGEST-MD5;
 
 A good second half of the week making good progress on the final proposal though I do have the tendency to go down a rabbit 🐇 hole like this week spent far too long looking at the diffent reverse proxies we could use for the solution currenty favouring HAProxy as it apepars to offer everything we need SSL Termination along with load balancing but this could well change before the project is complete I have also got the SSL side ready we are now officaly **SSD Group3 (Space Division)** 🚀🛰 looking foward to actually getting down to the implementation stage while a plan is important and is 100% required to deliver a successful project at some point the talking needs to stop and you actually need to produce something so looking forward to the next phase of the project. It Will also be nice to see if can put some of my Prince2 training to use. 
 
+**👨‍💻 Ian From the future here as predicted above I changed my mind and dropped HA Proxy in favour of NGINX running in reverse proxy mode a number of reason but mainily HA Proxy had issues when running on VMs that were also running KeepAliveD**
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - Load Balancing [x] 
