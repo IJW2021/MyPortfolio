@@ -73,8 +73,37 @@ def factorial(n):
 pip install pylint
 Run
 
+![error](Images/pytest.png)
+
  pylint 
 on pylintTest.py
+
+I had to upgrade the codio container to a newer version of python 3.10 to get pylint to work but once that was done the following results were obtained.
+
+```shell
+************* Module test
+test.py:26:0: C0304: Final newline missing (missing-final-newline)
+test.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+test.py:5:0: C0103: Constant name "shift" doesn't conform to UPPER_CASE naming style (invalid-name)
+test.py:6:9: E0602: Undefined variable 'raw_input' (undefined-variable)
+test.py:7:8: E0602: Undefined variable 'raw_input' (undefined-variable)
+test.py:8:0: C0103: Constant name "letters" doesn't conform to UPPER_CASE naming style (invalid-name)
+test.py:9:0: C0103: Constant name "encoded" doesn't conform to UPPER_CASE naming style (invalid-name)
+test.py:13:12: C0103: Constant name "encoded" doesn't conform to UPPER_CASE naming style (invalid-name)
+test.py:15:12: C0103: Constant name "x" doesn't conform to UPPER_CASE naming style (invalid-name)
+test.py:16:12: C0103: Constant name "encoded" doesn't conform to UPPER_CASE naming style (invalid-name)
+test.py:18:12: W0621: Redefining name 'letter' from outer scope (line 11) (redefined-outer-name)
+test.py:20:20: C0103: Constant name "encoded" doesn't conform to UPPER_CASE naming style (invalid-name)
+test.py:22:20: C0103: Constant name "x" doesn't conform to UPPER_CASE naming style (invalid-name)
+test.py:23:20: C0103: Constant name "encoded" doesn't conform to UPPER_CASE naming style (invalid-name)
+test.py:25:0: W0104: Statement seems to have no effect (pointless-statement)
+test.py:26:0: W0104: Statement seems to have no effect (pointless-statement)
+
+-------------------------------------------------------------------
+Your code has been rated at -2.00/10 (previous run: 5.00/10, -7.00)
+
+
+```
 
 Review each of the code errors returned. Can you correct each of the errors identified by pylint?
 
