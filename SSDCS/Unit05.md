@@ -99,16 +99,46 @@ test.py:23:20: C0103: Constant name "encoded" doesn't conform to UPPER_CASE nami
 test.py:25:0: W0104: Statement seems to have no effect (pointless-statement)
 test.py:26:0: W0104: Statement seems to have no effect (pointless-statement)
 
--------------------------------------------------------------------
-Your code has been rated at -2.00/10 (previous run: 5.00/10, -7.00)
-
-
-```
-
 Review each of the code errors returned. Can you correct each of the errors identified by pylint?
 
-Before correcting the code errors, save the pylintTest.py file with a new name (it will be needed again in the next question).
+-------------------------------------------------------------------
+Your code has been rated at -2.00/10 (previous run: 5.00/10, -7.00)
+```
 
+```python
+# SOURCE OF CODE: https://docs.pylint.org/en/1.6.0/tutorial.html
+"""
+Encode and Decode Function
+"""
+import string
+
+SHIFT = 3
+CHOICE = input("would you like to encode or decode?")
+WORD = input("Please enter text")
+LETTERS = string.ascii_letters + string.punctuation + string.digits
+ENCODED = ''
+if CHOICE == "encode":
+    for letter in WORD:
+        if letter == ' ':
+            ENCODED = ENCODED + ' '
+        else:
+            X = LETTERS.index(letter) + SHIFT
+            ENCODED = ENCODED + LETTERS[X]
+if CHOICE == "decode":
+    for letter in WORD:
+        if letter == ' ':
+            ENCODED = ENCODED + ' '
+        else:
+            X = LETTERS.index(letter) - SHIFT
+            ENCODED = ENCODED + LETTERS[X]
+
+print(ENCODED)
+```
+
+```shell
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.95/10, +1.05)
+```
 
 **Weekly Skills Matrix New Knowledge Gained**
 
