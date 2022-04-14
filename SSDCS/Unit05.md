@@ -140,6 +140,17 @@ print(ENCODED)
 Your code has been rated at 10.00/10 (previous run: 8.95/10, +1.05)
 ```
 
+Run
+
+flake8 
+on pylintTest.py
+
+
+
+Review the errors returned. In what way does this error message differ from the error message returned by pylint?
+
+Run flake8 on metricTest.py. Can you correct each of the errors returned by flake8? What amendments have you made to the code?
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - Load Balancing [x] 
