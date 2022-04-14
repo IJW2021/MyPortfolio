@@ -151,6 +151,8 @@ Review the errors returned. In what way does this error message differ from the 
 
 Run flake8 on metricTest.py. Can you correct each of the errors returned by flake8? What amendments have you made to the code?
 
+![error](Images/flake82.png)
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - Load Balancing [x] 
