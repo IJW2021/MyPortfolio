@@ -14,6 +14,15 @@ In other project news backend infrastructure build out has had both a good and n
 | Container  | Inclusion of WatchTower container to autoupgrade containers |
 
 
+New Patch released for Vmware ESXI so patched our Vmware host to the latest7.0U3D version to get the latest hotfixes
+
+```shell
+esxcli network firewall ruleset set -e true -r httpClient
+esxcli software profile update -p ESXi-7.0U3d-19482537-standard -d \
+https://hostupdate.vmware.com/software/VUM/PRODUCTION/main/vmw-depot-index.xml
+esxcli network firewall ruleset set -e false -r httpClient
+```
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
