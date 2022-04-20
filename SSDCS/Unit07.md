@@ -6,6 +6,14 @@ So our team proposal has finally been submitted 🥳 but we had to be brutal wit
 
 In other project news backend infrastructure build out has had both a good and negitive week on the good side we have now got DR and a backup solution in place so in the event of any issues we can recover our indvidual components on the not so good side a new version of the core Linux Distro we plan to use is due to be released this week so I may need to rebuild some of our platform to take advantage of the improved secrity included in the new version if nothing else it has a cool name **22.04 Jammy Jellyfish** I thought that now the final proposal has been submitted in these weekly posts I wold include some information on the build process and what has changed from our initial plan as "no plan lasts past first contact with the enemy" [Field Marshal Helmuth von Moltke] so I 100% expect that there will need to be changes to the design in the delivery phase of the project.
 
+**Weekly Change to Proposal**
+
+| Area  | Change  |
+|---|---|
+| OS  | Update to Linux 22.04  |
+| Container  | Inclusion of WatchTower container to autoupgrade containers |
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
