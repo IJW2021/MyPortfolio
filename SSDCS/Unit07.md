@@ -12,6 +12,7 @@ In other project news backend infrastructure build out has had both a good and n
 |---|---|
 | OS  | Update to Linux 22.04  |
 | Container  | Inclusion of WatchTower container to autoupgrade containers |
+| Storage | Moved Local Storage to ZFS ISCII Block Storage |
 
 
 New Patch released for Vmware ESXI so patched our Vmware host to the latest7.0U3D version to get the latest hotfixes
