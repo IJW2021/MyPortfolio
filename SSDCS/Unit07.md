@@ -23,16 +23,9 @@ esxcli software profile update -p ESXi-7.0U3d-19482537-standard -d \
 https://hostupdate.vmware.com/software/VUM/PRODUCTION/main/vmw-depot-index.xml
 esxcli network firewall ruleset set -e false -r httpClient
 ```
+So read an article about the technology NASA actually use (Debian Linux in space and RedHat for ground Side Proccessing) so inspired to have a look and see if we can migrate our technology stack to match as we want to be as close to real life as possible this may turn out to be a seamed a good idea at the time decision but better to try and fail then not to try at all.  
 
-The infrastructure build is going well as of Friday we have the folloing in place
-
-| Name  | Purpose | Notes |
-|---|---|---|
-| SVP-LINUX-DNS-001  | DNS | Primany DNS Server |
-| SVP-LINUX-DNS-002  | DNS | Secondary DNS Server |
-| SVP-LINUX-DNS-003  | DNS | Secondary DNS Server |
-| SVP-LINUX-VPN-001  | VPN | Wireguard VPN Primany |
-| SVP-LINUX-VPN-002  | VPN | Wireguard VPN Failover |
+![Logo](Images/Debian.png)
 
 **Weekly Skills Matrix New Knowledge Gained**
 
