@@ -24,6 +24,16 @@ https://hostupdate.vmware.com/software/VUM/PRODUCTION/main/vmw-depot-index.xml
 esxcli network firewall ruleset set -e false -r httpClient
 ```
 
+The infrastructure build is going well as of Friday we have the folloing in place
+
+| Name  | Purpose | Notes |
+|---|---|---|
+| SVP-LINUX-DNS-001  | DNS | Primany DNS Server |
+| SVP-LINUX-DNS-002  | DNS | Secondary DNS Server |
+| SVP-LINUX-DNS-003  | DNS | Secondary DNS Server |
+| SVP-LINUX-VPN-001  | VPN | Wireguard VPN Primany |
+| SVP-LINUX-VPN-002  | VPN | Wireguard VPN Failover |
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
