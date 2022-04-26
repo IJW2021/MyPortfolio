@@ -6,6 +6,10 @@ Positive but also slightly anoying start to the week on the postive side infrast
 
 **DR and BCP**
 
+Along with the actual delivery we need to think about our Disaster recovery position as a solutuon needs to be able to recover from unforseen events and as our domain is in a hostile environment this is important. To this regard as part of our plan is to include backup and recovery solution as the industry leader and because there is a free tier we have gone with a VEEAM based solution.
+
+![Backup](Images/backup.png)
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
