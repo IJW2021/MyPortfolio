@@ -10,6 +10,14 @@ Along with the actual delivery we need to think about our Disaster recovery posi
 
 ![Backup](Images/backup.png)
 
+Been a good week on the project gone from a idea to a proposal and now to the start of a actual product there are three main parts of our solution
+
+* User Interface
+* Data Collection
+* APIs
+
+I have been asigned the task of buildig the APIS that the rest of the solution will use while not the part of the project that has the wow factor without a strong underpinning the services that are built on top of the APIS will suffer so have been reading up on API Design the Flask Micro framework and JWT tokens. As I want to build a strong set of APIs    
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
