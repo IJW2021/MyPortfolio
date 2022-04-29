@@ -74,6 +74,30 @@ while True:
     switch.get(command[0], Shell.input_error)()
 
 ```
+**Bandit Report**
+
+```shell
+Test results:
+        No issues identified.
+
+Code scanned:
+        Total lines of code: 33
+        Total lines skipped (#nosec): 0
+
+Run metrics:
+        Total issues (by severity):
+                Undefined: 0
+                Low: 0
+                Medium: 0
+                High: 0
+        Total issues (by confidence):
+                Undefined: 0
+                Low: 0
+                Medium: 0
+                High: 0
+Files skipped (0):
+
+```
 
 Potential Security Flaws still exist 
 
