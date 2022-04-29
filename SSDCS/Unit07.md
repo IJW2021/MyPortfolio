@@ -59,14 +59,13 @@ class Shell_Prompt():
             'div': lambda: x / y,
         }.get(opp)()
 
-    intro = "Welcome! Type ? to list commands"
+ 
 
 
-Exit = False
 Shell = Shell_Prompt()
 
 
-while not Exit:
+while True:
     switch = {
         "LIST": lambda: print(Shell.print_files()),
         "ADD": lambda: print(Shell.maths("add", int(command[1]), int(command[2]))) if len(command) == 3 else Shell.input_error(),
