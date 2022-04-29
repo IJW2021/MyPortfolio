@@ -32,9 +32,8 @@ So Along with the project work I also completed the excerise of making a python 
 ```python
 import os
 
-
 class Shell_Prompt():
-    @property
+
     def shell_prompt(self):
         return '$'
 
@@ -59,15 +58,12 @@ class Shell_Prompt():
             'div': lambda: x / y,
         }.get(opp)()
 
- 
-
 
 Shell = Shell_Prompt()
 
-
 while True:
     switch = {
-        "LIST": lambda: print(Shell.print_files()),
+        "LIST": lambda: Shell.print_files(),
         "ADD": lambda: print(Shell.maths("add", int(command[1]), int(command[2]))) if len(command) == 3 else Shell.input_error(),
         "SUB": lambda: print(Shell.maths("sub", int(command[1]), int(command[2]))) if len(command) == 3 else Shell.input_error(),
         "MUL": lambda: print(Shell.maths("mul", int(command[1]), int(command[2]))) if len(command) == 3 else Shell.input_error(),
@@ -79,9 +75,14 @@ while True:
 
 ```
 
+Potential Security Flaws still exist 
+
+* Type Conversion by passing in a type the program is not expecting we could cause the  
+* Command Extension 
+
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Python Shells and use of Lamda calls  
+- [x] Debian Linux
 
 **Happiness Level**
