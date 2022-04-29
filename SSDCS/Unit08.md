@@ -16,7 +16,21 @@ Been a good week on the project gone from a idea to a proposal and now to the st
 * Data Collection
 * APIs
 
-I have been asigned the task of buildig the APIS that the rest of the solution will use while not the part of the project that has the wow factor without a strong underpinning the services that are built on top of the APIS will suffer so have been reading up on API Design the Flask Micro framework and JWT tokens. As I want to build a strong set of APIs    
+I have been asigned the task of buildig the APIS that the rest of the solution will use while not the part of the project that has the wow factor without a strong underpinning the services that are built on top of the APIS will suffer so have been reading up on API Design the Flask Micro framework and JWT tokens. As I want to build a strong set of APIs 
+
+We had a good dicussion about encryption which was quite interesting so wrote a quick ROT13 which I class more of a encoding techninque then a real encryption standard actually rember using it when talking part in usenet dicussion forums back in the eary 90s
+
+```python
+def rot13(q: str) -> str:
+    result: list = []
+    for x in q:
+        if x.isalpha():
+            shift = 13 if 'Z' < x < 'n' or x < 'N' else -13
+            result.append(chr(ord(x) + shift))
+        else:
+            result.append(x)
+    return ''.join(result)
+```
 
 **Weekly Skills Matrix New Knowledge Gained**
 
