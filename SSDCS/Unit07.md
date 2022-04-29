@@ -27,6 +27,59 @@ So read an article about the technology NASA actually use (Debian Linux in space
 
 ![Logo](Images/Debian.png)
 
+So Along with the project work I also completed the excerise of making a python shell I quite enjoyed this and went though a couple of itterations but settled on a version that made extensive use of lamda functions to fulfill and actually go beyond the spec 
+
+```python
+import os
+
+
+class Shell_Prompt():
+    @property
+    def shell_prompt(self):
+        return '$'
+
+    def list_files(self):
+        return [file for file in os.listdir(os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))) if os.path.isfile(file)]
+
+    def print_files(self):
+        for x in self.list_files():
+            print(x)
+
+    @staticmethod
+    def input_error():
+        print("Input Error")
+        return None
+
+    @staticmethod
+    def maths(opp, x, y):
+        return {
+            'add': lambda: x + y,
+            'sub': lambda: x - y,
+            'mul': lambda: x * y,
+            'div': lambda: x / y,
+        }.get(opp)()
+
+    intro = "Welcome! Type ? to list commands"
+
+
+Exit = False
+Shell = Shell_Prompt()
+
+
+while not Exit:
+    switch = {
+        "LIST": lambda: print(Shell.print_files()),
+        "ADD": lambda: print(Shell.maths("add", int(command[1]), int(command[2]))) if len(command) == 3 else Shell.input_error(),
+        "SUB": lambda: print(Shell.maths("sub", int(command[1]), int(command[2]))) if len(command) == 3 else Shell.input_error(),
+        "MUL": lambda: print(Shell.maths("mul", int(command[1]), int(command[2]))) if len(command) == 3 else Shell.input_error(),
+        "DIV": lambda: print(Shell.maths("div", int(command[1]), int(command[2]))) if len(command) == 3 else Shell.input_error(),
+        "EXIT": exit
+    }
+    command = [x for x in input(Shell.shell_prompt).split(' ')]
+    switch.get(command[0], Shell.input_error)()
+
+```
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
