@@ -32,6 +32,53 @@ def rot13(q: str) -> str:
     return ''.join(result)
 ```
 
+**GitHub Actions**
+
+So in a effort to save time during commits of my API code which is undergoing a period of rapid development setup a github action to produce and publish the docker image this also solves another issue I was having because my main development machine is a M1 Macbook based on ARM architecture people using x86 based devices were getting problems running the docker image so getting github to produce the image aslo resolves that issue.
+
+
+
+```yml
+name: Build and Publish
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build_docker_image:
+    name: Build Docker image
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Docker Buildx
+        id: buildx
+        uses: docker/setup-buildx-action@v1
+
+      - name: Login to Github Packages
+        uses: docker/login-action@v1
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GHCR_PAT }}
+  
+      - name: Build image and push to Docker Hub and GitHub Container Registry
+        uses: docker/build-push-action@v2
+        with:
+          context: ./Src/API/DB_Intergration/
+          tags: |
+            ghcr.io/uoessdgroup3/db_api:latest
+          # build on feature branches, push only on main branch
+          push: ${{ github.ref == 'refs/heads/main' }}
+
+      - name: Image digest
+        run: echo ${{ steps.docker_build.outputs.digest }}
+```
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
