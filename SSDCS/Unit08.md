@@ -87,7 +87,9 @@ The second way was to install from source keepalived so that we could have a vir
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Encryption
+- [x] YAML and Github Actions
+- [x] DBMS Config and Replication
 
 **Happiness Level**
+😀😀😀😀😀
