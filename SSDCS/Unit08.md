@@ -79,6 +79,12 @@ jobs:
         run: echo ${{ steps.docker_build.outputs.digest }}
 ```
 
+# MariaDB
+
+So after making the decison to move our DMBS to maria DB due to driver issues on postgre we now needed to make MariaDB HA to do this we used a couple of methods the first was to setup replication between MariaDB hosts this was first configured as Master -> Slave but after some thought we reconfigured MariaB to a master to master configuration that way any update on any host would be replicated. Along with this we also connfigured MariaDB to use SSL Certificates so the replication and any data access would be secured behind 256bit encryption
+
+The second way was to install from source keepalived so that we could have a virtual IP for our service to connect to but in the event of a host failure the connection our service used would failover to the second host We tested this by failing on of the hosts and it failed over to the second maria DB instance and because the data had been replicated the service remained up and did not suffer an outage. 
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
