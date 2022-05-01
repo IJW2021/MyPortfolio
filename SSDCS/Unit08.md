@@ -85,6 +85,10 @@ So after making the decison to move our DMBS to maria DB due to driver issues on
 
 The second way was to install from source keepalived so that we could have a virtual IP for our service to connect to but in the event of a host failure the connection our service used would failover to the second host We tested this by failing on of the hosts and it failed over to the second maria DB instance and because the data had been replicated the service remained up and did not suffer an outage. 
 
+You know when you have been reading too much on a subject when your searching takes you to bedding on the subject ISS bedding anyone ? 😀 but on the whole a good positive week
+
+![Logo](Images/Bedding.png)
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Encryption
