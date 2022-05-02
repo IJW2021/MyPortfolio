@@ -53,6 +53,7 @@ BitLocker Frequently Asked Questions (FAQ) | Microsoft Docs. [Online]. Available
 
 Keeping devices and software up to date - NCSC.GOV.UK. [Online]. Available at: https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/keeping-devices-and-software-up-to-date [Accessed 2 May 2022].
 
+![Logo](Images/Outh.drawio.png)
 
 **Weekly Skills Matrix New Knowledge Gained**
 
