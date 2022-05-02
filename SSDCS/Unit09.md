@@ -55,6 +55,14 @@ Keeping devices and software up to date - NCSC.GOV.UK. [Online]. Available at: h
 
 ![Logo](Images/Outh.drawio.png)
 
+## Project Update
+
+**Oxygen**
+
+Along with Pyython coding have started to populate the MariaDB with some data so that our demo look like real life so far have added in some oxygen sensors.
+
+![Logo](Images/Oxygen.png)
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
