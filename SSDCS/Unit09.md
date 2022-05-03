@@ -63,6 +63,36 @@ Along with Pyython coding have started to populate the MariaDB with some data so
 
 ![Logo](Images/Oxygen.png)
 
+**Sensor Audit**
+
+One thing I did want to include in the project was some form of tracking when a sensor goes offline / online I had a look at doing this in python and while possible It is not the best way to get the outcome we want the better way is to create a Database trigger so that when the status of a sensor chnages a new record is created in a audit table. This has the advatnage of being at the DBMS tier rather then adding additional processing work onto our application tier. the trigger I created was
+
+```sql
+create trigger tgr_sensor_audit
+    after update on sensor
+    for each row
+    BEGIN
+        IF OLD.status <> new.status THEN
+    insert into sensor_history(
+        name,
+        type,
+        location,
+        status,
+        change_date
+
+    )
+    values(
+        old.name,
+        old.type,
+        old.location,
+        new.status,
+        now()
+    );
+        END IF;
+END; 
+```
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
