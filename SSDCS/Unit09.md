@@ -92,6 +92,7 @@ create trigger tgr_sensor_audit
 END; 
 ```
 
+![Logo](Images/Trigger.png)
 
 **Weekly Skills Matrix New Knowledge Gained**
 
