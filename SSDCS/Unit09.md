@@ -94,6 +94,10 @@ END;
 
 ![Logo](Images/Trigger.png)
 
+While Coding is the fun part of any project as the talking has stopped and you now have to turn the plans into a deliverable solution that being said personaly from looking at the weekly stats I have spent more time coding this week then working so plan to take a step back in the following week as 80+ hour weeks are not healthy from a physical or mental point of view. So plan is to do some initial drafting of our readme file along with define some test cases and then come back to the coding.
+
+![Logo](Images/Coding.png)
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
