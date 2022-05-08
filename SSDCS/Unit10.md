@@ -8,6 +8,16 @@ The plan to take a step back from coding sort of worked as the amount of time co
 
 We also got some key tecnology working we have now implemented watchtower on our web hosts (Docker) that when a new image is produced via our automated Github actions new docker containers get buildt on every push to the main branch it will see that and automatically update the running container with the new version without us having to manually reconfigure the hosts. 
 
+**WatchTower Log**
+
+```shell
+time="2022-05-08T10:30:30Z" level=info msg="Found new ghcr.io/uoessdgroup3/db_api:latest image (a1bece86fe57)"
+time="2022-05-08T10:30:33Z" level=info msg="Stopping /ssdgroup3_database_api (067a01e766c1) with SIGTERM"
+time="2022-05-08T10:30:35Z" level=info msg="Creating /ssdgroup3_database_api"
+time="2022-05-08T10:30:35Z" level=info msg="Removing image dbb9d13f27c0"
+time="2022-05-08T10:30:35Z" level=info msg="Session done" Failed=0 Scanned=4 Updated=1 notify=no
+```
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
