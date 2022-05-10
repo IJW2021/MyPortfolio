@@ -73,4 +73,6 @@ https://docs.oracle.com/database/121/TDPSG/GUID-72D524FF-5A86-495A-9D12-14CB1381
 
 **Happiness Level**
 
+Quite happy at the momment the content is good and actually learning a fair bit of new content while being able to use the experence I have to add value to the dicussions we are having on the whole happy at the moment with how the module is going
+
 😀😀😀😀
