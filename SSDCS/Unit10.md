@@ -18,6 +18,21 @@ time="2022-05-08T10:30:35Z" level=info msg="Removing image dbb9d13f27c0"
 time="2022-05-08T10:30:35Z" level=info msg="Session done" Failed=0 Scanned=4 Updated=1 notify=no
 ```
 
+**TrueCrypt**
+
+Had some time to think about the TrueCrypt issue so updated my Forum Post
+
+Having had some time now to think about it my initial position has not changed in not recommending TrueCrypt, I now realise I may have been overly harsh in regard to TrueCrypt. Possibly down to personal experience which while useful to draw on can sometimes cause viewpoints to be distorted.
+
+TrueCrypt as a solution is not alone or unusual in the issues it faces. Abandonware is a growing problem in the IT industry with core services and in this case security systems being run on outdated software. In the mobile realm where there are centrally managed Appstore’s there are moves happening to address this by removing software that has not been updated in a period of time. (Anon) This is not without its own controversy with accusations of abuse of market position. This however is not practical in the desktop PC realm.
+
+The problem with using software without support depends a lot on who you are an individual using software without support may be unwise in the case of TrueCrypt but the consequences would in all likelihood be minor to non existent in a real word scenario. On the other hand, companies and organisations using software without support could be considered very dangerous even More so in the case of TrueCrypt where it could result in Data loss (Bad) or in the worst-case data leakage (Critical)
+
+with a compliance Point of view if software is abandoned there is no person or company responsible for the software that means any risk has to be borne by the organisations using the software. Audit and compliance teams have an issue with this as in the modern blame culture risk needs to be managed and mitigated against.     
+
+References
+
+App Store Improvements - Support - Apple Developer. [Online]. Available at: https://developer.apple.com/support/app-store-improvements/ [Accessed 10 May 2022].
 
 **Weekly Skills Matrix New Knowledge Gained**
 
