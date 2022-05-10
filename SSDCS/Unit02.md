@@ -68,7 +68,9 @@ https://docs.oracle.com/database/121/TDPSG/GUID-72D524FF-5A86-495A-9D12-14CB1381
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Oracle ORS
+- [x] People and the human factor of security
 
 **Happiness Level**
+
+😀😀😀😀
