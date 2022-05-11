@@ -137,7 +137,7 @@ What capability is achieved by the flask library?
 
 The capability the flask library is it removes abstracts the low level socket programming required to handle the http requests made to the api code if this was not the case then as developers we would have to deal with low level sockets datagrams packets and protocols for network comunication. the flask library handles these functions and presents them to the developer as a series of classes and methods.
 
-This then allows the develoepr to focus on the sevices they are trying to deliver in their application rather then the mechnicism of delivery
+This then allows the developer to focus on the sevices they are trying to deliver in their application rather then the mechnicism of delivery
 
-
+![Logo](Images/API2.png)
 
