@@ -131,5 +131,13 @@ Run the following command at the terminal prompt: w3m http://127.0.0.1:5000/user
 
 When we run the following command **curl http://127.0.0.1:5000/user/Adam** we get the folloing output "User not found" the reason for this is the if statment in the get function if the name passed does not exist in the user list made up of James Ann Jason then the return contained in the if block will not fire and insted the "User not found" value will be returned along with a http status code of 404 (Not Found) 
 
+## Question Four
+
+What capability is achieved by the flask library?
+
+The capability the flask library is it removes abstracts the low level socket programming required to handle the http requests made to the api code if this was not the case then as developers we would have to deal with low level sockets datagrams packets and protocols for network comunication. the flask library handles these functions and presents them to the developer as a series of classes and methods.
+
+This then allows the develoepr to focus on the sevices they are trying to deliver in their application rather then the mechnicism of delivery
+
 
 
