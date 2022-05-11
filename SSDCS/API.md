@@ -121,6 +121,6 @@ The reason why we get this output is down to the folloing block of code
             if (name == user["name"]):
                 return user, 200
         return "User not found", 404
-        ```
+```
  
  because the request we are making is a standard get request we execute the get block above and because the name we are passing "Ann" exists in the users list defined in the code the validation in the if statment passes and we return the Ann user dictonary with a http code of 200 success.
