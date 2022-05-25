@@ -4,13 +4,21 @@
 ![Logo](Images/Diary.png)
 ### Week One [una sabbatorum]
 
+During this First week we I looked at
+
+* Waterfall Approach to Software Development
+* UML Diagrams
+* Software Development Standards
+* Code Weaknesses
+* Writing Secure Code
+
 Week one was a busy week as had to get back into the study mindset but was also quite a productive week in that got put into a team for the project work and I allready have a number of ideas on what 
 
-Personally I really fancy doing the NASA area of study as I think that has a good scope for what can be achieved but once I meet with the team happy to 
+Personally I really fancy doing the NASA area of study as I think that has a good scope for what can be achieved but once I meet with the team happy to go with the teams decision. 
 
 ![Logo](Images/NASA.png)
 
-Once I have met with the team we will assign roles within the project the second half of the week was work comming out of the seminar both producing the UML for one of the OWSAP issues and producing the first draft of our team contract.
+Once I have met with the team we will assign roles within the project. The second half of the week was work comming out of the seminar both producing the UML for one of the OWSAP issues and producing the first draft of our team contract. Still unsure how many people will be on our team as having trouble getting in contact with two members but will keep trying so we can get our team contract signed off
 
 **Forum Post**
 
@@ -18,7 +26,7 @@ Buffer Overflow Attack
 
 Before starting this module, I had some experience of buffer overflows both as a developer writing code that uses fixed buffers for variables (C  , C++ & ASM) but also as part of a team that has to patch commercial and internally developed software to mitigate against these flaws. In this post will look at the security flaw of buffer overflows.
 
-Overview
+***Overview***
 
 What is a buffer overflow? When A program is run on an operating system the executable of that program and data structures will be held in memory in a very precise and known way The operating system (Windows, Linux, OSX) will call the main method of the code as a function, which then starts the flow for the rest of the program.
 
