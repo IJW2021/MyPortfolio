@@ -20,6 +20,10 @@ Personally I really fancy doing the NASA area of study as I think that has a goo
 
 Once I have met with the team we will assign roles within the project. The second half of the week was work comming out of the seminar both producing the UML for one of the OWSAP issues and producing the first draft of our team contract. Still unsure how many people will be on our team as having trouble getting in contact with two members but will keep trying so we can get our team contract signed off
 
+
+### Choose an open-source UML tool from the list above. Select one of the coding weaknesses which have been identified by OWASP and create a flowchart of the steps which may have led to the weakness occurring.
+
+
 **Forum Post**
 
 Buffer Overflow Attack
