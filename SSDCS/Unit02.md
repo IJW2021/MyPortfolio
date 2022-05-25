@@ -70,6 +70,8 @@ https://docs.oracle.com/database/121/TDPSG/GUID-72D524FF-5A86-495A-9D12-14CB1381
 |Deployment   |Automate deployment |
 |Operations   |   |
 
+Looking forward to week three as that shoudl give some more skills that will help with the project so far project is on track but we need to keep on top of it in order to hit our project milestones. 
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Oracle ORS
