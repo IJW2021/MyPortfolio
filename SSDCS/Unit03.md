@@ -2,11 +2,11 @@
 [1](/MyPortfolio/SSDCS/Unit01.html) | [2](/MyPortfolio/SSDCS/Unit02.html) | [3](/MyPortfolio/SSDCS/Unit03.html) | [4](/MyPortfolio/SSDCS/Unit04.html) | [5](/MyPortfolio/SSDCS/Unit05.html) | [6](/MyPortfolio/SSDCS/Unit06.html) | [7](/MyPortfolio/SSDCS/Unit07.html) | [8](/MyPortfolio/SSDCS/Unit08.html) | [9](/MyPortfolio/SSDCS/Unit09.html) | [10](/MyPortfolio/SSDCS/Unit10.html) | [11](/MyPortfolio/SSDCS/Unit11.html) | [12](/MyPortfolio/SSDCS/Unit12.html)
 ### Week Three [Tres Sabbati]
 
-This week I Started to think about the project and in particular authentication of clients so built a domain controller vm to try out some ideas 
+This week I Started to think about the project and how in particular authentication of clients could happen so as a person who likes to see rather then just read about built a windows domain controller vm to try out some ideas on how our future implementation could be staged this process while overkill has given several insights that will be used to shape our project proposal.
 
 ![Logo](Images/ESXI.png)
 
-with this I manged to write a python script that would authenticate against the windows active directory. One that may take forward into our team project
+Along with the hardware side with this I manged to write a python script as a proof of concept (POC) that would authenticate against the windows active directory. This is one area that I am keen to take forward into our team project as from a security view seperation of the application tier and the user deatils tier is a must and is also the way we do it when creating realword applications if for no other reason that you only need one set of user data that can be used across many application domains. 
 
 ```python
 # Authenticate Against a Windows Active Directory Domain Controller
