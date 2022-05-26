@@ -1,5 +1,6 @@
 ![Logo](Images/Logo.png)
 [1](/MyPortfolio/SSDCS/Unit01.html) | [2](/MyPortfolio/SSDCS/Unit02.html) | [3](/MyPortfolio/SSDCS/Unit03.html) | [4](/MyPortfolio/SSDCS/Unit04.html) | [5](/MyPortfolio/SSDCS/Unit05.html) | [6](/MyPortfolio/SSDCS/Unit06.html) | [7](/MyPortfolio/SSDCS/Unit07.html) | [8](/MyPortfolio/SSDCS/Unit08.html) | [9](/MyPortfolio/SSDCS/Unit09.html) | [10](/MyPortfolio/SSDCS/Unit10.html) | [11](/MyPortfolio/SSDCS/Unit11.html) | [12](/MyPortfolio/SSDCS/Unit12.html)
+
 ### Week Four [Hebdomada quattuor]
 A new week and after some critical thought a few changed to the infastructure design I have been working on for our project solution with one of the key goals we have set ourselves as a team is to make ours a HA highly avaiable solution in that end one of the weak points was our ingress point to the solution as any failure there would have prevented access to our API and services. to overcome this I have added two new servers at the perimeter of our solultion these are both configured with the HAproxy software in loadbalancing mode so if any one of our backend servers goes offline requests will get redirected to one of the servers that are still avaiable. The proxy servers themselves are configured as a pair a primany node and a failover node so if the main proxy server goes off line the secondary server takes over this was done by the use of VIPs (Virtual IP Address) as this means we can have one address that floats between the two VMs. HA is changelling as you have to look at every step of your design and ask the question how would the system work if the component or service failed but it is quite rewarding coming up with solutions.
 
@@ -141,7 +142,9 @@ print(api_validate(POSTCODE))
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Threading
+- [x] RegEXs
 
 **Happiness Level**
+
+😀😀😀
