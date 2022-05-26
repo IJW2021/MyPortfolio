@@ -69,23 +69,27 @@ Hacker-One Reports https://github.com/reddelexc/hackerone-reports/blob/master/to
 Calzavara Stefano (https://secgroup.dais.unive.it/wp-content/uploads/2020/03/more_server.pdf)
 OWSAP https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html [Accessed 21.03.2022]
 
-Good Evening of work as have managed to set the first component of what will be come our final solution 9 VMs to act as a HA cluster
+***Project Investigations***
+
+Another Good Evening of work as have managed to set the first component of what may become our final solution 9 VMs to act as a HA cluster
 
 * 3x Manager Nodes
 * 3x Worker Nodes
 
 ![Logo](Images/Cluster.png)
 
-All running Docker Swarm technology and setup to be HA and to also load balance
+All running Docker Swarm technology and setup to be HA and to also load balance plan is to also build a K8S cluster and to compare the two systems initial thoughts are Docker Swarm is the easier to use and setup but K8s has the bigger market footprint and is now the defacto standard for these sort of workloads so with my Architects hat on I would say K8s is the way to go if we want to deliver a long term solution but enjoying investigating the technology as its not something I have had any exposure to before and might be something I would now consider using in a commercial project.
 
-Along with that also setup a reverse SSL proxy so any connections to our services will be secured with Lets Encrypt SSL Certificates
+Along with that also setup a reverse SSL proxy so any connections to our services will be secured with Lets Encrypt SSL Certificates as part of our design plan is where possible to secure everything with SSL certificates.
 
 ![Logo](Images/Proxy.png)
 
+I feel this week is where we have hit our stride as a project good progess being made and the non project content is also helping by providing the skills and knowledge we need to produce our plans a good synegey betwen our own work and the course content looking forward to next week and also making more progress on our design. 
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Docker Swarm Technology
+- [x] SSL Termination
+- [x] Project Management 
 
 **Happiness Level**
