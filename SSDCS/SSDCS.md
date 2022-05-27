@@ -32,3 +32,4 @@
 - [Forum SSRF](/MyPortfolio/SSDCS/WK3Forum.docx)
 - [Thread Excerise](/MyPortfolio/SSDCS/Thread.docx)
 - [Proposal Document](/MyPortfolio/SSDCS/Final.docx)
+- [Python Shell](/MyPortfolio/SSDCS/PythonShell.docx)
