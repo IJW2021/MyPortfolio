@@ -6,17 +6,29 @@ Positive but also slightly anoying start to the week on the postive side infrast
 
 **DR and BCP**
 
-Along with the actual delivery we need to think about our Disaster recovery position as a solutuon needs to be able to recover from unforseen events and as our domain is in a hostile environment this is important. To this regard as part of our plan is to include backup and recovery solution as the industry leader and because there is a free tier we have gone with a VEEAM based solution.
+Along with the actual delivery we need to think about our Disaster recovery position as a solutuon needs to be able to recover from unforseen events and as our domain is in a hostile environment this is important. To this regard as part of our plan is to include a backup and recovery solution as the industry leader and because there is a free tier we have gone with a VEEAM based solution.
 
 ![Backup](Images/backup.png)
 
-Been a good week on the project gone from a idea to a proposal and now to the start of a actual product there are three main parts of our solution
+Its also been a good week on the project broken down the project into its phases there are three main parts of our solution
 
 * User Interface
 * Data Collection
 * APIs
 
-I have been asigned the task of buildig the APIS that the rest of the solution will use while not the part of the project that has the wow factor without a strong underpinning the services that are built on top of the APIS will suffer so have been reading up on API Design the Flask Micro framework and JWT tokens. As I want to build a strong set of APIs 
+Where possible I am going to try and align our plan with the prince2 design methodolgy I have used this before in my professional life and it has worked well so will be interesting to see how this transitions into a smaller project team as when I used it the team was in the hundreds.
+
+* 1. Projects must have business justification.
+* 2. Teams should learn from every stage.
+* 3. Roles and responsibilities are clearly defined.
+* 4. Work is planned in stages.
+* 5. Project boards "manage by exception."
+* 6. Teams keep a constant focus on quality.
+* 7. The approach is tailored for each project.
+
+[https://www.wrike.com/blog/project-management-basics-prince2-explained/]
+
+As perviously mentioned I have been asigned the task of buildig the APIS that the rest of the solution will use while not the part of the project that has the wow factor without a strong underpinning the services that are built on top of the APIS will suffer so have been reading up on API Design the Flask Micro framework and JWT tokens. As I want to build a strong set of APIs. 
 
 We had a good dicussion about encryption which was quite interesting so wrote a quick ROT13 which I class more of a encoding techninque then a real encryption standard actually rember using it when talking part in usenet dicussion forums back in the eary 90s
 
@@ -90,6 +102,13 @@ The second way was to install from source keepalived so that we could have a vir
 You know when you have been reading too much on a subject when your searching takes you to bedding on the subject ISS bedding anyone ? 😀 but on the whole a good positive week
 
 ![Logo](Images/Bedding.png)
+
+Still positive about the project but I do think the size of the task we have given ourselves finally hit home this week still lots to do and not all that much time to do it but as the quote says
+
+> “That which does not kill us makes us stronger.” 
+― Friedrich Nietzsche
+
+So im going to use the pressure to motivate myself to hopefully produce a good bit of coding for the project we get one chance so put the work in and you will reep the rewards plenty of time to rest once the work is done.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
