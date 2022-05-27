@@ -10,6 +10,8 @@ Done a far amount of background reading this week on NASA ESA and the space prog
 
 While nothing to do with the project I can recommend **The Apollo Guidance Computer: Architecture and Operation (Springer Praxis Books)** for a historical context of coding and space have actually bought a copy for my own colelction of books
 
+![BOOK](Images/BOOK.jpg)
+
 On a personal level it would appear I may be taking on the project management role for the implementation phase while I dont mind this as gives me some control over the direction of the project. It is not a area Im traditionally an expert in as im not the best at getting people to do tasks "Too Nice and not firm enough" as one of my managers once said. But in life we all have to do things that we are not the best with as that is how you grow as a person and gaining these project management skills will be of value to me not only in the sense of this and future university projects but in professional projects and life in general 
 
 
