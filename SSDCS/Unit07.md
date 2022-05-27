@@ -23,9 +23,11 @@ esxcli software profile update -p ESXi-7.0U3d-19482537-standard -d \
 https://hostupdate.vmware.com/software/VUM/PRODUCTION/main/vmw-depot-index.xml
 esxcli network firewall ruleset set -e false -r httpClient
 ```
-So read an article about the technology NASA actually use (Debian Linux in space and RedHat for ground Side Proccessing) so inspired to have a look and see if we can migrate our technology stack to match as we want to be as close to real life as possible this may turn out to be a seamed a good idea at the time decision but better to try and fail then not to try at all.  
+So read an article about the technology NASA https://www.computerweekly.com/blog/Open-Source-Insider/International-Space-Station-adopts-Debian-Linux-drops-Windows-Red-Hat-into-airlock actually use (Debian Linux in space and RedHat for ground Side Proccessing) so inspired to have a look and see if we can migrate our technology stack to match as we want to be as close to real life as possible this may turn out to be a seamed a good idea at the time decision but better to try and fail then not to try at all.  
 
 ![Logo](Images/Debian.png)
+
+## Python Shell
 
 So Along with the project work I also completed the excerise of making a python shell I quite enjoyed this and went though a couple of itterations but settled on a version that made extensive use of lamda functions to fulfill and actually go beyond the spec 
 
