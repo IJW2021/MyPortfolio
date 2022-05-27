@@ -79,6 +79,8 @@ jobs:
         run: echo ${{ steps.docker_build.outputs.digest }}
 ```
 
+Really enjoying playing with the Github actions a bit different to the GitLab CI/DI im use to but quite powerful what you can do with a few lines of yml automation I have a feeling is going to be a key thing in the project as if we can automate alot of the tasks then that allow us to focus on the coding and design its not allways about working harder sometimes you need to worker smarter by removing the barriers that prevent the developers from developing. This is a lesson I learned quite a few years ago so is something I will try to implement in our project. Will I be sucecssful dont know but allways worth a try.  
+
 # MariaDB
 
 So after making the decison to move our DMBS to maria DB due to driver issues on postgre we now needed to make MariaDB HA to do this we used a couple of methods the first was to setup replication between MariaDB hosts this was first configured as Master -> Slave but after some thought we reconfigured MariaB to a master to master configuration that way any update on any host would be replicated. Along with this we also connfigured MariaDB to use SSL Certificates so the replication and any data access would be secured behind 256bit encryption
