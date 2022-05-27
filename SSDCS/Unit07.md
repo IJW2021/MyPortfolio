@@ -111,4 +111,11 @@ Potential Security Flaws still exist
 - [x] Python Shells and use of Lamda calls  
 - [x] Debian Linux
 
+So Actually quite happy at the moment with how the project is going pieces are falling into place even my project management is going quite well though also beginning to feel the pressure of making sure we actualy deliver on or design. Plan for the worst hope for the best I really want to get the building blocks in place in the next week so that we can focus on the code but now I have got a bit of project management experence I have learnt to be realistic so may take a bit longer but the plan is to do it right do it once even if that takes a bit longer in the inital phase. 
+
+Though also enjoying the challenge of this project its pretty cool that we can take the project where we want within the project domain that freedom some may not like it as they pefer to have strict guidlines I quite like it as it allows me to use a full set of skills Application Design , Infrastructure , Networking , Security got a feeling this project may be one of the defining bits of work I do on this course looking forward to adding to the project
+
+**Bring it On**
+
 **Happiness Level**
+😀😀😀😀
