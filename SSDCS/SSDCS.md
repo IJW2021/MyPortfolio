@@ -19,9 +19,11 @@
 
 **Meeting Minutes 👨‍💻**
 
-- [Meeting 01](/MyPortfolio/SSDCS/Notes01.html)
-- [Meeting 02](/MyPortfolio/SSDCS/Notes02.html)
-- [Meeting 03](/MyPortfolio/SSDCS/Notes03.html)
+- [Meeting 01](/MyPortfolio/SSDCS/Meeting1.docx)
+- [Meeting 02](/MyPortfolio/SSDCS/Meeting2.docx)
+- [Meeting 03](/MyPortfolio/SSDCS/Meeting3.docx)
+- [Meeting 04](/MyPortfolio/SSDCS/Meeting4.docx)
+- [Meeting 05](/MyPortfolio/SSDCS/Meeting5.docx)
 
 **Deliverable's**
 
