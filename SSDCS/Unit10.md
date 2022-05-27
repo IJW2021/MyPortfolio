@@ -34,6 +34,12 @@ References
 
 App Store Improvements - Support - Apple Developer. [Online]. Available at: https://developer.apple.com/support/app-store-improvements/ [Accessed 10 May 2022].
 
+## Project Coding
+
+One final push on the coding we are now in a feature freeze so no new features are being added and the coding work that is being done is just to polish the existing code base. learning alot on the project management side as along with coding and writing the documentation IT people usually make quite bad attempts at documentation this is even more the case when you are documenting your own code. In a ideal world as a team we would document each others code to ensure understanding and maybe if I get to project manage another group project which now having done it on a project I think I would like to do which is not something I ever expected to say I guess we all do change and I have while doing this project though I still consider myself a code monkey at heart 👨‍💻 as Still happyist when writing code.  
+
+I was also happy I lost the dicussion on which message queue system to use Apache Kafka was the right choice so its good when you can have debates within a team as long as it is based on the problem rather then the indviduals its when it becomes personal is when it becomes a issue and happy to say we never had those problems all our meetings have been constructive and even when we had differing views it was always respectful and based on the project so a good team can go a long way in making or breaking a project.
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] How To Build a Kafka 3 Node Cluster 
