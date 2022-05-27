@@ -17,7 +17,8 @@ On a personal level it would appear I may be taking on the project management ro
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Project Management
 
 **Happiness Level**
+
+😀😀😀😀
