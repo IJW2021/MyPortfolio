@@ -70,7 +70,9 @@ https://docs.oracle.com/database/121/TDPSG/GUID-72D524FF-5A86-495A-9D12-14CB1381
 |Deployment   |Automate deployment |
 |Operations   |   |
 
-Looking forward to week three as that shoudl give some more skills that will help with the project so far project is on track but we need to keep on top of it in order to hit our project milestones. 
+**So after attending the session found I had totally got the wrong end of the stick in reagared to this question it ok now as was explained in the seminar but just proves that we dont always get it right ☹️ but will learn from the error double check what is actually needed for future questions. Its anoying I made this error but will move on and try to do better next time.** 
+
+Looking forward to week three as that should give some more skills that will help with the project so far project is on track but we need to keep on top of it in order to hit our project milestones. 
 
 **Weekly Skills Matrix New Knowledge Gained**
 
