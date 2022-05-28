@@ -116,6 +116,7 @@ int main(int argc, char **argv) {
 }
 ```
 
+Good progress = Happy Ian while some non UOE issues did get slightly in the way this week still managed to make progress though design is vitial to a good project must admit looking forward to the doing part of the work.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
