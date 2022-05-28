@@ -47,3 +47,5 @@ I was also happy I lost the dicussion on which message queue system to use Apach
 - [x] Setup of Docker Watchtower 
 
 **Happiness Level**
+
+😀😀😀😀😀
