@@ -29,6 +29,7 @@
 
 - [Team Contract](/MyPortfolio/SSDCS/TeamContract.docx)
 - [Buffer Overflows Forum Post](/MyPortfolio/SSDCS/BufferOverflowAttack.docx)
+- [Slack Post about what language is better for an OS ](/MyPortfolio/SSDCS/OSLang.docx)
 - [Human Factor Forum Post](/MyPortfolio/SSDCS/WK2Forum.docx)
 - [Forum Response](/MyPortfolio/SSDCS/WK2Response.docx)
 - [Forum SSRF](/MyPortfolio/SSDCS/WK3Forum.docx)
