@@ -39,6 +39,24 @@ functions
 
 That being said if we consider a device such as a embedded controller such as a pi pico this can run a stripped down version of python :snake:  (MicroPython) that has enough low level control to be considered a OS but C would still be the better choice as while having a far larger learning curve and being harder to do well for a OS you need the low level access to the hardware and compiled languages such as C give this along with better performance which in a real time applications such as a OS is an important consideration. Part of good system design is also using the right tools for the right situations and in this case you would use C rather than python as it gives you more options or as said by Linus Torvalds. "Nothing is better than C programming language" https://www.youtube.com/watch?v=CYvJPra7Ebk
 
+## Recursion ##
+
+Carried out the Towers of Hanoi Excerise made boy did that make my head hurt but got there eventually 
+
+```python
+def Hanoi(x: int, source: str, dest: str, intermediate: str):
+    # Base Case
+    if x == 1:
+        print(f"Transpose disk 1 from {source} to {dest}")
+        return
+    Hanoi(x - 1, source, intermediate, dest)
+    print(f"Transpose disk {x} from {source} to {dest}")
+    Hanoi(x - 1, intermediate, dest, source)
+
+
+Hanoi(4, 'A', 'B', 'C')
+```
+
 ## Thread Exercise ##
 
 Carried out the python exercise
