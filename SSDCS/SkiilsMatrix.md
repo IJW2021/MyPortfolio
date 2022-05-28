@@ -26,12 +26,12 @@
 
 | Graduate   | Skill    | Skill Level               | Evidence |
 | :--        | :--      | :--                       | :--      |
-| Cultural Awareness | Act in the best interest of the community at large - Social (Community) Responsibility | | | 
-| Teamwork, Leadership and Resilience, Time Management | Collaborate effectively in diverse teams to achieve team goals | | | 
-| Teamwork, Leadership and Resilience, Time Management | Meeting team objectives using teamwork skills | | | 
-| Teamwork, Leadership and Resilience, Time Management | Demonstrate skills in leadership and team building | | | 
-| Creativity, Entrepreneurial, Problem solving, Initiative, Decision Making | Create, discuss and deliver strategies for sustainability for all stakeholders (company, community and environment) | | | 
-| Creativity, Entrepreneurial, Problem solving, Initiative, Decision Making | Able to make a decision on a complex matter/scenario using multiple sources of information | | | 
+| Cultural Awareness | Act in the best interest of the community at large - Social (Community) Responsibility |Proficient |Team Meetings / Seminar Dicussions | 
+| Teamwork, Leadership and Resilience, Time Management | Collaborate effectively in diverse teams to achieve team goals |Proficient | Team Meetings| 
+| Teamwork, Leadership and Resilience, Time Management | Meeting team objectives using teamwork skills |Proficient | Team Meetimgs / ISS Project | 
+| Teamwork, Leadership and Resilience, Time Management | Demonstrate skills in leadership and team building | Proficient| Peer Review | 
+| Creativity, Entrepreneurial, Problem solving, Initiative, Decision Making | Create, discuss and deliver strategies for sustainability for all stakeholders (company, community and environment) |Aware |N.A From This Module | 
+| Creativity, Entrepreneurial, Problem solving, Initiative, Decision Making | Able to make a decision on a complex matter/scenario using multiple sources of information |Aware |N.A From This Module | 
 
 **Technical (Data Science)**
 
