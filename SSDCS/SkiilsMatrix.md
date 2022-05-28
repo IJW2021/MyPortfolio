@@ -37,17 +37,15 @@
 
 | Graduate   | Skill    | Skill Level               | Evidence |
 | :--        | :--      | :--                       | :--      |
-| IT and Digital, Numeracy | Technical skills relevant to your degree programme | | | 
-| IT and Digital, Numeracy | SQL for database querying | | | 
-| IT and Digital, Numeracy | Python Programming | | | 
-| IT and Digital, Numeracy | Java Programming | | | 
-| IT and Digital, Numeracy | noSQL | | | 
-| IT and Digital, Numeracy | Scripting Language (Python) | | | 
-| IT and Digital, Numeracy | Statistical Language (R) | | | 
-| IT and Digital, Numeracy | Gits - repository development and maintenance | | | 
-| IT and Digital, Numeracy | Use of conferenceing technologies and Moodle (VLE) | | | 
-| IT and Digital, Numeracy | Use of Word Processing tools and Spreadsheets | | | 
-| IT and Digital, Numeracy | Use of Word Processing tools and Spreadsheets | | | 
-| IT and Digital, Numeracy | Effective use of e-library resources | | | 
+| IT and Digital, Numeracy | SQL for database querying |Proficient |SSDS Project | 
+| IT and Digital, Numeracy | Python Programming |Proficient |SSDS Project | 
+| IT and Digital, Numeracy | Java Programming |Aware |N.A From This Module | 
+| IT and Digital, Numeracy | noSQL |Trained |N.A From This Module | 
+| IT and Digital, Numeracy | Scripting Language (Python) |Proficient |SSDS Project | 
+| IT and Digital, Numeracy | Statistical Language (R) |Aware |N.A From This Module | 
+| IT and Digital, Numeracy | Gits - repository development and maintenance |Proficient |SSDS project | 
+| IT and Digital, Numeracy | Use of conferenceing technologies and Moodle (VLE) |Proficient |Evidence On VLE | 
+| IT and Digital, Numeracy | Use of Word Processing tools and Spreadsheets |Proficient |Design Doc and Project Readme | 
+| IT and Digital, Numeracy | Effective use of e-library resources |Proficient |Design Doc | 
 
 
