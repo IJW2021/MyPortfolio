@@ -86,6 +86,37 @@ Along with that also setup a reverse SSL proxy so any connections to our service
 
 I feel this week is where we have hit our stride as a project good progess being made and the non project content is also helping by providing the skills and knowledge we need to produce our plans a good synegey betwen our own work and the course content looking forward to next week and also making more progress on our design. 
 
+### Buffer Overflows
+
+Carried Out the buffer overflow excerise intersting topic and brought back a lot of memorys of when I used to have to write C code 
+
+```c
+#include <stdio.h> 
+int main(int argc, char **argv)
+{
+char buf[8]; // buffer for eight characters
+printf("enter name:"); 
+gets(buf); // read from stdio (sensitive function!)
+printf("%s\n", buf); // print out data stored in buf
+return 0; // 0 as return value
+{
+
+```
+
+**Fixed to Remove issue**
+
+```c
+#include <stdio.h>
+int main(int argc, char **argv) {
+    char buffer[8]; // buffer for eight characters
+    printf("enter name:");
+    fgets(buffer,8,stdin); // read from stdio (sensitive function!)
+    printf("%s\n", buffer); // print out data stored in buf
+    return 0;
+}
+```
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Docker Swarm Technology
