@@ -100,7 +100,12 @@ While Coding is the fun part of any project as the talking has stopped and you n
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Software Design and DAST Testing
+- [x] Database Triggers and Peformance Tweaking
+- [x] Markdown 
+
+Motivation this week while still high was not as high as previous weeks not sure why as content is still good and project is now almost at the point where the technology is working. But also not been feeling 100% so plan to have a rest over the weekend and come back enthused and motivated. 
 
 **Happiness Level**
+
+😀😀
