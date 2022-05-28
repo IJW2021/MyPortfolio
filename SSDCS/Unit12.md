@@ -48,3 +48,6 @@ https://medium.com/the-challenge/a-brief-history-of-decentralized-computing-d0d6
 **Happiness Level**
 
 😀😀😀😀😀
+
+**So as i sign off from the module at the end of SSDS. 12 weeks of mostly highs a couple of lows but a module that I think will stay with me for sometime and one that I know I will revisit as now whenever I write code I will have the knowledge on how to make that code secure and more importantly understand why we need to do it**
+
