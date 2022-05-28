@@ -15,6 +15,8 @@ Are Micro services the future ? to a large degree yes for cloud solutions the mi
 
 But if there is one thing, we have learned from the computing revolution, is it is very hard to predict the future though there are certainly patterns. Mainframes to commodity servers  then commodity servers to VMs , and then VM to Containers so history shows us computing is becoming more decentralised with each step change in technology.  
 
+![Flow](Images/Flow.png)
+
 **IT History**
 
 or in the words of Franco Ongaro thank you team3 space domain project background reading.
