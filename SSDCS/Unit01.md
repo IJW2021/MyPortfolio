@@ -78,7 +78,7 @@ shell-storm | Shellcodes Database. [Online]. Available at: http://shell-storm.or
 Buffer Overflows [Online]. Available at: https://owasp.org/www-community/attacks/Buffer_overflow_attack [Accessed 12 March 2022c]
 
 
-Looking forward to next week the plan is to get to know the other people on the module as part of the appeal of doing a online course is to learn from the other students from around the world with differing opinons and out look on the module and life in general
+**Looking forward to next week the plan is to get to know the other people on the module as part of the appeal of doing a online course is to learn from the other students from around the world with differing opinons and out look on the module and life in general**
 
 **Weekly Skills Matrix New Knowledge Gained**
 
