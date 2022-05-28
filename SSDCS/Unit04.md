@@ -100,7 +100,7 @@ Extend this producer-consumer code to make the producer-consumer scenario availa
 
 
 
-Intersting excerise and shows the issues of predicting sequence and concurency when dealing with indipendent threads.
+Intersting excerise and shows the issues of predicting sequence and concurency when dealing with independent threads.
 
 **Regex**
 
@@ -139,6 +139,8 @@ def api_validate(pcode):
 print(validate_pcode(POSTCODE))
 print(api_validate(POSTCODE))
 ```
+
+Busy week and still not a fan on RegEx expressions though will admit they are quite useful just a bit of a pain to put together had some good meetings with some good ideas. 
 
 **Weekly Skills Matrix New Knowledge Gained**
 
