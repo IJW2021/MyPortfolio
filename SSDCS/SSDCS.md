@@ -29,18 +29,18 @@ Welcome to my journey through the UOE Secure software development module while m
 
 **Deliverable's** 📦
 
-- [Team Contract](/MyPortfolio/SSDCS/TeamContract.docx)
+- [Team Contract](/MyPortfolio/SSDCS/TeamContract.pdf)
 - [Buffer Overflows Forum Post](/MyPortfolio/SSDCS/BufferOverflowAttack.pdf)
-- [Slack Post about what language is better for an OS ](/MyPortfolio/SSDCS/OSLang.docx)
-- [Human Factor Forum Post](/MyPortfolio/SSDCS/WK2Forum.docx)
-- [Forum Response](/MyPortfolio/SSDCS/WK2Response.docx)
-- [Forum SSRF](/MyPortfolio/SSDCS/WK3Forum.docx)
-- [Thread Excerise](/MyPortfolio/SSDCS/Thread.docx)
+- [Slack Post about what language is better for an OS ](/MyPortfolio/SSDCS/OSLang.pdf)
+- [Human Factor Forum Post](/MyPortfolio/SSDCS/WK2Forum.pdf)
+- [Forum Response](/MyPortfolio/SSDCS/WK2Response.pdf)
+- [Forum SSRF](/MyPortfolio/SSDCS/WK3Forum.pdf)
+- [Thread Excerise](/MyPortfolio/SSDCS/Thread.pdf)
 - [TrueCrypt](/MyPortfolio/SSDCS/TrueCrypt.html)
 - [API](/MyPortfolio/SSDCS/API.html)
-- [Proposal Document](/MyPortfolio/SSDCS/Final.docx)
-- [Python Shell](/MyPortfolio/SSDCS/PythonShell.docx)
-- [Microservices](/MyPortfolio/SSDCS/Microservices.docx)
+- [Proposal Document](/MyPortfolio/SSDCS/Final.pdf)
+- [Python Shell](/MyPortfolio/SSDCS/PythonShell.pdf)
+- [Microservices](/MyPortfolio/SSDCS/Microservices.pdf)
 
 **Skills Matrix** s🏆
 
