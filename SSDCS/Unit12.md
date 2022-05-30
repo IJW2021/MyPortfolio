@@ -3,6 +3,12 @@
 ### Week Twelve [Hebdomada undecim]
 Coming to the end of the module just one session left before its all done and in the past and im conflicted about that the last 12 weeks have been the most enjoyable weeks on the course so far would be quite happy to do another 12 weeks on secure coding and im sure there would be the content there to do it during the past 12 weeks I have leaned alot both in course content and personally in dealing with people and managing projects the people I have worked and communicated with have been first class. 
 
+This Week we looked at
+
+* Review journals and articles about monoliths, microkernels and microservices.
+* Engage in a debate about the above.
+* Explore some of the advances in secure programming.
+
 ## Forum Post
 
 ### Are MicroServices The Future ?
