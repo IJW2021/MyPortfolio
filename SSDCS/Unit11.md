@@ -4,9 +4,10 @@
 
 ![Logo](Images/Diary.png)
 
-This week has been very busy Final big push on the coding project split my time between updating my code and writing the documentation for the team for a small team with big ideas we have come a long way since our first meeting to dicuss which project domain we wanted to do. And personally have learned so much. The freedom to go with a idea and produce a design and a solution with quite wide boundrys was really vaulable as it allowed us to go places where we would not have been able to go otherwise. 
+This week has been very busy Final big push on the coding project split my time between updating my code and writing the documentation for the team for a small team with big ideas we have come a long way since our first meeting to discuss which project domain we wanted to do. And personally, have learned so much. The freedom to go with an idea and produce a design and a solution with quite wide boundaries was really valuable as it allowed us to go places where we would not have been able to go otherwise.
 
-That being said as with any project you shoud always do a lessons learnt excerise and there have been decsions made during the project that if I was to do it again I would do different such as actually spending a bit more time on requirments and a bit less on implementation but that is really nitpicking what has been quite a successful project just happy we could actually on our promise. Presentation also went well though as usual brain and mouth were not always in sync but we got our message across all the technology worked as planned. but really looking forward to a couple of days R&R to recover from all the coding and documenting to meet the deadlines. To Sum up this week tired but happy  
+That being said as with any project you should always do a lesson learnt exercise and there have been decisions made during the project that if I was to do it again, I would do different such as actually spending a bit more time on requirements and a bit less on implementation but that is really nit picking what has been quite a successful project just happy, we could actually on our promise. Presentation also went well though as usual brain and mouth were not always in sync but we got our message across all the technology worked as planned. but really looking forward to a couple of days R&R to recover from all the coding and documenting to meet the deadlines. To Sum up this week tired but happy.
+ 
 
 **Weekly Skills Matrix New Knowledge Gained**
 
