@@ -2,6 +2,13 @@
 [1](/MyPortfolio/SSDCS/Unit01.html) | [2](/MyPortfolio/SSDCS/Unit02.html) | [3](/MyPortfolio/SSDCS/Unit03.html) | [4](/MyPortfolio/SSDCS/Unit04.html) | [5](/MyPortfolio/SSDCS/Unit05.html) | [6](/MyPortfolio/SSDCS/Unit06.html) | [7](/MyPortfolio/SSDCS/Unit07.html) | [8](/MyPortfolio/SSDCS/Unit08.html) | [9](/MyPortfolio/SSDCS/Unit09.html) | [10](/MyPortfolio/SSDCS/Unit10.html) | [11](/MyPortfolio/SSDCS/Unit11.html) | [12](/MyPortfolio/SSDCS/Unit12.html)
 ### Week Five [Hebdomada Quinque]
 
+This week we looked at
+
+* Explore the range of questions to ask when developing a test plan.
+* Become familiar with two industry software testing standards.
+* Examine a range of testing techniques and appreciate the relevance of each in different testing scenarios.
+* Recognise the tools and frameworks which are available to support and automate the Python testing process.
+
 Good start to the week I some work in preparation for the development phase of the project work and got python talking over Secure LDAP (Port 636) to our ldap server this meanswe can be fully encrypted end to end though trying to setup non Microsoft generated certificates on a Microsoft 2022 domain controller could not be described as fun. I think however we are now in a good place and we can either put SSL certs on parts of our application that support SSL termination or put a SSL terminating proxy in front of the parts that don't have native SSL/TLS support.
 
 ```shell
