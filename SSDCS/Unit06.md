@@ -4,11 +4,9 @@
 
 In what may turn out to be not the smartest decision spent the best part of the weekend re-engineering the infratructrue side of the project to remove the requirment to have a windows active directory which is somewhat ironic as it was me who pushed for a identity directory over storing user details in a database. But my reason was to have a estate made up of a single platform as this presents a smaller vector for any exploits then having a mixed esate. Time will tell id we can totally remove windows form the platform at the very least we will need to test on windows as for a testing to be effective we need to test on all potential devices that could use the service. 
 
-So we have started coding 🥳 we decided to split the work along a front end / back end axis with me taking the back end im quite happy with this setup as while I can do front end design is not something I or anyone in my family is strong at indeed I was once banned from School art class and told to take metal work insted. Could be trusted with a blowtorch but not a paint brush. So me doing the low level APIs will work out best for our team and will also t tie in with the low level infrastructure part of the project that I have taken on.
+So we have started coding 🥳 we decided to split the work along a front end / back end axis with me taking the back end im quite happy with this setup as while I can do front end design is not something I or anyone in my family is strong at indeed I was once banned from School art class and told to take metal work insted. Could be trusted with a blowtorch but not a paint brush. So me doing the low level APIs will work out best for our team and will also tie in with the low level infrastructure part of the project that I have taken on.
 
-Done a far amount of background reading this week on NASA ESA and the space program / ISS space station
-
-While nothing to do with the project I can recommend **The Apollo Guidance Computer: Architecture and Operation (Springer Praxis Books)** for a historical context of coding and space have actually bought a copy for my own colelction of books
+Done a far amount of background reading this week on NASA ESA and the space program / ISS space station not needed for the project but was interested in the topic. While nothing to do with the project I can recommend **The Apollo Guidance Computer: Architecture and Operation (Springer Praxis Books)** for a historical context of coding and space have actually bought a copy for my own colelction of books
 
 ![BOOK](Images/BOOK.jpg)
 
