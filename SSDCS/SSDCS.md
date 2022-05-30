@@ -27,10 +27,10 @@ Welcome to my journey through the UOE Secure software development module while m
 - [Meeting 04](/MyPortfolio/SSDCS/Meeting4.pdf)
 - [Meeting 05](/MyPortfolio/SSDCS/Meeting5.pdf)
 
-**Deliverable's**
+**Deliverable's** 📦
 
 - [Team Contract](/MyPortfolio/SSDCS/TeamContract.docx)
-- [Buffer Overflows Forum Post](/MyPortfolio/SSDCS/BufferOverflowAttack.docx)
+- [Buffer Overflows Forum Post](/MyPortfolio/SSDCS/BufferOverflowAttack.pdf)
 - [Slack Post about what language is better for an OS ](/MyPortfolio/SSDCS/OSLang.docx)
 - [Human Factor Forum Post](/MyPortfolio/SSDCS/WK2Forum.docx)
 - [Forum Response](/MyPortfolio/SSDCS/WK2Response.docx)
