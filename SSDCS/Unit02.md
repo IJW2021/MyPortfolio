@@ -3,6 +3,13 @@
 ### Week Two [Duo]
 ![Logo](Images/Diary.png)
 
+During this week we looked at
+
+* Gain an awareness of the opportunities for integrating software security development practices at each stage of the agile SDLC.
+* Experiment with the creation of UML flow charts.
+* Understand the range of ways in which software security can be problematic.
+
+
 Week two and making some progress on the design and have been looking into Nasa , ESA and SpaceX to see what public information there is so we can use that to shape our design. Still not had any contact from 2 members of the team so we will make a start and onbaord them once we can make contact. Not a ideal start but should not be a problem. 
 
 I have the start of an idea for our proposal so will put some notes together if we go with this plan then we have a good chance of having a good design document with some ideas that may not have been done before. Or we may fail in an equally over the top manner "No Risk no reward" on the non project side did some more background reading and made a forum post on Oracle ORS intersting technology but a real pain to implement correctly. 
