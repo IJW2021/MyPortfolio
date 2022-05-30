@@ -1,6 +1,12 @@
 ![Logo](Images/Logo.png)
 [1](/MyPortfolio/SSDCS/Unit01.html) | [2](/MyPortfolio/SSDCS/Unit02.html) | [3](/MyPortfolio/SSDCS/Unit03.html) | [4](/MyPortfolio/SSDCS/Unit04.html) | [5](/MyPortfolio/SSDCS/Unit05.html) | [6](/MyPortfolio/SSDCS/Unit06.html) | [7](/MyPortfolio/SSDCS/Unit07.html) | [8](/MyPortfolio/SSDCS/Unit08.html) | [9](/MyPortfolio/SSDCS/Unit09.html) | [10](/MyPortfolio/SSDCS/Unit10.html) | [11](/MyPortfolio/SSDCS/Unit11.html) | [12](/MyPortfolio/SSDCS/Unit12.html)
 
+This week we looked at
+
+* Explore the use of regular expressions and recursion in creating software solutions.
+* Investigate the effects of using regular expressions and recursion on system security.
+* Recommend the most suitable approaches for given security requirements/ risk appetites.
+
 ### Week Four [Hebdomada quattuor]
 A new week and after some critical thought a few changed to the infastructure design I have been working on for our project solution with one of the key goals we have set ourselves as a team is to make ours a HA highly avaiable solution in that end one of the weak points was our ingress point to the solution as any failure there would have prevented access to our API and services. to overcome this I have added two new servers at the perimeter of our solultion these are both configured with the HAproxy software in loadbalancing mode so if any one of our backend servers goes offline requests will get redirected to one of the servers that are still avaiable. The proxy servers themselves are configured as a pair a primany node and a failover node so if the main proxy server goes off line the secondary server takes over this was done by the use of VIPs (Virtual IP Address) as this means we can have one address that floats between the two VMs. HA is changelling as you have to look at every step of your design and ask the question how would the system work if the component or service failed but it is quite rewarding coming up with solutions.
 
@@ -57,9 +63,10 @@ def Hanoi(x: int, source: str, dest: str, intermediate: str):
 Hanoi(4, 'A', 'B', 'C')
 ```
 
-## Thread Exercise ##
+Just to try and understand recursion a bit better did the classic 
 
-Carried out the python exercise
+
+## Thread Exercise ##
 
 ```Python
 code source: https://techmonger.github.io/55/producer-consumer-python/
@@ -158,7 +165,7 @@ print(validate_pcode(POSTCODE))
 print(api_validate(POSTCODE))
 ```
 
-Busy week and still not a fan on RegEx expressions though will admit they are quite useful just a bit of a pain to put together had some good meetings with some good ideas. 
+Busy week and still while still not a fan on RegEx expressions though will admit they are quite useful just a bit of a pain to put together had some good meetings on the project with some good ideas that will be taken forward. 
 
 **Weekly Skills Matrix New Knowledge Gained**
 
