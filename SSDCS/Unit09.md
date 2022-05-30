@@ -67,13 +67,13 @@ Keeping devices and software up to date - NCSC.GOV.UK. [Online]. Available at: h
 
 **Oxygen**
 
-Along with Pyython coding have started to populate the MariaDB with some data so that our demo look like real life so far have added in some oxygen sensors.
+Along with Python coding have started to populate the MariaDB with some data so that our demo look like real life so far have added in some oxygen sensors.
 
 ![Logo](Images/Oxygen.png)
 
 **Sensor Audit**
 
-One thing I did want to include in the project was some form of tracking when a sensor goes offline / online I had a look at doing this in python and while possible It is not the best way to get the outcome we want the better way is to create a Database trigger so that when the status of a sensor chnages a new record is created in a audit table. This has the advatnage of being at the DBMS tier rather then adding additional processing work onto our application tier. the trigger I created was
+One thing I did want to include in the project was some form of tracking when a sensor goes offline / online I had a look at doing this in python and while possible It is not the best way to get the outcome, we want the better way is to create a Database trigger so that when the status of a sensor changes a new record is created in a audit table. This has the advantage of being at the DBMS tier rather than adding additional processing work onto our application tier. the trigger I created was
 
 ```sql
 create trigger tgr_sensor_audit
