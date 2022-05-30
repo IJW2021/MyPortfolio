@@ -10,11 +10,11 @@ This week we looked at
 * Recommend the most suitable approaches for given security requirements/ risk appetites.
 
 ### Week Four [Hebdomada quattuor]
-A new week and after some critical thought a few changed to the infastructure design I have been working on for our project solution with one of the key goals we have set ourselves as a team is to make ours a HA highly avaiable solution in that end one of the weak points was our ingress point to the solution as any failure there would have prevented access to our API and services. to overcome this I have added two new servers at the perimeter of our solultion these are both configured with the HAproxy software in loadbalancing mode so if any one of our backend servers goes offline requests will get redirected to one of the servers that are still avaiable. The proxy servers themselves are configured as a pair a primany node and a failover node so if the main proxy server goes off line the secondary server takes over this was done by the use of VIPs (Virtual IP Address) as this means we can have one address that floats between the two VMs. HA is changelling as you have to look at every step of your design and ask the question how would the system work if the component or service failed but it is quite rewarding coming up with solutions.
+A new week and after some critical thought a few changed to the infrastructure design I have been working on for our project solution with one of the key goals we have set ourselves as a team is to make ours a HA highly available solution in that end one of the weak points was our ingress point to the solution as any failure there would have prevented access to our API and services. to overcome this, I have added two new servers at the perimeter of our solution these are both configured with the HAproxy software in load balancing mode so if any one of our backend servers goes offline requests will get redirected to one of the servers that are still available. The proxy servers themselves are configured as a pair a primary node and a failover node so if the main proxy server goes off line the secondary server takes over this was done by the use of VIPs (Virtual IP Address) as this means we can have one address that floats between the two VMs. HA is changeling as you have to look at every step of your design and ask the question how would the system work if the component or service failed but it is quite rewarding coming up with solutions.
 
 **Meeting**
 
-Good meeting to dicuss project work got notification that from an initial team of 4 we are now a team of 3 or 2+1 when you take into account time difference isues got to admit silghtly concerned that due to the reduced numbers we are now going to be at a disadvantage when compared to the other teams but to parapharase the British Armed forces adapt and oversome so that is what we will do.but in sightly better news we are cracking on with our design document 📄 and are looking to use some quite interesting technology as part of that and our Drive for HA we have put using a active directory domain into our design as this will aid security and airgaps the web interface and user account info as we will only be sending NTLM hashes over the network to test this I also redid my LDAP proof of concept using the ldap3 python library as this has more options then the ldap Library we were going to use and please to say it works 
+Good meeting to discuss project work got notification that from an initial team of 4 we are now a team of 3 or 2+1 when you take into account time difference issues got to admit slightly concerned that due to the reduced numbers we are now going to be at a disadvantage when compared to the other teams but to paraphrase the British Armed forces adapt and overcome so that is what we will do. But in slightly better news we are cracking on with our design document 📄 and are looking to use some quite interesting technology as part of that and our Drive for HA we have put using a active directory domain into our design as this will aid security and airgaps the web interface and user account info as we will only be sending NTLM hashes over the network to test this I also redid my LDAP proof of concept using the ldap3 python library as this has more options then the LDAP Library we were going to use and please to say it works
 
 ```python
 from ldap3 import Server, Connection, ALL, NTLM
@@ -52,14 +52,14 @@ That being said if we consider a device such as a embedded controller such as a 
 Carried out the Towers of Hanoi Excerise made boy did that make my head hurt but got there eventually 
 
 ```python
-def Hanoi(x: int, source: str, dest: str, intermediate: str):
+def Hanoi(x1: int, source: str, dest: str, intermediate: str):
     # Base Case
-    if x == 1:
+    if x1 == 1:
         print(f"Transpose disk 1 from {source} to {dest}")
         return
-    Hanoi(x - 1, source, intermediate, dest)
-    print(f"Transpose disk {x} from {source} to {dest}")
-    Hanoi(x - 1, intermediate, dest, source)
+    Hanoi(x1 - 1, source, intermediate, dest)
+    print(f"Transpose disk {x1} from {source} to {dest}")
+    Hanoi(x1 - 1, intermediate, dest, source)
 
 
 Hanoi(4, 'A', 'B', 'C')
