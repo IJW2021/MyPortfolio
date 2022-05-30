@@ -8,7 +8,7 @@ In this week we looked at
 * Investigate language concepts using Python as an example.
 * Describe best practices and methods to overcome common security issues.
 
-This week I Started to think about the project and how in particular authentication of clients could happen so as a person who likes to see rather then just read about built a windows domain controller vm to try out some ideas on how our future implementation could be staged this process while overkill has given several insights that will be used to shape our project proposal.
+This week I Started to think about the project and how in particular authentication of clients could happen so as a person who likes to see rather then just read about this I built a windows domain controller vm to try out some ideas on how our future implementation could be staged this process while overkill has given several insights that will be used to shape our project proposal I have a feeling this is going to be a nice project to get our teeth into as the scope we have is pretty large which I like.
 
 ![Logo](Images/ESXI.png)
 
@@ -109,7 +109,7 @@ return 0; // 0 as return value
 
 ```
 
-**Fixed to Remove issue**
+**Fixed the code to Remove the issue**
 
 ```c
 #include <stdio.h>
