@@ -10,21 +10,21 @@ This week we looked at
 * Explore some common cryptographic libraries.
 * Create a basic application that uses cryptographic libraries to encode sample data.
 
-Positive but also slightly anoying start to the week on the postive side infrastructure build out is on schedule even with our change to base os which is turning out to be a good decision as a our VM images have reduced in size from 150GB per VM down to about 9GB per image while storage is not a big concern our current storage array has a 8TB ZFS pool smaller is better on a secuirty side as it means the attack surface of the OS underpinning our service is reduced. 
+Positive but also slightly annoying start to the week on the positive side infrastructure build out is on schedule even with our change to base Operating System which is turning out to be a good decision as an our VM images have reduced in size from 150GB per VM down to about 9GB per image while storage is not a big concern our current storage array has a 8TB ZFS pool smaller is better on a security side as it means the attack surface of the OS underpinning our service is reduced.
 
 **DR and BCP**
 
-Along with the actual delivery we need to think about our Disaster recovery position as a solutuon needs to be able to recover from unforseen events and as our domain is in a hostile environment this is important. To this regard as part of our plan is to include a backup and recovery solution as the industry leader and because there is a free tier we have gone with a VEEAM based solution.
+Along with the actual delivery we need to think about our Disaster recovery position as a solution needs to be able to recover from unforeseen events and as our domain is in a hostile environment this is important. To this regard as part of our plan is to include a backup and recovery solution as the industry leader and because there is a free tier, we have gone with a VEEAM based solution.
 
 ![Backup](Images/backup.png)
 
-Its also been a good week on the project broken down the project into its phases there are three main parts of our solution
+It’s also been a good week on the project broken down the project into its phases there are three main parts of our solution
 
 * User Interface
 * Data Collection
 * APIs
 
-Where possible I am going to try and align our plan with the prince2 design methodolgy I have used this before in my professional life and it has worked well so will be interesting to see how this transitions into a smaller project team as when I used it the team was in the hundreds.
+Where possible I am going to try and align our plan with the prince2 design methodology I have used this before in my professional life and it has worked well so will be interesting to see how this transitions into a smaller project team as when I used it the team was in the hundreds.
 
 * 1. Projects must have business justification.
 * 2. Teams should learn from every stage.
@@ -36,14 +36,14 @@ Where possible I am going to try and align our plan with the prince2 design meth
 
 [https://www.wrike.com/blog/project-management-basics-prince2-explained/]
 
-As perviously mentioned I have been asigned the task of buildig the APIS that the rest of the solution will use while not the part of the project that has the wow factor without a strong underpinning the services that are built on top of the APIS will suffer so have been reading up on API Design the Flask Micro framework and JWT tokens. As I want to build a strong set of APIs. 
+As previously mentioned, I have been assigned the task of building the APIS that the rest of the solution will use while not the part of the project that has the wow factor without a strong underpinning the services that are built on top of the APIS will suffer so have been reading up on API Design the Flask Micro framework and JWT tokens. As I want to build a strong set of APIs.
 
-We had a good dicussion about encryption which was quite interesting so wrote a quick ROT13 which I class more of a encoding techninque then a real encryption standard actually rember using it when talking part in usenet dicussion forums back in the eary 90s
+We had a good discussion about encryption in the seminar which was quite interesting so after the meeting I wrote a quick ROT13 implementation which I class more of a encoding technique then a real encryption standard actually remember using it when talking part in UseNet discussion forums back in the early 90s
 
 ```python
-def rot13(q: str) -> str:
+def rot13(Input: str) -> str:
     result: list = []
-    for x in q:
+    for x in Input:
         if x.isalpha():
             shift = 13 if 'Z' < x < 'n' or x < 'N' else -13
             result.append(chr(ord(x) + shift))
@@ -53,10 +53,7 @@ def rot13(q: str) -> str:
 ```
 
 **GitHub Actions**
-
-So in a effort to save time during commits of my API code which is undergoing a period of rapid development setup a github action to produce and publish the docker image this also solves another issue I was having because my main development machine is a M1 Macbook based on ARM architecture people using x86 based devices were getting problems running the docker image so getting github to produce the image aslo resolves that issue.
-
-
+So, in an effort to save time during commits of my API code which is undergoing a period of rapid development setup a GitHub action to produce and publish the docker image this also solves another issue I was having because my main development machine is a M1 MacBook based on ARM architecture people using x86 based devices were getting problems running the docker image so getting GitHub to produce the image also resolves that issue.
 
 ```yml
 name: Build and Publish
@@ -99,15 +96,16 @@ jobs:
         run: echo ${{ steps.docker_build.outputs.digest }}
 ```
 
-Really enjoying playing with the Github actions a bit different to the GitLab CI/DI im use to but quite powerful what you can do with a few lines of yml automation I have a feeling is going to be a key thing in the project as if we can automate alot of the tasks then that allow us to focus on the coding and design its not allways about working harder sometimes you need to worker smarter by removing the barriers that prevent the developers from developing. This is a lesson I learned quite a few years ago so is something I will try to implement in our project. Will I be sucecssful dont know but allways worth a try.  
+Really enjoying playing with the GitHub actions a bit different to the GitLab CI/DI I’m use to but quite powerful what you can do with a few lines of YML automation I have a feeling is going to be a key thing in the project as if we can automate a lot of the tasks then that allow us to focus on the coding and design it’s not always about working harder sometimes you need to worker smarter by removing the barriers that prevent the developers from developing. This is a lesson I learned quite a few years ago so is something I will try to implement in our project. Will I be successful don’t know but always worth a try.  
 
 # MariaDB
 
-So after making the decison to move our DMBS to maria DB due to driver issues on postgre we now needed to make MariaDB HA to do this we used a couple of methods the first was to setup replication between MariaDB hosts this was first configured as Master -> Slave but after some thought we reconfigured MariaB to a master to master configuration that way any update on any host would be replicated. Along with this we also connfigured MariaDB to use SSL Certificates so the replication and any data access would be secured behind 256bit encryption
+So, after making the decision to move our DMBS to maria DB due to driver issues on PostgreSQL we now needed to make MariaDB HA to do this we used a couple of methods the first was to setup replication between MariaDB hosts this was first configured as Master -> Slave but after some thought we reconfigured MariaDB to a master to master configuration that way any update on any host would be replicated. Along with this we also configured MariaDB to use SSL Certificates so the replication and any data access would be secured behind 256bit encryption
 
 The second way was to install from source keepalived so that we could have a virtual IP for our service to connect to but in the event of a host failure the connection our service used would failover to the second host We tested this by failing on of the hosts and it failed over to the second maria DB instance and because the data had been replicated the service remained up and did not suffer an outage. 
 
-You know when you have been reading too much on a subject when your searching takes you to bedding on the subject ISS bedding anyone ? 😀 but on the whole a good positive week
+You know when you have been reading too much on a subject when your searching takes you to bedding on the subject ISS bedding anyone? 😀 but on the whole a good positive week
+
 
 ![Logo](Images/Bedding.png)
 
@@ -116,7 +114,7 @@ Still positive about the project but I do think the size of the task we have giv
 > “That which does not kill us makes us stronger.” 
 ― Friedrich Nietzsche
 
-So im going to use the pressure to motivate myself to hopefully produce a good bit of coding for the project we get one chance so put the work in and you will reep the rewards plenty of time to rest once the work is done.
+So, I’m going to use the pressure to motivate myself to hopefully produce a good bit of coding for the project we get one chance so put the work in and you will reep the rewards plenty of time to rest once the work is done.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
