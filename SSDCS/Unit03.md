@@ -10,11 +10,11 @@ In this week we looked at
 * Investigate language concepts using Python as an example.
 * Describe best practices and methods to overcome common security issues.
 
-This week I Started to think about the project and how in particular authentication of clients could happen so as a person who likes to see rather then just read about this I built a windows domain controller vm to try out some ideas on how our future implementation could be staged this process while overkill has given several insights that will be used to shape our project proposal I have a feeling this is going to be a nice project to get our teeth into as the scope we have is pretty large which I like.
+This week I Started to think about the project and how in particular authentication of clients could happen so as a person who likes to see rather than just read about this I built a windows domain controller VM to try out some ideas on how our future implementation could be staged this process while overkill has given several insights that will be used to shape our project proposal I have a feeling this is going to be a nice project to get our teeth into as the scope we have is pretty large which I like.
 
 ![Logo](Images/ESXI.png)
 
-Along with the hardware side with this I manged to write a python script as a proof of concept (POC) that would authenticate against the windows active directory. This is one area that I am keen to take forward into our team project as from a security view seperation of the application tier and the user deatils tier is a must and is also the way we do it when creating realword applications if for no other reason that you only need one set of user data that can be used across many application domains. 
+Along with the hardware side with this I manged to write a python script as a proof of concept (POC) that would authenticate against the window’s active directory. This is one area that I am keen to take forward into our team project as from a security view separation of the application tier and the user details tier is a must and is also the way we do it when creating real word applications if for no other reason that you only need one set of user data that can be used across many application domains.
 
 ```python
 # Authenticate Against a Windows Active Directory Domain Controller
@@ -86,13 +86,14 @@ Another Good Evening of work as have managed to set the first component of what 
 
 ![Logo](Images/Cluster.png)
 
-All running Docker Swarm technology and setup to be HA and to also load balance plan is to also build a K8S cluster and to compare the two systems initial thoughts are Docker Swarm is the easier to use and setup but K8s has the bigger market footprint and is now the defacto standard for these sort of workloads so with my Architects hat on I would say K8s is the way to go if we want to deliver a long term solution but enjoying investigating the technology as its not something I have had any exposure to before and might be something I would now consider using in a commercial project.
 
-Along with that also setup a reverse SSL proxy so any connections to our services will be secured with Lets Encrypt SSL Certificates as part of our design plan is where possible to secure everything with SSL certificates.
+All running Docker Swarm technology and setup to be HA and to also load balance plan is to also build a K8S cluster and to compare the two systems initial thoughts are Docker Swarm is the easier to use and setup but K8s has the bigger market footprint and is now the de-facto standard for these sort of workloads so with my Architects hat on I would say K8s is the way to go if we want to deliver a long term solution but enjoying investigating the technology as it’s not something I have had any exposure to before and might be something I would now consider using in a commercial project.
+
+Along with that also setup a reverse SSL proxy so any connections to our services will be secured with Let’s Encrypt SSL Certificates as part of our design plan is where possible to secure everything with SSL certificates.
 
 ![Logo](Images/Proxy.png)
 
-I feel this week is where we have hit our stride as a project good progess being made and the non project content is also helping by providing the skills and knowledge we need to produce our plans a good synegey betwen our own work and the course content looking forward to next week and also making more progress on our design. 
+I feel this week is where we have hit our stride as a project good progress being made and the non project content is also helping by providing the skills and knowledge we need to produce our plans a good synergy between our own work and the course content looking forward to next week and also making more progress on our design.
 
 ### Buffer Overflows
 
