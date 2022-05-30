@@ -12,9 +12,10 @@ This week we Looked At
 
 ![Logo](Images/Stats.png)
 
-The plan to take a step back from coding sort of worked as the amount of time coding was down from last weekleaading to a less stressed Ian and some serious progress has been made as a team we did our first end to end test and we succesfully got our dataproducer sending data to our Kafka cluster which we have now built we then created a Kafka connector container that picked up the data and successfully used our API to write the data into our MariaDB. On a personal note it was great to see that after weeks of design and coding that the solution was viaiable. We now need a big push to smooth out the rough edges and to start documentation on the infrastructure and coding side of the work.
+The plan to take a step back from coding sort of worked as the amount of time coding was down from last week leading to a less stressed Ian and some serious progress has been made as a team, we did our first end to end test and we successfully got our data producer sending data to our Kafka cluster which we have now built we then created a Kafka connector container that picked up the data and successfully used our API to write the data into our MariaDB. On a personal note, it was great to see that after weeks of design and coding that the solution was viable. We now need a big push to smooth out the rough edges and to start documentation on the infrastructure and coding side of the work.
 
-We also got some key tecnology working we have now implemented watchtower on our web hosts (Docker) that when a new image is produced via our automated Github actions new docker containers get buildt on every push to the main branch it will see that and automatically update the running container with the new version without us having to manually reconfigure the hosts. 
+We also got some key technology working we have now implemented watchtower on our web hosts (Docker) that when a new image is produced via our automated GitHub actions new docker containers get built on every push to the main branch it will see that and automatically update the running container with the new version without us having to manually reconfigure the hosts.
+
 
 **WatchTower Log**
 
@@ -44,9 +45,10 @@ App Store Improvements - Support - Apple Developer. [Online]. Available at: http
 
 ## Project Coding
 
-One final push on the coding we are now in a feature freeze so no new features are being added and the coding work that is being done is just to polish the existing code base. learning alot on the project management side as along with coding and writing the documentation IT people usually make quite bad attempts at documentation this is even more the case when you are documenting your own code. In a ideal world as a team we would document each others code to ensure understanding and maybe if I get to project manage another group project which now having done it on a project I think I would like to do which is not something I ever expected to say I guess we all do change and I have while doing this project though I still consider myself a code monkey at heart 👨‍💻 as Still happyist when writing code.  
+One final push on the coding we are now in a feature freeze so no new features are being added and the coding work that is being done is just to polish the existing code base. learning a lot on the project management side as along with coding and writing the documentation IT people usually make quite bad attempts at documentation this is even more the case when you are documenting your own code. In an ideal world as a team, we would document each other’s code to ensure understanding and maybe if I get to project manage another group project which now having done it on a project, I think I would like to do which is not something I ever expected to say I guess we all do change and I have while doing this project though I still consider myself a code monkey at heart 👨‍💻 as Still happiest when writing code.  
 
-I was also happy I lost the dicussion on which message queue system to use Apache Kafka was the right choice so its good when you can have debates within a team as long as it is based on the problem rather then the indviduals its when it becomes personal is when it becomes a issue and happy to say we never had those problems all our meetings have been constructive and even when we had differing views it was always respectful and based on the project so a good team can go a long way in making or breaking a project.
+I was also happy I lost the discussion on which message queue system to use Apache Kafka was the right choice so it’s good when you can have debates within a team as long as it is based on the problem rather than the individuals it’s when it becomes personal is when it becomes an issue and happy to say we never had those problems all our meetings have been constructive and even when we had differing views it was always respectful and based on the project so a good team can go a long way in making or breaking a project.
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
