@@ -13,9 +13,9 @@ This Week we looked at
 * Discuss the difference between virtualisation approaches.
 * Advise on the differences between dynamic and shared libraries.
 
-So our team proposal has finally been submitted 🥳 but we had to be brutal with the editing to get the submission within the word limit for the next set of students who do this module please raise the word limit as we had to cut quite a few well researched sections just to get it in under a imposed limit. that being said quite happy with our proposal but now we have to implement what we have designed 
+So, our team proposal has finally been submitted 🥳 but we had to be brutal with the editing to get the submission within the word limit for the next set of students who do this module please raise the word limit as we had to cut quite a few well researched sections just to get it in under a imposed limit. that being said quite happy with our proposal but now we have to implement what we have designed
 
-In other project news backend infrastructure build out has had both a good and negitive week on the good side we have now got DR and a backup solution in place so in the event of any issues we can recover our indvidual components on the not so good side a new version of the core Linux Distro we plan to use is due to be released this week so I may need to rebuild some of our platform to take advantage of the improved secrity included in the new version if nothing else it has a cool name **22.04 Jammy Jellyfish** I thought that now the final proposal has been submitted in these weekly posts I wold include some information on the build process and what has changed from our initial plan as "no plan lasts past first contact with the enemy" [Field Marshal Helmuth von Moltke] so I 100% expect that there will need to be changes to the design in the delivery phase of the project.
+In other project news backend infrastructure build out has had both a good and negative week on the good side we have now got DR and a backup solution in place so in the event of any issues we can recover our individual components on the not so good side a new version of the core Linux Distro we plan to use is due to be released this week so I may need to rebuild some of our platform to take advantage of the improved security included in the new version if nothing else it has a cool name 22.04 Jammy Jellyfish I thought that now the final proposal has been submitted in these weekly posts I would include some information on the build process and what has changed from our initial plan as "no plan lasts past first contact with the enemy" [Field Marshal Helmuth von Moltke] so I 100% expect that there will need to be changes to the design in the delivery phase of the project.
 
 **Weekly Change to Proposal**
 
@@ -34,13 +34,13 @@ esxcli software profile update -p ESXi-7.0U3d-19482537-standard -d \
 https://hostupdate.vmware.com/software/VUM/PRODUCTION/main/vmw-depot-index.xml
 esxcli network firewall ruleset set -e false -r httpClient
 ```
-So read an article about the technology NASA https://www.computerweekly.com/blog/Open-Source-Insider/International-Space-Station-adopts-Debian-Linux-drops-Windows-Red-Hat-into-airlock actually use (Debian Linux in space and RedHat for ground Side Proccessing) so inspired to have a look and see if we can migrate our technology stack to match as we want to be as close to real life as possible this may turn out to be a seamed a good idea at the time decision but better to try and fail then not to try at all.  
+I read an article about the technology NASA https://www.computerweekly.com/blog/Open-Source-Insider/International-Space-Station-adopts-Debian-Linux-drops-Windows-Red-Hat-into-airlock actually use (Debian Linux in space and RedHat for ground Side Processing) so inspired to have a look and see if we can migrate our technology stack to match as we want to be as close to real life as possible this may turn out to be a seamed a good idea at the time decision but better to try and fail then not to try at all.  
 
 ![Logo](Images/Debian.png)
 
 ## Python Shell
 
-So Along with the project work I also completed the excerise of making a python shell I quite enjoyed this and went though a couple of itterations but settled on a version that made extensive use of lamda functions to fulfill and actually go beyond the spec 
+Along with the project work I also completed the exercise of making a python shell I quite enjoyed this and went through a couple of iterations but settled on a version that made extensive use of lambda functions to fulfil and actually go beyond the spec
 
 ```python
 import os
@@ -263,11 +263,11 @@ This then allows the developer to focus on the sevices they are trying to delive
 - [x] Python Shells and use of Lamda calls  
 - [x] Debian Linux
 
-So Actually quite happy at the moment with how the project is going pieces are falling into place even my project management is going quite well though also beginning to feel the pressure of making sure we actualy deliver on or design. Plan for the worst hope for the best I really want to get the building blocks in place in the next week so that we can focus on the code but now I have got a bit of project management experence I have learnt to be realistic so may take a bit longer but the plan is to do it right do it once even if that takes a bit longer in the inital phase. 
+So actually, quite happy at the moment with how the project is going pieces are falling into place even my project management is going quite well though also beginning to feel the pressure of making sure we actually deliver on or design. Plan for the worst hope for the best I really want to get the building blocks in place in the next week so that we can focus on the code but now I have got a bit of project management experience I have learnt to be realistic so may take a bit longer but the plan is to do it right do it once even if that takes a bit longer in the initial phase. 
 
-Though also enjoying the challenge of this project its pretty cool that we can take the project where we want within the project domain that freedom some may not like it as they pefer to have strict guidlines I quite like it as it allows me to use a full set of skills Application Design , Infrastructure , Networking , Security got a feeling this project may be one of the defining bits of work I do on this course looking forward to adding to the project
+Though also enjoying the challenge of this project it’s pretty cool that we can take the project where we want within the project domain that freedom some may not like it as they prefer to have strict guidelines, I quite like it as it allows me to use a full set of skills Application Design, Infrastructure, Networking, Security got a feeling this project may be one of the defining bits of work I do on this course looking forward to adding to the project
 
-**Bring it On**
+Just got one thing to say **Bring it on**
 
 **Happiness Level**
 😀😀😀😀
