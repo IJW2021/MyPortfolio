@@ -2,6 +2,12 @@
 [1](/MyPortfolio/SSDCS/Unit01.html) | [2](/MyPortfolio/SSDCS/Unit02.html) | [3](/MyPortfolio/SSDCS/Unit03.html) | [4](/MyPortfolio/SSDCS/Unit04.html) | [5](/MyPortfolio/SSDCS/Unit05.html) | [6](/MyPortfolio/SSDCS/Unit06.html) | [7](/MyPortfolio/SSDCS/Unit07.html) | [8](/MyPortfolio/SSDCS/Unit08.html) | [9](/MyPortfolio/SSDCS/Unit09.html) | [10](/MyPortfolio/SSDCS/Unit10.html) | [11](/MyPortfolio/SSDCS/Unit11.html) | [12](/MyPortfolio/SSDCS/Unit12.html)
 ### Week Three [Tres Sabbati]
 
+In this week we looked at
+
+* Review the history and concepts of programming languages.
+* Investigate language concepts using Python as an example.
+* Describe best practices and methods to overcome common security issues.
+
 This week I Started to think about the project and how in particular authentication of clients could happen so as a person who likes to see rather then just read about built a windows domain controller vm to try out some ideas on how our future implementation could be staged this process while overkill has given several insights that will be used to shape our project proposal.
 
 ![Logo](Images/ESXI.png)
@@ -69,7 +75,7 @@ Hacker-One Reports https://github.com/reddelexc/hackerone-reports/blob/master/to
 Calzavara Stefano (https://secgroup.dais.unive.it/wp-content/uploads/2020/03/more_server.pdf)
 OWSAP https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html [Accessed 21.03.2022]
 
-***Project Investigations***
+## Project Investigations
 
 Another Good Evening of work as have managed to set the first component of what may become our final solution 9 VMs to act as a HA cluster
 
@@ -88,7 +94,7 @@ I feel this week is where we have hit our stride as a project good progess being
 
 ### Buffer Overflows
 
-Carried Out the buffer overflow excerise intersting topic and brought back a lot of memorys of when I used to have to write C code 
+I also Carried Out the buffer overflow excerise intersting topic and brought back a lot of memorys of when I used to have to write C code where you have to think about the size of the buffer you allocate and freeing up memory. 
 
 ```c
 #include <stdio.h> 
