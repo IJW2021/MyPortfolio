@@ -21,11 +21,11 @@ Welcome to my journey through the UOE Secure software development module while m
 
 **Meeting Minutes 👨‍💻**
 
-- [Meeting 01](/MyPortfolio/SSDCS/Meeting1.docx)
-- [Meeting 02](/MyPortfolio/SSDCS/Meeting2.docx)
-- [Meeting 03](/MyPortfolio/SSDCS/Meeting3.docx)
-- [Meeting 04](/MyPortfolio/SSDCS/Meeting4.docx)
-- [Meeting 05](/MyPortfolio/SSDCS/Meeting5.docx)
+- [Meeting 01](/MyPortfolio/SSDCS/Meeting1.pdf)
+- [Meeting 02](/MyPortfolio/SSDCS/Meeting2.pdf)
+- [Meeting 03](/MyPortfolio/SSDCS/Meeting3.pdf)
+- [Meeting 04](/MyPortfolio/SSDCS/Meeting4.pdf)
+- [Meeting 05](/MyPortfolio/SSDCS/Meeting5.pdf)
 
 **Deliverable's**
 
