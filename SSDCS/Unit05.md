@@ -11,7 +11,7 @@ This week we looked at
 * Examine a range of testing techniques and appreciate the relevance of each in different testing scenarios.
 * Recognise the tools and frameworks which are available to support and automate the Python testing process.
 
-Good start to the week I some work in preparation for the development phase of the project work and got python talking over Secure LDAP (Port 636) to our ldap server this meanswe can be fully encrypted end to end though trying to setup non Microsoft generated certificates on a Microsoft 2022 domain controller could not be described as fun. I think however we are now in a good place and we can either put SSL certs on parts of our application that support SSL termination or put a SSL terminating proxy in front of the parts that don't have native SSL/TLS support.
+Good start to the week I some work in preparation for the development phase of the project work and got python talking over Secure LDAP (Port 636) to our LDAP server this means we can be fully encrypted end to end though trying to setup non Microsoft generated certificates on a Microsoft 2022 domain controller could not be described as fun. I think however we are now in a good place and we can either put SSL certs on parts of our application that support SSL termination or put an SSL terminating proxy in front of the parts that don't have native SSL/TLS support.
 
 ```shell
 ld = ldap_sslinit("svp-domain-01.ssdgroup3.info", 636, 1);
@@ -48,7 +48,7 @@ supportedSASLMechanisms (4): GSSAPI; GSS-SPNEGO; EXTERNAL; DIGEST-MD5;
 
 ```
 
-A good second half of the week making good progress on the final proposal though I do have the tendency to go down a rabbit 🐇 hole like this week spent far too long looking at the diffent reverse proxies we could use for the solution currenty favouring HAProxy as it apepars to offer everything we need SSL Termination along with load balancing but this could well change before the project is complete I have also got the SSL side ready we are now officaly **SSD Group3 (Space Division)** 🚀🛰 looking foward to actually getting down to the implementation stage while a plan is important and is 100% required to deliver a successful project at some point the talking needs to stop and you actually need to produce something so looking forward to the next phase of the project. It Will also be nice to see if can put some of my Prince2 training to use. 
+A good second half of the week making good progress on the final proposal though I do have the tendency to go down a rabbit 🐇 hole like this week spent far too long looking at the different reverse proxies we could use for the solution currently favouring HAProxy as it appears to offer everything we need SSL Termination along with load balancing but this could well change before the project is complete I have also got the SSL side ready we are now officially **SSD Group3 (Space Division)** 🚀🛰 looking forward to actually getting down to the implementation stage while a plan is important and is 100% required to deliver a successful project at some point the talking needs to stop and you actually need to produce something so looking forward to the next phase of the project. It Will also be nice to see if can put some of my Prince2 training to use.
 
 **👨‍💻 Ian From the future here as predicted above I changed my mind and dropped HA Proxy in favour of NGINX running in reverse proxy mode a number of reason but mainily HA Proxy had issues when running on VMs that were also running KeepAliveD**
 
