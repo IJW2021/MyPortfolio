@@ -1,6 +1,8 @@
 ![Logo](Images/Logo.png)
 ## Secure Software Development (Computer Science)
 
+Welcome to my journey through the UOE Secure software development module while may students have done this module the folloing content is the details of my journey and experences while taking the module 
+> Ian Wolloff 2022
 
 **Module Reflection Diary 📔**
 
