@@ -9,10 +9,9 @@ During this week we looked at
 * Experiment with the creation of UML flow charts.
 * Understand the range of ways in which software security can be problematic.
 
+Week two and making some progress on the design and have been looking into Nasa , ESA and SpaceX to see what public information there is so we can use that to shape our design. Still not had any contact from 2 members of the team so we will make a start and onboard them once we can make contact. Not a ideal start but should not be a problem.
 
-Week two and making some progress on the design and have been looking into Nasa , ESA and SpaceX to see what public information there is so we can use that to shape our design. Still not had any contact from 2 members of the team so we will make a start and onbaord them once we can make contact. Not a ideal start but should not be a problem. 
-
-I have the start of an idea for our proposal so will put some notes together if we go with this plan then we have a good chance of having a good design document with some ideas that may not have been done before. Or we may fail in an equally over the top manner "No Risk no reward" on the non project side did some more background reading and made a forum post on Oracle ORS intersting technology but a real pain to implement correctly. 
+I have the start of an idea for our proposal so will put some notes together if we go with this plan then we have a good chance of having a good design document with some ideas that may not have been done before. Or we may fail in an equally over the top manner "No Risk no reward" on the non project side did some more background reading and made a forum post on Oracle ORS interesting technology but a real pain to implement correctly.
 
 # Forum Post
 
@@ -77,9 +76,9 @@ https://docs.oracle.com/database/121/TDPSG/GUID-72D524FF-5A86-495A-9D12-14CB1381
 |Deployment   |Automate deployment |
 |Operations   |   |
 
-**So after attending the session found I had totally got the wrong end of the stick in reagared to this question it ok now as was explained in the seminar but just proves that we dont always get it right ☹️ but will learn from the error double check what is actually needed for future questions. Its anoying I made this error but will move on and try to do better next time.** 
+**So after attending the session found I had totally got the wrong end of the stick in regard to this question it ok now as was explained in the seminar but just proves that we don’t always get it right ☹️ but will learn from the error double check what is actually needed for future questions. Its annoying I made this error but will move on and try to do better next time. ** 
 
-Looking forward to week three as that should give some more of the skills that will help with the project so far project is on track but we need to keep on top of it in order to hit our project milestones. That being said did take some time to just read the content without thinking about projects or seminars just read and digest the content dont do that enough and its nice sometimes just to absorb yourself in a book without the distractions of the modern world. 
+Looking forward to week three as that should give some more of the skills that will help with the project so far project is on track but we need to keep on top of it in order to hit our project milestones. That being said did take some time to just read the content without thinking about projects or seminars just read and digest the content don’t do that enough and its nice sometimes just to absorb yourself in a book without the distractions of the modern world.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
