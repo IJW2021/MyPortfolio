@@ -12,13 +12,15 @@ During this First week  I looked at
 * Code Weaknesses
 * Writing Secure Code
 
-Week one was a busy week as had to get back into the study mindset but was also quite a productive week in that got put into a team for the project work and I allready have a number of ideas on what 
+Week one was a busy week as had to get back into the study mindset but was also quite a productive week in that got put into a team for the project work and I already have a number of ideas on what 
 
-Personally I really fancy doing the NASA area of study as I think that has a good scope for what can be achieved but once I meet with the team happy to go with the teams decision. 
+Personally, I really fancy doing the NASA area of study as I think that has a good scope for what can be achieved but once I meet with the team happy to go with the team’s decision. 
+
 
 ![Logo](Images/NASA.png)
+[Nasa 2001 https://commons.wikimedia.org/wiki/File:NASA_Worm_logo.svg]
 
-Once I have met with the team we will assign roles within the project. The second half of the week was work comming out of the seminar both producing the UML for one of the OWSAP issues and producing the first draft of our team contract. Still unsure how many people will be on our team as having trouble getting in contact with two members but will keep trying so we can get our team contract signed off
+Once I have met with the team, we will assign roles within the project. The second half of the week was work coming out of the seminar both producing the UML for one of the OWSAP issues and producing the first draft of our team contract. Still unsure how many people will be on our team as having trouble getting in contact with two members but will keep trying so we can get our team contract signed off
 
 
 ### Choose an open-source UML tool from the list above. Select one of the coding weaknesses which have been identified by OWASP and create a flowchart of the steps which may have led to the weakness occurring.
