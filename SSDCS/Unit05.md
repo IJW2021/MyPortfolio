@@ -43,7 +43,7 @@ A good second half of the week making good progress on the final proposal though
 
 **👨‍💻 Ian From the future here as predicted above I changed my mind and dropped HA Proxy in favour of NGINX running in reverse proxy mode a number of reason but mainily HA Proxy had issues when running on VMs that were also running KeepAliveD**
 
-**Seminar 3 Preparation (and e-portfolio entry)**
+## Seminar 3 Preparation (and e-portfolio entry)
 
 Run styleLint.py in Codio.
 
