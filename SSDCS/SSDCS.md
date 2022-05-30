@@ -42,7 +42,7 @@ Welcome to my journey through the UOE Secure software development module while m
 - [Python Shell](/MyPortfolio/SSDCS/PythonShell.docx)
 - [Microservices](/MyPortfolio/SSDCS/Microservices.docx)
 
-**Skills Matrix**
+**Skills Matrix** s🏆
 
 - [Skills Matrix](/MyPortfolio/SSDCS/SkiilsMatrix.html)
 
