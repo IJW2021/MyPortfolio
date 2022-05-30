@@ -2,6 +2,12 @@
 [1](/MyPortfolio/SSDCS/Unit01.html) | [2](/MyPortfolio/SSDCS/Unit02.html) | [3](/MyPortfolio/SSDCS/Unit03.html) | [4](/MyPortfolio/SSDCS/Unit04.html) | [5](/MyPortfolio/SSDCS/Unit05.html) | [6](/MyPortfolio/SSDCS/Unit06.html) | [7](/MyPortfolio/SSDCS/Unit07.html) | [8](/MyPortfolio/SSDCS/Unit08.html) | [9](/MyPortfolio/SSDCS/Unit09.html) | [10](/MyPortfolio/SSDCS/Unit10.html) | [11](/MyPortfolio/SSDCS/Unit11.html) | [12](/MyPortfolio/SSDCS/Unit12.html)
 ### Week Ten [Hebdomada Decem]
 
+This week we Looked At
+
+* Explore the evolution of system architectures, from distributed systems to microservices.
+* Examine the strengths and weaknesses of the variety of approaches to distributed systems.
+* Define the security attacks which are specific to virtual environments.
+
 ![Logo](Images/Stats.png)
 
 The plan to take a step back from coding sort of worked as the amount of time coding was down from last weekleaading to a less stressed Ian and some serious progress has been made as a team we did our first end to end test and we succesfully got our dataproducer sending data to our Kafka cluster which we have now built we then created a Kafka connector container that picked up the data and successfully used our API to write the data into our MariaDB. On a personal note it was great to see that after weeks of design and coding that the solution was viaiable. We now need a big push to smooth out the rough edges and to start documentation on the infrastructure and coding side of the work.
@@ -18,7 +24,7 @@ time="2022-05-08T10:30:35Z" level=info msg="Removing image dbb9d13f27c0"
 time="2022-05-08T10:30:35Z" level=info msg="Session done" Failed=0 Scanned=4 Updated=1 notify=no
 ```
 
-**TrueCrypt**
+## TrueCrypt Response
 
 Had some time to think about the TrueCrypt issue so updated my Forum Post
 
