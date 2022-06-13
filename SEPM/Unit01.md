@@ -4,6 +4,10 @@
 ![Logo](Images/Diary.png)
 ### Week One [una sabbatorum]
 
+>"No river can return to its source, yet all rivers must have a beginning.” – American Indian Proverb
+
+As we start another module looking forward to seeing how this module goes as all the modules I have done so far have been interesting and I think have made me a better IT professional so my hopes for this module is it has the same affect. Also looking forward to seeing how UOE teach project management as having been involved in a fair few IT projects in my 20 years of working in Computing it will be interesting from a personal perspective to see how close to the ideal best practice what I do in my professional life is.  
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
