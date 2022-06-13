@@ -1,3 +1,4 @@
+![Logo](/SEPM/Images/Logo.png)
 ## Software Engineering Project Management 
 
 **Weekly Module Reflection Diary 📔**
