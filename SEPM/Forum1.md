@@ -42,9 +42,7 @@ but in the context of communication the project team for the A380 project were s
 
 ### PT Cruiser
 
-An example of where poor project planning was the PT cruiser car which is an example of how you need to plan across the whole spectrum of the project to ensure a successful outcome in this case the major areas of the project such as design advertising and production had been thought off and were successfully implemented as part of the delivery of the new model. The failure came during the final delivery phase of the project. Delivery times from the factory to the dealers had not been suffiently looked or had been under estimated at there had also been a failure to communicate between Chrysler corporate and the dealer network who would be selling the vehicles to the public.
-
-As a result of this poor planning dealers did not get the vehicles, they needed at the time they needed resulting in unhappy customers (Anon)
+An example of where poor project planning was the PT cruiser car which is an example of how you need to plan across the whole spectrum of the project to ensure a successful outcome in this case the major areas of the project such as design advertising and production had been thought off and were successfully implemented as part of the delivery of the new model. The failure came during the final delivery phase of the project. Delivery times from the factory to the dealers had not been suffiently looked or had been under estimated at there had also been a failure to communicate between Chrysler corporate and the dealer network who would be selling the vehicles to the public. As a result of this poor planning dealers did not get the vehicles, they needed at the time they needed resulting in unhappy customers (Anon) and lost sales as customers purchaed vehicles from other dealers.
 
 ### References
 
