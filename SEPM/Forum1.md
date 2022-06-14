@@ -47,6 +47,7 @@ An example of where poor project planning was the PT cruiser car which is an exa
 ### References
 
 Bailey Joanna. (2021). The Shift To Small: Long Haul Flights Will Use Smaller Planes. [Online]. Available at: https://simpleflying.com/shift-to-small/ [Accessed 14 June 2022].
+
 Brooks, F. P. (1978). The  Mythical Man-Month: Essays on Softw. 1st ed. USA: Addison-Wesley Longman Publishing Co., Inc.
 
 Buehler, R., Griffin, D. and Ross, M. (1994). Exploring the “Planning Fallacy”: Why People Underestimate Their Task Completion Times. Journal of Personality and Social Psychology, 67 (3).
