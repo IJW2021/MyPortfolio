@@ -17,33 +17,37 @@ The following is my Gherkin script for the task of how to use a coffee machine i
 
 Feature: Process of making a coffee using a bean to cup coffee machine in order to have a drink of coffee
 
+```shell
+
 Scenario: Make a latte coffee
 	Given there are beans in the bean reservoir 
 		And The Coffee machine is turned on
-And There is water in the water tank
+		And There is water in the water tank
 		And There is milk in the milk reservoir 
 		And There is a glass ready to receive coffee
 		And Coffee Selector is set to latte
 	When I press the Make Coffee Button
 	Then I get a glass of latte Coffee
-
+```
 
 The Second scenario we will look at is the production of a black coffee as the coffee machine has pre-programmed programs for different coffee-based beverages,
 
 ```shell
+
 Scenario: Make expresso 
 	Given there are beans in the bean reservoir 
-    And The Coffee machine is turned on
-    And There is water in the water tank 
-    And There is a glass ready to receive coffee
-    And Coffee Selector is set to espresso
-    And Coffee strength selector button is set to high 
-  When I press the Make Coffee Button
-  Then I get a glass of expresso Italian style Coffee
+    		And The Coffee machine is turned on
+    		And There is water in the water tank 
+    		And There is a glass ready to receive coffee
+    		And Coffee Selector is set to espresso
+    		And Coffee strength selector button is set to high 
+  	When I press the Make Coffee Button
+  	Then I get a glass of expresso Italian style Coffee
 ```
 
 The third scenario is running the cleaning cycle to clean the machine 
-	
+
+```shell
 Scenario: Clean Machine
 	Given That the cleaning warning light is being displayed
 		And the machine is not making coffee 
@@ -51,7 +55,7 @@ Scenario: Clean Machine
 		And the machine is powered on
 	When the play button is pressed
 	Then Run the cleaning cycle program
-
+```
 
 
 
