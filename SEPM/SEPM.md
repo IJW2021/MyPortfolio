@@ -19,6 +19,8 @@
 **Meeting Minutes 👨‍💻**
 
 **Deliverable's** 📦
+- [Team Contract](/MyPortfolio/SEPM/TeamContract.pdf)
+- [Requirements](/MyPortfolio/SEPM/REQUIREMENTS.pdf)
 
 **Skills Matrix** s🏆
 
