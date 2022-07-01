@@ -26,6 +26,37 @@ Roman Aqueducts | National Geographic Society. [Online]. Available at: https://e
 
 So we have got a time now aranged with team one these time differences can be a bit of a pain so put the finishing touches to our requirements document [Requirements](/MyPortfolio/SEPM/REQUIREMENTS.pdf) It will be good to get these nailed down as its has been acting as a bit of a blocker with us not being able to progress as we dont have a detailed or even outline set of requirements. Hopfully the meeting will resolve this and we can get back on track.
 
+**Seminar**
+
+Spent a couple of hours writing the code for the upcoming seminar it was good to get back to writing some code after not having done it for a few weeks not 100% happy with my solution as I think the if block could be made better and if i was using Python 3.10 I would have used the new pattern matching option aka case / switch statment but my IDE only uses 3.09 so stuck with the if block implementation.
+
+```python
+# Basic COCOMO
+
+def basic_cocomo(loc:int):
+    models = [("Organic", [2.4, 1.05, 2.5, 0.38]), ("Semi-Detached", [3.0, 1.12, 2.5, 0.35]), ("Embedded", [3.6, 1.20, 2.5, 0.32])]
+    lines_of_code: int = loc
+
+    if 2 <= lines_of_code / 1000 <= 50:
+        model = models[0]
+    elif 50 < lines_of_code / 1000 <= 300:
+        model = models[1]
+    elif 300 > lines_of_code / 1000:
+        model = models[2]
+
+    effort = model[1][0] * pow(lines_of_code / 1000, model[1][1])
+    time = model[1][2] * pow(effort, model[1][3])
+    developers = effort / time
+
+    print(f"The Model is {model[0]}")
+    print(f"Calculated Effort is {effort}  Person-Month")
+    print(f"Calculated Time is {time}  Months")
+    print(f"Developers needed {developers}")
+
+
+basic_cocomo(loc=4000)
+```
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
