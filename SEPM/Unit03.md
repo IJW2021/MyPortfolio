@@ -22,6 +22,9 @@ Microsoft 365 Evergreen I.T.: What it means for you. [Online]. Available at: htt
 
 Roman Aqueducts | National Geographic Society. [Online]. Available at: https://education.nationalgeographic.org/resource/roman-aqueducts [Accessed 30 June 2022d].
 
+**Meeting** 
+
+So we have got a time now aranged with team one these time differences can be a bit of a pain so put the finishing touches to our requirements document [Requirements](/MyPortfolio/SEPM/REQUIREMENTS.pdf) It will be good to get these nailed down as its has been acting as a bit of a blocker with us not being able to progress as we dont have a detailed or even outline set of requirements. Hopfully the meeting will resolve this and we can get back on track.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
