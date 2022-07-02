@@ -57,6 +57,59 @@ def basic_cocomo(loc:int):
 basic_cocomo(loc=4000)
 ```
 
+Went back and amended the python code much happier now with how it is constructed
+
+```python
+# Basic COCOMO
+from datetime import datetime
+from dateutil.relativedelta import relativedelta
+import sys
+
+
+def basic_cocomo(loc: int) -> any:
+    global model
+    effort, time, developers = 0, 0, 0
+    cocomo_models: list[tuple[str, list[float]]] = [("Organic", [2.4, 1.05, 2.5, 0.38]), ("Semi-Detached", [3.0, 1.12, 2.5, 0.35]), ("Embedded", [3.6, 1.20, 2.5, 0.32])]
+
+    if isinstance(loc, int):
+        lines_of_code: int = loc
+    else:
+        raise TypeError
+    # Set the Model we are using Organic etc
+    if 2 <= lines_of_code / 1000 <= 50:
+        model = cocomo_models[0]
+    elif 50 < lines_of_code / 1000 <= 300:
+        model = cocomo_models[1]
+    elif 300 > lines_of_code / 1000:
+        model = cocomo_models[2]
+    try:
+        effort: float = model[1][0] * pow(lines_of_code / 1000, model[1][1])
+        time: float = model[1][2] * pow(effort, model[1][3])
+        developers: float = effort / time
+    except UnboundLocalError:
+        print("Input Value Cannot be Processed")
+
+    if all(list(map(lambda x: isinstance(x, float), [effort, time, developers]))):
+        print(f"\033[92mLines of code\033[96m {lines_of_code}")
+        print(f"\033[92mThe Model is \033[96m{model[0]}")
+        print(f"\033[92mModel Values used are \033[96m{model[1]}")
+        print(f"\033[92mCalculated Effort is \033[96m{round(effort)}\033[92m Person-Month")
+        print(f"\033[92mCalculated Time is \033[96m{round(time)} \033[92mMonths from current date : \033[96m {datetime.now() + relativedelta(months=+round(time)):%d/%m/%Y}")
+        print(f"\033[92mDevelopers needed \033[96m{round(developers)}")
+    else:
+        print("Calculation Error")
+
+
+# Get LOC Value from Commandline
+if len(sys.argv) > 1:
+    try:
+        basic_cocomo(loc=int(sys.argv[1]))
+    except ValueError:
+        print("Invalid LOC Value")
+
+```
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
