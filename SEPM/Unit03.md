@@ -112,8 +112,8 @@ if len(sys.argv) > 1:
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Estimation Methods
+- [x] Refresher on Python
 
 **Happiness Level**
 😀😀😀😀😀
