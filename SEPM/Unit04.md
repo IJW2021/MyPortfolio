@@ -73,6 +73,8 @@ else:
 
 ```
 
+![Logo](Images/REST2.png)
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
