@@ -33,6 +33,23 @@ def test_default_initial_amount(20):
 
 In this example we have passed in 20 to the constructor so in the class self.balance will now evaluate to 20 rather then 0 meaning the assertion that the balance is zero will now fail.
 
+The second test sets the value to 100 and then checks that the value returned is 100
+
+```python
+def test_setting_initial_amount():
+    wallet = Wallet(100)
+    assert wallet.balance == 100
+```
+
+we can make this test fail by passing in any value that is not 100 for example
+
+```python
+def test_setting_initial_amount():
+    wallet = Wallet(50)
+    assert wallet.balance == 100
+```
+    
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
