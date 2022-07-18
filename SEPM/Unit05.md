@@ -8,10 +8,20 @@ Another Busy Week from our team meeting we are now at the point where we can sta
 
 While in general the project is going well do have some concerns over the missalignment of tasks and the skillsets required to complete those tasks so may need to raise that at out next meeting. looking forward to next week I want to get a framework in place for the game but also want to start looking at the presentation we need to do for part two. I finsihed writing the Exective summary this week and have passed it it the rest of the team for comments and for any polishing that is required. 
 
+Also this week started putting together some outlines of the design of the game currenty thinking of doing a variation of the classic tic tac toe game but did manage to write the code to implement dyanmic translation that I will present to the rest of the team at our next team meeting.  
+
+![Logo](Images/GAME1.png)
+
+![Logo](Images/GAME2.png)
+
+![Logo](Images/GAME3.png)
+
+Bit anoyed that we are not as far forward as I would like in the project phase but will regroup with the team and adjust the plan so that we can get everthing we need done in the time we have. Big focus for the next week however will be on fine tuning the first submission paper before the submission date. 
+
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Google Translate APIs
+- [x] Flask refresher 
 
 **Happiness Level**
 😀😀😀😀😀
