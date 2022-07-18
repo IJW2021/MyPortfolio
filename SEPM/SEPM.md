@@ -27,7 +27,7 @@
 
 **Meeting Minutes 👨‍💻**
 
--[Meeting 1](/MyPortfolio/SEPM/Meeting1.html)
+- [Meeting 1](/MyPortfolio/SEPM/Meeting1.html)
 
 **Deliverable's** 📦
 - [Team Contract](/MyPortfolio/SEPM/TeamContract.pdf)
