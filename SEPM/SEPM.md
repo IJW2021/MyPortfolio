@@ -1,6 +1,15 @@
 ![Logo](Images/Logo.png)
 ## Software Engineering Project Management 
 
+
+
+* An in-depth understanding of the basic principles of Project Management and software engineering principle
+* An understanding of the advanced principles of architecture, Behaviour Driven Development (BDD), and traditional and contemporary Software Development * Life Cycle (SDLC) models, such as TOGAF and Agile;
+* The ability to integrate the approaches: conflicts and compromises; 
+* An efficient ability to undertake analysis, program design, software construction and testing required for software development;
+* An understanding of the psychological and the sociological issues associated with how people interact with computing systems;
+* An appreciation for current and future challenges, limitations and opportunities;
+
 **Weekly Module Reflection Diary 📔**
 
 - [Unit 01](/MyPortfolio/SEPM/Unit01.html)
