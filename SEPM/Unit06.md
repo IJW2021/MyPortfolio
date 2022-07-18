@@ -49,6 +49,59 @@ def test_setting_initial_amount():
     assert wallet.balance == 100
 ```
     
+the 3rd test builds a wallet with a value of 10 and then calls the add_cash method to add 90 to it the assert then checks that the value is 100 90+10
+
+```python
+def test_wallet_add_cash():
+    wallet = Wallet(10)
+    wallet.add_cash(90)
+    assert wallet.balance == 100
+```
+
+as in the previous example we can fail the test by changing either the constructor value or the method call so that the result does not eaqual 100 or by chnaging the sign of the add cash value to negitive -90 as the function does not do any input validation to ensure that the add cash parameter is not a negitive number
+
+```python
+
+    def add_cash(self, amount):
+        self.balance += amount
+```
+
+we can rewrite this to add validation
+
+```python
+    def add_cash(self, amount):
+        if amount >= 0:
+            self.balance += amount
+        else:
+            raise ValueLessThenZero
+```
+
+For the next test we can again change any of the two values in this case we have set the wallet amount to 30 so when 10 is removed the value left is not 10 so the test will fail
+
+```python
+def test_wallet_spend_cash():
+    wallet = Wallet(30)
+    wallet.spend_cash(10)
+    assert wallet.balance == 10
+```
+
+in the final test if 
+
+```python
+def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
+    wallet = Wallet()
+    with pytest.raises(InsufficientAmount):
+        wallet.spend_cash(100)
+```
+
+if we remove the exception catch block the test will then fail
+
+```python 
+def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
+    wallet = Wallet()
+    wallet.spend_cash(100)
+```
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
