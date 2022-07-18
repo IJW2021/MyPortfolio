@@ -102,6 +102,7 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
     wallet.spend_cash(100)
 ```
 
+![Logo](Images/PYERROR.png)
 
 **Weekly Skills Matrix New Knowledge Gained**
 
