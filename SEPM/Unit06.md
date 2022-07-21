@@ -104,6 +104,48 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
 
 ![Logo](Images/PYERROR.png)
 
+Interesting seminar topic and good to hear Lukmans insight into the UX design proceess my forum post for the semianr was
+
+## Forum Post
+
+After having a think about the paper while the model in question I think was a good model for 2007/2008 the problem with it however is the software landscape has changed considerably in the 14 years since the model was published. This model was looking at the single user experience where what we should look at now is how the experience of a user fits into a wider modern ecosystem of linked products and services.
+
+If we think about this in the context of software, consumers are now more advance than they were back in 2007/2008 they now want and demand a unified experience across their software , hardware and services this removes a large part of the model as emotional responses will be changed for people already within an ecosystem the product belongs to. 
+
+The experience they will show is not directly attributed to their interaction with the product but also inherited from their previous experience of interacting with the common elements across the platform ecosystem. When a user receives a new product or interacts with a new service, they will already have an expectation of how that product will operate based on their exposure to other products and services within the same family of products within the eco system. An example of this are the three big ICT ecosystems
+
+*     Microsoft
+
+*     Google
+
+*     Apple
+
+A user who Is already in and invested in time and money in one of these eco systems and then receives a new application or uses a new service will already have an preconceived idea on how that service will operate and how the system will behave without ever seeing the new product or service. 
+
+So, their response both emotional and non-emotional is dictated both by the product or service they are using but also by their past experience within the ecosystem the product belongs to. This has both advantages and disadvantages. The plus is for a user the time taken to adopt a new product is reduced and there is usually a high degree of interoperability between products and services in the same ecosystem. The downside from the consumer point of view is these ecosystems tend to be walled gardens and once a user is investigated in a set of products and services from one ecosystem it is often very hard to move to another without considerable effort or expense.
+
+The standard IT Eco-System can be split into four pillars each of these generating a response from a user when experiencing use of a product or service.
+
+1. Platform (OS Level)
+
+2. Hardware
+
+3. Applications
+
+4. Services
+
+(Anon)
+
+So what I would add to the Model is an Ecosystem / Prior Experience section to cover off pre-existing expectations based on the use of associated services and products. 
+
+References
+
+Apple SWOT Analysis (5 Key Strengths in 2021). [Online]. Available at: https://strategicmanagementinsight.com/swot-analyses/apple-swot-analysis/ [Accessed 20 July 2022].
+
+David G. Messerschmitt and Clemens Szyperski. 2003. Software Ecosystem: Understanding an Indispensable Technology and Industry. MIT Press, Cambridge, MA, USA.
+
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
