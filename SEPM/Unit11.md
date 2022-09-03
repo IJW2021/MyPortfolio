@@ -13,7 +13,33 @@ Looking now to the project report, I am happy thatwe had achieved most of the re
 
 And that is a good summary of the module it has given skills that we can use in the real world will I ever manage a international team developing a childs to again I would say unlikely but when I do manage projects I will take some of the skills and lessons gained during the childs toy process into those projects.
 
+During this week also put together the slidepack for the seminar session 
 
+## Slides
+
+![Logo](Images/Slide1.jpeg)
+
+![Logo](Images/Slide2.jpeg)
+
+![Logo](Images/Slide3.jpeg)
+
+![Logo](Images/Slide4.jpeg)
+
+![Logo](Images/Slide5.jpeg)
+
+![Logo](Images/Slide6.jpeg)
+
+![Logo](Images/Slide7.jpeg)
+
+![Logo](Images/Slide8.jpeg)
+
+![Logo](Images/Slide9.jpeg)
+
+![Logo](Images/Slide10.jpeg)
+
+![Logo](Images/Slide11.jpeg)
+
+![Logo](Images/Slide12.jpeg)
 
 **Weekly Skills Matrix New Knowledge Gained**
 
