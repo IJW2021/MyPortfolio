@@ -21,11 +21,23 @@ The Two main Linters in use in the python ecosystem are Pylint and PyFlakes (Pre
 
 After running pylint and flake8 numerous times, I worked through the error messages attempting to resolve the issues that had been hihjlighted this was a time consuming task made more difficult by pylints rather preechy inteerperation of the styleguide which why Flake8 was my pefered linter it was however a worthwhile excerise as the resulting code was more robust and more closly aligned with the Python style guide. I also fond that both these tools have docker images so might have to look at adding these to our github action pipeline along with the docker build portition. 
 
+Project is still progressing we need to submit the presentation next week so one more big push to get it delivered have asked the team if they can record the transcripts for the parts of the system they did. With me doing the fill in the blanks. so once that is done I will see if I can get a day off work to put the presntation together before passing it to the rest of the team for final review and signoff.
+
+**References**
+
+PEP8 StyleGuide Available at: https://pep8.readthedocs.io/en/release-1.7.x/ (Accessed: 21 July 2022)
+
+HitchHikers Guide to Python Available at https://docs.python-guide.org/writing/style/ (Accessed: 23 July 2022)
+
+Flake8 https://flake8.pycqa.org/en/latest/(Accessed: 21 July 2022)
+
+PEP 8 — the Style Guide for Python Code Available at  https://pep8.org (Accessed: 23 July 2022)
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Python Linters
-- [x] 
+- [x] Python StyleGuide
 
 **Happiness Level**
 😀😀😀😀😀
