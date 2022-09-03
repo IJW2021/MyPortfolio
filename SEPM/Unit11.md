@@ -44,8 +44,8 @@ During this week also put together the slidepack for the seminar session
 
 
 
-- [x] 
-- [x] 
+- [x] Audio Recording 
+- [x] Crafting a Argument
 
 **Happiness Level**
 😀😀😀😀😀
