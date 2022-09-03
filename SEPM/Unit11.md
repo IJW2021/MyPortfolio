@@ -4,8 +4,7 @@
 ![Logo](Images/Diary.png)
 ### Week Eleven [Hebdomada undecim]
 
-Submission week so alot of the week has been spent 
-
+Submission week so alot of the week has been spent getting the slides ready and recording the audio so we can get the presentation ready internal debates about how the slides shoudl be presented but happy within reason to how the slides came out. Getting towards the end of the module just a presentation to do after we have submitted the slides. 
 
 Looking now to the project report, I am happy thatwe had achieved most of the requirements agreed upon with the client. Was it perfect no there were still some rough edges but one thing I have learnt from working in IT development is a solution is never done you just stop working on it there are always things you can improve. One area where I am happy was the module gave me expereince of leading a project and also the foundations of how to successfully deviver a project. Being a 100% remote though post covid that is not as different as it use to be and working with a international team in some ways the project was more challenging then a typical project I would work on and because of this I think I am now a more confident person when it comes to project management there is a saying the bristish army have
 
