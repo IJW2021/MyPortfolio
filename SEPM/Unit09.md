@@ -4,7 +4,12 @@
 ![Logo](Images/Diary.png)
 ### Week Nine [Hebdomada Novem]
 
-All our project infrastructure is now in place 🥳 went with a 2x dual Xeon Servers with 256GB memory as it looks like the project will be more memory limited then processor limited 
+All our project infrastructure is now in place 🥳 went with a 2x dual Xeon Servers with 256GB memory as it looks like the project will be more memory limited then processor limited Have installed by usual Linux Suite
+
+- WebMin (To Allow the server to be remote managed)
+- Docker (Container Engine)
+- CertBot (To Allow generation of SSL Certs)
+- Portainer Agent (To Allow Management in Portainer) 
 
 The The Topic for this week was code quality this is a really intresting topic and we could proberly do a whole module on just this topic being able to take some code and then to refactor it to run better and be more effcient or easier to read and maintain is something as a developer I always try to do
 
@@ -24,7 +29,8 @@ else:
     make_response(MISSING_SSL_CERT, 500)
 ```
 
-Good week good progress through I think I will need to try and shape the directon of the project team at next weeks meeting so we are all pullling in the same direction as this is one area of concern I have also need to take a look at the RAID log so we have that area of the project upto date as no point having these PM tools is they are not current and accurate. In Summary good week but still lots to do. 
+Good week good progress through I think I will need to try and shape the directon of the project team at next weeks meeting so we are all pullling in the same direction as this is one area of concern I have I also beginning to wish I was on the coding side as not sure my area of knowledge is being fully used doing the PM role might have to bring this up at our next meeting also need to take a look at the RAID log so we have that area of the project upto date as no point having these PM tools is they are not current and accurate. In Summary good week but still lots to do. 
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
