@@ -29,6 +29,29 @@ else:
     make_response(MISSING_SSL_CERT, 500)
 ```
 
+The Other Think I like to do is to make use of type label to allow readbility noting worse then comming back to some code after 6 months and having to wonder how was this function implemented. Comming from someone who is still supporting code I wrote over 15 years ago a leson I whished I had taken onboard sooner.
+
+```python
+from deep_translator import GoogleTranslator
+import sentry_sdk
+
+sentry_sdk.init(
+    dsn="https://ba63cacddc574a1384ec7a9e60f1ca9a@sentry.digitalchaos.tech/3",
+
+    # Set traces_sample_rate to 1.0 to capture 100%
+    # of transactions for performance monitoring.
+    # We recommend adjusting this value in production.
+    traces_sample_rate=1.0
+)
+
+
+def translate(source_lang: str, target_lang: str, message: str):
+    return GoogleTranslator(source=source_lang, target=target_lang).translate(message)
+
+
+print(translate('en', 'nl', 'Hello this is a message in german'))
+```
+
 Good week good progress through I think I will need to try and shape the directon of the project team at next weeks meeting so we are all pullling in the same direction as this is one area of concern I have I also beginning to wish I was on the coding side as not sure my area of knowledge is being fully used doing the PM role might have to bring this up at our next meeting also need to take a look at the RAID log so we have that area of the project upto date as no point having these PM tools is they are not current and accurate. In Summary good week but still lots to do. 
 
 
