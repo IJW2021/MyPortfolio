@@ -10,6 +10,13 @@ During unit 10, I continued the work into code quality and how to write high qua
 
 The Two main Linters in use in the python ecosystem are Pylint and PyFlakes (Previously Flake8) we can also include other code analysis tools such as bandit and sonarqube.
 
+**Pylint**
+
+![Logo](Images/PYLINT.png)
+
+**Flake8**
+
+![Logo](Images/FLAKE8.png)
 
 **Weekly Skills Matrix New Knowledge Gained**
 
