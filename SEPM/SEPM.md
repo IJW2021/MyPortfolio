@@ -35,6 +35,7 @@
 - [Requirements](/MyPortfolio/SEPM/REQUIREMENTS.pdf)
 - [Team One project Charter](/MyPortfolio/SEPM/Assets/Team1_Project_Charter.pdf)
 - [Team Two project Charter](/MyPortfolio/SEPM/Assets/Team2_Project_Charter.pdf)
+- [Project Document](/MyPortfolio/SEPM/Project.docx)
 - [PID](/MyPortfolio/SEPM/PID.docx)
 - [RAID Log](/MyPortfolio/SEPM/RAID.xlsx)
 - [Transcript](/MyPortfolio/SEPM/Transcript.docx)
