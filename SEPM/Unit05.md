@@ -17,7 +17,7 @@ Also, this week started putting together some outlines of the design of the game
 
 ![Logo](Images/GAME3.png)
 
-Bit anoyed that we are not as far forward as I would like in the project phase but will regroup with the team and adjust the plan so that we can get everthing we need done in the time we have. Big focus for the next week however will be on fine tuning the first submission paper before the submission date. 
+Bit annoyed that we are not as far forward as I would like in the project phase but will regroup with the team and adjust the plan so that we can get everything we need done in the time we have. Big focus for the next week however will be on fine tuning the first submission paper before the submission date.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
