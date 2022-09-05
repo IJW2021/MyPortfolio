@@ -43,4 +43,4 @@
 
 **Skills Matrix** s🏆
 
-- [Skills Matrix](/MyPortfolio/SEPM/SkiilsMatrix.html)
+- [Skills Matrix](/MyPortfolio/SEPM/SkillMatrix.html)
