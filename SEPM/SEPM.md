@@ -31,7 +31,6 @@
 - [Meeting 2](/MyPortfolio/SEPM/Meeting2.html)
 
 **Deliverable's** 📦
-- [Team Contract](/MyPortfolio/SEPM/TeamContract.pdf)
 - [Requirements](/MyPortfolio/SEPM/REQUIREMENTS.pdf)
 - [Team One project Charter](/MyPortfolio/SEPM/Assets/Team1_Project_Charter.pdf)
 - [Team Two project Charter](/MyPortfolio/SEPM/Assets/Team2_Project_Charter.pdf)
