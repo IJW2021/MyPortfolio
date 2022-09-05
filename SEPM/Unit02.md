@@ -4,11 +4,11 @@
 ![Logo](Images/Diary.png)
 ### Week Two [Duo]
 
-Week two and its been a good week as have learnt some new skills though not sure the idea of naming tools and processes after vegitables is a good idea but the theory behind it has been interesting for me comming from a TDD background looking at the BDD side of things has given me some things to think about.
+Week two and it’s been a good week as have learnt some new skills though not sure the idea of naming tools and processes after vegetables is a good idea but the theory behind it has been interesting for me coming from a TDD background looking at the BDD side of things has given me some things to think about.
+On the project side we had our first team meeting so need to follow up and arange a date with the other team to discuss what requirements we will need to put into our solution. Also started making some very rough notes on what sections I want to include in our summary document early days but have a rough plan in my head just need to articulate that to the other members of the team.
 
-On the project side we had our first team meeting so need to follow up and arange a date with the other team to dicuss what requirments we will need to put into our solution. Also started making some very rough notes on what sections I want to include in our sumamry document early days but have a rough plan in my head just need to artuclate that to the other members of the team.
+Also attended the first seminar good discussion but would have been nice if a few more people could attend though being in the UK guessing its easier for me to attend then some of the other students but enjoyed the content.
 
-Also attended the first seminar good dicussion but would have been nice if a few more people could attend though being in the UK guessing its easier for me to attend then some of the other students but enjoyed the content.
 
 **Seminar Prep Work**
 
