@@ -75,9 +75,10 @@ else:
 
 ![Logo](Images/REST2.png)
 
-Personally being a person who like to have things done well in advance and have a laid out plan to execute not personally thrilled by the delays that have been introduced as these will ripple through the rest of the project. It means we have lost at least a week of development time and that is not something that is wanted as it means we will need to redo estimates on timelines and the scope of what can be achieved. While delays happen in any project this one is quite anoying as it was 100% preventable. That being said and to take a saying from the Miltary "Adapt and overcome" and that is what we as a team will need to do we will amend our plan and overcome this setback. It just proves no matter how good your project plan once you actually get to implenetation things have a tendency to get in the way of delivering a 100% aligned with the plan project. 
+Personally, being a person who like to have things done well in advance and have a laid out plan to execute not personally thrilled by the delays that have been introduced as these will ripple through the rest of the project. It means we have lost at least a week of development time and that is not something that is wanted as it means we will need to redo estimates on timelines and the scope of what can be achieved. While delays happen in any project this one is quite annoying as it was 100% preventable. That being said and to take a saying from the Military "Adapt and overcome" and that is what we as a team will need to do, we will amend our plan and overcome this setback. It just proves no matter how good your project plan once you actually get to implementation things have a tendency to get in the way of delivering a 100% aligned with the plan project.
 
-Looking towards next week I really want to get the design of our solution started so that we stay on schedule as otherwise the schedule could easily slip in reality would have liked to be futher along the plan by now so thats a little fustrating especially when its outside of your control but will double down next week to get the project back on course.
+Looking towards next week I really want to get the design of our solution started so that we stay on schedule as otherwise the schedule could easily slip in reality would have liked to be further along the plan by now so that’s a little frustrating especially when its outside of your control but will double down next week to get the project back on course.
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
