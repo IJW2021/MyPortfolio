@@ -31,6 +31,7 @@
 - [Meeting 2](/MyPortfolio/SEPM/Meeting2.html)
 
 **Deliverable's** 📦
+- [Reasons for Project Failure](/MyPortfolio/SEPM/Failure.docx)
 - [Requirements](/MyPortfolio/SEPM/REQUIREMENTS.pdf)
 - [Team One project Charter](/MyPortfolio/SEPM/Assets/Team1_Project_Charter.pdf)
 - [Team Two project Charter](/MyPortfolio/SEPM/Assets/Team2_Project_Charter.pdf)
