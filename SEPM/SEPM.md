@@ -32,6 +32,7 @@
 
 **Deliverable's** 📦
 - [Reasons for Project Failure](/MyPortfolio/SEPM/Failure.docx)
+- [Estimation](/MyPortfolio/SEPM/Estimate.zip)
 - [Requirements](/MyPortfolio/SEPM/REQUIREMENTS.pdf)
 - [Team One project Charter](/MyPortfolio/SEPM/Assets/Team1_Project_Charter.pdf)
 - [Team Two project Charter](/MyPortfolio/SEPM/Assets/Team2_Project_Charter.pdf)
