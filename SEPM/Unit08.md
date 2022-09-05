@@ -4,7 +4,7 @@
 ![Logo](Images/Diary.png)
 ### Week Eight [Hebdomada Octo]
 
-So we have reached week eight allready scary how fast the module is progressing this week has been a week of looking at data structures in Python an Intersting topic and one that will be useful outside of just the SEPM module and those bits of content and knowledge tend at least in moy opinion are the bits of content I enjoy learning as thay can be applied to new situations and make me a better developer / IT Subject Matter Expert. 
+So we have reached week eight already scary how fast the module is progressing this week has been a week of looking at data structures in Python an Interesting topic and one that will be useful outside of just the SEPM module and those bits of content and knowledge tend at least in my opinion are the bits of content I enjoy learning as they can be applied to new situations and make me a better developer / IT Subject Matter Expert.
 
 ## Excerise
 
@@ -47,7 +47,7 @@ This would work but would require us to process the entries to identify which ar
 
 A list can store a series of items in a certain order meaning you can index into the list, or iterate over the list. A dictionary on the other hand is an example of a hash table structure and is a key-value type of structure. it requires that the dictionary keys are hash table. The advantage of this structure is speed of lookups
 
-On The Project side Weekly meeting was postive and I think we have an initial direction we want to take I have taken it upon myself to get the infrastructure side setup so that we have a platform we can host the application on its all going to be based on Microservices so planning on going with a standard Linux Host running the docker engine but will confirm with the team developers if they need anything outside of that.
+On The Project side Weekly meeting was positive and I think we have an initial direction we want to take I have taken it upon myself to get the infrastructure side setup so that we have a platform we can host the application on its all going to be based on Microservices so planning on going with a standard Linux Host running the docker engine but will confirm with the team developers if they need anything outside of that.
 
 **To DO My Actions for the next week**
 
