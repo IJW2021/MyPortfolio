@@ -4,7 +4,7 @@
 ![Logo](Images/Diary.png)
 ### Week Six [Hebdomada Sex]
 
-Spent a couple of hours looking at pytest its a lot nicer then unittest so may use this in all my projects now part of the excerise was to take some unit tests and make them fail. Must admit never been asked before to make a test fail first thought was ok look at the edge cases as we are dealing with money I thought lets look at what happens if we introduce a negtive number for this I added to the main class so we could capture an exception in regard to negitive numbers 
+Spent a couple of hours looking at pytest it’s a lot nicer then unittest so may use this in all my projects now part of the exercise was to take some unit tests and make them fail. Must admit never been asked before to make a test fail first thought was ok look at the edge cases as we are dealing with money, I thought let’s look at what happens if we introduce a negative number for this I added to the main class so we could capture an exception in regard to negative numbers
 
 ```python
 """
