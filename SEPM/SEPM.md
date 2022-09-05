@@ -28,6 +28,7 @@
 **Meeting Minutes 👨‍💻**
 
 - [Meeting 1](/MyPortfolio/SEPM/Meeting1.html)
+- [Meeting 2](/MyPortfolio/SEPM/Meeting2.html)
 
 **Deliverable's** 📦
 - [Team Contract](/MyPortfolio/SEPM/TeamContract.pdf)
@@ -36,6 +37,8 @@
 - [Team Two project Charter](/MyPortfolio/SEPM/Assets/Team2_Project_Charter.pdf)
 - [PID](/MyPortfolio/SEPM/PID.docx)
 - [RAID Log](/MyPortfolio/SEPM/RAID.xlsx)
+- [Transcript](/MyPortfolio/SEPM/Transcript.docx)
+- [Preesentation](/MyPortfolio/SEPM/Presentation.pptx)
 
 **Skills Matrix** s🏆
 
