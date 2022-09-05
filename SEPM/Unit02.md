@@ -61,8 +61,8 @@ Scenario: Clean Machine
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Gherkin
+- [x] Development Types
 
 **Happiness Level**
 😀😀😀😀😀
