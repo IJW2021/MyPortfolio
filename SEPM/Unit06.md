@@ -148,8 +148,8 @@ David G. Messerschmitt and Clemens Szyperski. 2003. Software Ecosystem: Understa
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Testing Frameworks
+- [x] SWOT Analysis
 
 **Happiness Level**
-😀😀😀😀😀
+😀😀😀😀
