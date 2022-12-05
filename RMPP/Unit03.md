@@ -3,6 +3,10 @@
 
 ### Week Three [Tres Sabbati]
 
+After last week looking forward to some more details on what we will need to produce for the assignment part of the module though before that spent a good part of the week reading though the material while not the most engaging material ever written the topics covered did all tie together quite nicely the topics of how we classify research research and how we should design a research program.
+
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
