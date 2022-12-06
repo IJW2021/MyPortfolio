@@ -13,6 +13,9 @@ In 2018, Cambridge Analytica was in the news in the United Kingdom and the USA (
 
 Consider how exactly this happened and why it was used. Find one or two further examples of inappropriate use of surveys and highlight the impact of all these examples from the various ethical, social, legal and professional standpoints that apply.
 
+The background to this case is quite interesiting and a lesson in how our lives are lived in a digital space the background in well known in that Cambridge Analytica were able to get access to approx 87 million facebook users profile what is less known is the process by how this was achieved the data access / breech was enabled through the work of a researcher Aleksandr Kogan. He had produced a app on facebook using the facebook SDK that was a simple quiz the same as anyone who has used facebook has seen countless times in their timeline. This quiz however took advantage of a weekness in the facebook platform as normally a facebook app would only have access to the profile of the person taking the quiz this quiz was written in such as way to also access the profile and data of all the friends of the person taking the quiz.
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
