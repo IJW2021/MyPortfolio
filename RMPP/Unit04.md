@@ -24,8 +24,9 @@ This is something I deal with in my professional life quite frequently working w
 Absoulty Not the request at a minium will need to be approved by a line manager or team leader but shoudl really be revied by a IG (Information Goverance) team to ensure that 1. Data use is in line with the permission given when the data was captured if this is not the case then permission from the data subjects would need to be sought (Informed Concent) before any data that was personally identifiable could be released. there may be a cavet if the data was anozimised to but from the description this would remove the purpose the data has been requested.
 
 
+2. Suppose Ricardo were responsible for determining allowable access to the files. What ethical issues would be involved in his deciding whether to grant access to Beth?
 
-
+There are a number of factors that need to be taken into consideration to determin if permission should be given from my own personal real world experence of this is has a DPIA (Data Protection Impact Assessment) been carried out ? would the release of the data fall foul of GDPR and DPA regulations and expose the orginisation to enforcement action from the ICO. If there is any doubt data should not be released and expert advise should be sought from a Data Protection sepecisiest. As the default position shoud be to withhold data when there is any doubt in if the data should be released.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
