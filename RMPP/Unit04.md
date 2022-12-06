@@ -3,7 +3,7 @@
 
 ### Week Four [Hebdomada quattuor]
 
-Unit 4 and this week we are looking at "Case Studies, Focus Groups and Observations" interesting topic as in a lot of ways it is something that allready takes place without actually knowing you are doing
+Unit 4 and this week we are looking at "Case Studies, Focus Groups and Observations" interesting topic as in a lot of ways it is something that allready takes place without actually knowing you are doing Observation as research is a technique that is used quite widily in sciences outside of computer science with prime examples being physics where observation is the key research method use. It is also a method that has the least direct impact as observation is a passive method.
 
 ### Seminar 3 Prep
 
@@ -36,9 +36,13 @@ Under GDPR and marketing data subjects may have selected no contact or contact b
 
 In many ways this would not be a ideal situation it may be better to collect a new dataset for the research but if Beth did want to do this then any conclusions drawn from the data would have to acknoledge the incomplete state of the data along with any conclusions based on the data shoudl also be adjusted for the size of the provided data.
 
+During this week I have also continued with the initial resarch for the review part of the submission finding it quite hard going reading some of the texts as the language used is in many ways written in a way that would not be keeping in with using plain english where possible and this is from me as a native english speaker. For someone who does not have english as a primany language I would imagine this would be even harder or as my dutch friends would say **In het leven en ook in de taal zijn nuances alles**  (“In life and also in language, nuances are everything.”) (Louis Couperus 1923)
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Data & GDPR
+- [x] Observation 
 
 
 **Happiness Level**
