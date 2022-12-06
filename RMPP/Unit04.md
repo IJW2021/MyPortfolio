@@ -32,9 +32,13 @@ There are a number of factors that need to be taken into consideration to determ
 
 Under GDPR and marketing data subjects may have selected no contact or contact by methods such as post , phone , email if this is the case then contact if made would need to take into account these methods. If no contact preferences are on record then the data subject at least in the UK may be registered with the TPS (Telephone Preference Service) so phonecalls may need to take this into consideration. This is one reason why these senarios shoudl be built into the collection model as getting subject concent as the data is collected removes these bigger and more complex issues further down the data use pipeline.
 
+4. Suppose Beth contacts the individuals to ask their permission, and one-third of them respond giving permission, one-third respond denying permission, and one-third do not respond. Beth claims that at least one-half of the individuals are needed to make a valid study. What options are available to Beth?
+
+In many ways this would not be a ideal situation it may be better to collect a new dataset for the research but if Beth did want to do this then any conclusions drawn from the data would have to acknoledge the incomplete state of the data along with any conclusions based on the data shoudl also be adjusted for the size of the provided data.
+
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
+- [x] Data & GDPR
 
 
 **Happiness Level**
