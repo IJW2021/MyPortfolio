@@ -18,7 +18,11 @@ The background to this case is quite interesiting and a lesson in how our lives 
 Under the terms of service of facebook https://www.facebook.com/legal/terms the selling of this data is not permitted Cambridge Analytica did it anyway Facebook CEO Mark Zuxkerbrug said in response to the scandle
 
 ```
-“We have a responsibility to protect your data, and if we can’t then we don’t deserve to serve you,” Zuckerberg wrote. “I’ve been working to understand exactly what happened and how to make sure this doesn’t happen again. The good news is that the most important actions to prevent this from happening again today we have already taken years ago. But we also made mistakes, there’s more to do, and we need to step up and do it.” (Zuckerberg Mark 2018) ```
+“We have a responsibility to protect your data, and if we can’t then we don’t deserve to serve you, I’ve been working to understand exactly what happened and how to make sure this doesn’t happen again. The good news is that the most important actions to prevent this from happening again today we have already taken years ago. But we also made mistakes, there’s more to do, and we need to step up and do it.” (Zuckerberg Mark 2018) 
+```
+
+What this renforces is facebook as a company permitted 3rd party code to run with the sole purpose of harvesting user data with the use of the exploit the scope was far in excess of what should have been possible there were consequences Cambridge Analytica lost a number of clients as the story broke and facebook were forced to update their AUP and in the context of research a number of ethical researchers have lost access to the platform and data due to the actions by Cambridge Analytica.
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
