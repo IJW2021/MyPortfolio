@@ -3,6 +3,29 @@
 
 ### Week Four [Hebdomada quattuor]
 
+Unit 4 and this week we are looking at "Case Studies, Focus Groups and Observations" interesting topic as in a lot of ways it is something that allready takes place without actually knowing you are doing
+
+### Seminar 3 Prep
+
+The Question posed was 
+
+```
+Ricardo works for the records department of his local government as a computer records clerk, where he has access to files of property tax records. For a scientific study, a researcher, Beth, has been granted access to the numerical portion “but not the corresponding names” of some records.
+
+Beth finds some information that she would like to use, but she needs the names and addresses corresponding with certain properties. Beth asks Ricardo to retrieve these names and addresses, so she can contact these people for more information and for permission to do further study.
+
+Now consider, what are the ethical issues involved in deciding which of these options to pursue?
+```
+
+This is something I deal with in my professional life quite frequently working with data and processing FOI requests 
+
+1. If Ricardo is not responsible for determining allowable access, should he release the names and addresses?
+
+Absoulty Not the request at a minium will need to be approved by a line manager or team leader but shoudl really be revied by a IG (Information Goverance) team to ensure that 1. Data use is in line with the permission given when the data was captured if this is not the case then permission from the data subjects would need to be sought (Informed Concent) before any data that was personally identifiable could be released. there may be a cavet if the data was anozimised to but from the description this would remove the purpose the data has been requested.
+
+
+
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
