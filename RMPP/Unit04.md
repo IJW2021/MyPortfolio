@@ -28,6 +28,10 @@ Absoulty Not the request at a minium will need to be approved by a line manager 
 
 There are a number of factors that need to be taken into consideration to determin if permission should be given from my own personal real world experence of this is has a DPIA (Data Protection Impact Assessment) been carried out ? would the release of the data fall foul of GDPR and DPA regulations and expose the orginisation to enforcement action from the ICO. If there is any doubt data should not be released and expert advise should be sought from a Data Protection sepecisiest. As the default position shoud be to withhold data when there is any doubt in if the data should be released.
 
+3. Should Beth be allowed to contact the individuals involved? That is, should the Records department release individuals' names to a researcher? What are the ethical issues for the Records department to consider?
+
+Under GDPR and marketing data subjects may have selected no contact or contact by methods such as post , phone , email if this is the case then contact if made would need to take into account these methods. If no contact preferences are on record then the data subject at least in the UK may be registered with the TPS (Telephone Preference Service) so phonecalls may need to take this into consideration. This is one reason why these senarios shoudl be built into the collection model as getting subject concent as the data is collected removes these bigger and more complex issues further down the data use pipeline.
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] 
