@@ -4,12 +4,7 @@
 
 Week Five this module is moving fast before long it will be time to subbmit the first piece of assessed work in this week we are going to be looking at Interviews and Survey Methods.
 
-Interesting topic interviews as it is a method that if done correctly is a tool that can achieve 
-
-
-So What?
-I found that interviews are a conversational research method that allows the interviewer to extract detailed information from the interviewee. Interviews are instrumental as they can occur at different points in a research project, for example, the preliminary results gathering state of a software development project. Additionally, interviews can take on two forms, structure and unstructured interviews. Both have their pros; however, open-ended questions in an unstructured interview can result in a lot of effort from the interviewer to steer the conversations towards the desired outcome.
-
+Interesting topic interviews as it is a method that if done correctly is a tool that can achieve better results then the other methods though this does depend in a large part to how the interview and the questions asked are structured. I have used interviews as part of a softmarket testing excerise to scope a potential application development project and in this senario it worked well as getting system requirments was a large part of what we needed to achieve. As the interviewer you do need to be midful of how you ask questions so as not to steer the subject of the interview to a prefered outcome rather then letting them have a free choice when expressing their opinons. Also you need to think about if you want a structured or unstructured interview structured tends to work best for a predefined outcome or a set of questions that will be asked to a number of subject. unstructired is more suitied to getting opnions feeings about a topic or subject. 
 
 ## Case Study
 
