@@ -163,9 +163,14 @@ Open the Excel workbook in Exe 8.1B.xlsx from the Exercises folder. Obtain the s
 
 Briefly interpret your findings. What do these results tell you about the relative effectiveness of the two weight-reducing diets?
 
-What the data tells us about the two diets is that the mean weightloss for Diet A is 5.341, and the mean weightloss for Diet B is 3.710. From the supplied data this indicates that those subjects on Diet A  have a greater weight reduction than those on Diet B. The standard deviation  of Diet B is greater than the standard deviation of Diet A. This indicates that Diet A has less deviation than that of Diet B, and from this we can conclude that the results for diet A's data are more valid.													
-																										
-													
+What the data tells us about the two diets is that the mean weightloss for Diet A is 5.341, and the mean weightloss for Diet B is 3.710. From the supplied data this indicates that those subjects on Diet A  have a greater weight reduction than those on Diet B. The standard deviation  of Diet B is greater than the standard deviation of Diet A. This indicates that Diet A has less deviation than that of Diet B, and from this we can conclude that the results for diet A's data are more valid.
+
+### 8.2
+
+Open the Excel workbook in Exe 8.2B.xlsx from the Exercises folder. Obtain the sample median, first and third quartiles and the sample interquartile range of the weight loss for Diet B. Place these results in the block of cells F26 to F29, using the same format as that employed for the Diet A results in the above example.
+
+Briefly interpret your findings. What do these results tell you about the relative effectiveness of the two weight-reducing diets?
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
