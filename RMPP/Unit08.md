@@ -422,7 +422,7 @@ Assuming the data to be suitably distributed, complete a two-tailed test of whet
 |---|---|---|
 | Mean  | 8.25  | 8.683333333 |
 | Variance  | 1.059090909 | 1.077878788 |
-| Observations  |   |   |
+| Observations  | 12  | 12  |
 | Pearson Correlation  |   |   |
 | Hypothesized Mean Difference  |   |   |
 | df  |   |   |
