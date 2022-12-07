@@ -11,6 +11,8 @@ In this module we look at questionares and what sorts of factors need to be take
 3. Questions shoudl not lead the subject to an answer questions should be worded in a way as to not lead the subject to a set answer. 
 4. Data Collected must comply with GDPR and DPA Rules and concent must be collected by subjects.
 5. Language used shoudl be approporate for the question and the target audience.
+6. Questions shoudl be limited to the scope of the research question i.e is the data collected resasonable for the research topic
+7. A survey shoudl be efficent a long survey will be less likely to be completed a max length of 10-15 mins shoudl be a goal.
 
 
 I plan to continue working on the Submission for the rest of the week in preperation for the final submission of the document looking forward to finally getting this submitted mostly there but need to go through and trim the word count to meet the limits. Still not a fan of the word limits on submissions. 
