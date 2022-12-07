@@ -380,6 +380,8 @@ Briefly interpret your findings. What do these results tell you about the patter
 | Other  | 42  |  41 |   
 | Total  | 70  | 90  |   
 
+![FREQ](FREQ.png)
+
 **Percentages**
 
 |   | Area 1  | Area 2   | 
@@ -388,6 +390,8 @@ Briefly interpret your findings. What do these results tell you about the patter
 | B      | 24.3  | 33.3  |   
 | Other  | 60.0  | 45.6  |   
 | Total  | 100.00  | 100.00  |   
+
+![PER](PER.png)
 
 **Weekly Skills Matrix New Knowledge Gained**
 
