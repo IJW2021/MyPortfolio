@@ -151,6 +151,16 @@ print(sum(DATA)/len(DATA))
 | SD    | 2.769  |
 
 
+### 8.1
+
+Open the Excel workbook in Exe 8.1B.xlsx from the Exercises folder. Obtain the sample size, sample mean weight loss and the sample standard deviation of the weight loss for Diet B. Place these results in the block of cells F23 to F25, using the same format as that employed for the Diet A results in the above example.
+
+Briefly interpret your findings. What do these results tell you about the relative effectiveness of the two weight-reducing diets?
+
+What the data tells us about the two diets is that the mean weightloss for Diet A is 5.341, and the mean weightloss for Diet B is 3.710. From the supplied data this indicates that those subjects on Diet A are lose more weight than those on Diet B. The standard deviation  of Diet B is greater than the standard deviation of Diet A. This indicates that Diet A has less deviation than that of Diet B, and from this we can conclude that the results for diet A's data are more valid.													
+																										
+													
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Refresher on Python DataTypes
