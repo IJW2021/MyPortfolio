@@ -371,7 +371,23 @@ Briefly interpret your findings. What do these results tell you about the patter
 | 2 | Other |
 | 2 | Other |
 
+**Frequency**
 
+|   | Area 1  | Area 2   | 
+|---|---|---|
+| A      | 11  |  19 |   
+| B      | 17  | 30  |   
+| Other  | 42  |  41 |   
+| Total  | 70  | 90  |   
+
+**Percentages**
+
+|   | Area 1  | Area 2   | 
+|---|---|---|
+| A      | 15.7  |  21.1 |   
+| B      | 24.3  | 33.3  |   
+| Other  | 60.0  | 45.6  |   
+| Total  | 100.00  | 100.00  |   
 
 **Weekly Skills Matrix New Knowledge Gained**
 
