@@ -23,6 +23,11 @@ n = sum of data items / number of data items
 
 For the example above the calculation would be 18/4 resulting in a sample mean of 4.5
 
+```python
+DATA = [1, 2, 6, 9]
+print(sum(DATA)/len(DATA))
+```
+
 # Excerise 1
 
 | Diet   | Weight Loss  |
