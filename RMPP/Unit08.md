@@ -416,6 +416,9 @@ Assuming the data to be suitably distributed, complete a two-tailed test of whet
 |11|9.4|9.7|0.207629464205859|0.23790081903867|
 |12|8.1|9.1|0.383557281447112|0.354527367789783|
 
+![1](AGT1.png)
+![2](AGT2.png)
+
 ### t-Test: Paired Two Sample for Means
 														
 |   | Variable 1  | Variable 2 |
