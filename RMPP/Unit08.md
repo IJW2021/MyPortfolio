@@ -420,8 +420,8 @@ Assuming the data to be suitably distributed, complete a two-tailed test of whet
 														
 |   | Variable 1  | Variable 2 |
 |---|---|---|
-| Mean  |   |   |
-| Variance  |   |   |
+| Mean  | 8.25  | 8.683333333 |
+| Variance  | 1.059090909 | 1.077878788 |
 | Observations  |   |   |
 | Pearson Correlation  |   |   |
 | Hypothesized Mean Difference  |   |   |
