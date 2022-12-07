@@ -415,7 +415,23 @@ Assuming the data to be suitably distributed, complete a two-tailed test of whet
 | 10 |9.4 |8.9 |
 | 11 |9.4 |9.7 |
 | 12 |8.1 |9.1 |
+
+### t-Test: Paired Two Sample for Means
 														
+|   | Variable 1  | Variable 2 |
+|---|---|---|
+| Mean  |   |   |
+| Variance  |   |   |
+| Observations  |   |   |
+| Pearson Correlation  |   |   |
+| Hypothesized Mean Difference  |   |   |
+| df  |   |   |
+| t Stat  |   |   |
+| P(T<=t) one-tail  |   |   |
+| t Critical one-tail  |   |   |
+| t Critical two-tail  |   |   |
+| . |   |   |
+| Difference in Means  |   |   |
 
 **Weekly Skills Matrix New Knowledge Gained**
 
