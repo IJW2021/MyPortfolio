@@ -201,6 +201,9 @@ From the data provided the median weight reduction for Diet B is 3745 grammes (8
 
 ## 8.3
 
+
+[Exe 8.3D.xlsx](/MyPortfolio/RMPP/Exe%208.3D.xlsx)
+
 Open the Excel workbook in Exe 8.3D.xlsx from the Exercises folder. Obtain the frequencies and percentage frequencies of the variable Brand, but this time for the Area 2 respondents, using the same format as that employed for the Area1 results in the above example.
 
 Briefly interpret your findings. What do these results tell you about the patterns of brand preferences for each of the two demographic areas?
