@@ -12,7 +12,7 @@ In this module we look at questionares and what sorts of factors need to be take
 4. Data Collected must comply with GDPR and DPA Rules and concent must be collected by subjects.
 
 
-I plan to continue working on the Submission for the rest of the week in preperation for the final submission of the document 
+I plan to continue working on the Submission for the rest of the week in preperation for the final submission of the document looking forward to finally getting this submitted mostly there but need to go through and trim the word count to meet the limits. Still not a fan of the word limits on submissions. 
 
 - [x] 
 - [x] 
