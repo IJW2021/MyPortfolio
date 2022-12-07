@@ -178,10 +178,10 @@ Briefly interpret your findings. What do these results tell you about the relati
 | Number  | 50   |
 | Mean  | 5.341  |
 | SD    | 2.536  |
-| Median |       |
-| Q1     |       |
-| Q2     |       |
-| IQR    |       |
+| Median | 5.642 |
+| Q1     | 3.748 |
+| Q3     | 7.033 |
+| IQR    | 3.285 |
 
 **Diet B**
 
