@@ -395,7 +395,12 @@ Briefly interpret your findings. What do these results tell you about the patter
 
 From the data we can see people prefer "Other" brands rather then brand A or brand B (Area 1: 60%, Area 2: 45.6%) of the two named brands (A,B) Brand B is the most popular in the two regions Brand A Area 1 (11 15.7%) Area 2 (19 21.1%) Brand B Area 1 (17 24.3%) Area 2 (30 33.3%) Brand A is the lowest scoring brand in both Areas with 15.7% in Area A and 21.1% in Area B.
 
-												
+### 8.4
+
+Consider the filtration data of Data Set G. Open the Excel workbook Exe8.4G.xlsx which contains these data from the Exercises folder.
+
+Assuming the data to be suitably distributed, complete a two-tailed test of whether the population mean impurity differs between the two filtration agents, and interpret your findings.
+
 														
 
 **Weekly Skills Matrix New Knowledge Gained**
