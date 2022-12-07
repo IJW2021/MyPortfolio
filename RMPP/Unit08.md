@@ -171,6 +171,19 @@ Open the Excel workbook in Exe 8.2B.xlsx from the Exercises folder. Obtain the s
 
 Briefly interpret your findings. What do these results tell you about the relative effectiveness of the two weight-reducing diets?
 
+**Diet A**
+
+| Type  | Value   |
+|---|---|
+| Number  | 50   |
+| Mean  | 5.341  |
+| SD    | 2.536  |
+| Median |       |
+| Q1     |       |
+| Q2     |       |
+| IQR    |       |
+
+**Diet B**
 
 **Weekly Skills Matrix New Knowledge Gained**
 
