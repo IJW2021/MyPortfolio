@@ -133,6 +133,23 @@ print(sum(DATA)/len(DATA))
 | B | 7.013 |
 | B | 2.594 |
 
+**Diet A**
+
+| Type  | Value   |
+|---|---|
+| Number  | 50   |
+| Mean  | 5.341  |
+| SD    | 2.536  |
+
+
+**Diet B**
+
+| Type  | Value   |
+|---|---|
+| Number  | 50   |
+| Mean  | 3.710  |
+| SD    | 2.769  |
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
