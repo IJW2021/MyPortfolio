@@ -197,6 +197,8 @@ Briefly interpret your findings. What do these results tell you about the relati
 | Q3     | 5.404 |
 | IQR    | 3.451 |
 
+From the data provided the median weight reduction for Diet B is 3745 grammes (8.256 lbs) from this we can say the diet has met it goals of reducing weight. in comparison the median weight reduction for Diet A is 5642 grammes (12.438 lbs) so we can also say diet A has met the goals of reducing weight based on the mean values we can say that the mean weight loss for Diet A subjects is 50.654% more then Diet B
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
