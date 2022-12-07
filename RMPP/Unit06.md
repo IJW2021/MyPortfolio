@@ -10,6 +10,7 @@ In this module we look at questionares and what sorts of factors need to be take
 2. Ideally questionare should be done in a phased approach testing the questions and answers with a subset of the target group before the full survey and data collection excerise.
 3. Questions shoudl not lead the subject to an answer questions should be worded in a way as to not lead the subject to a set answer. 
 4. Data Collected must comply with GDPR and DPA Rules and concent must be collected by subjects.
+5. Language used shoudl be approporate for the question and the target audience.
 
 
 I plan to continue working on the Submission for the rest of the week in preperation for the final submission of the document looking forward to finally getting this submitted mostly there but need to go through and trim the word count to meet the limits. Still not a fan of the word limits on submissions. 
