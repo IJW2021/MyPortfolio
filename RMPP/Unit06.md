@@ -8,6 +8,7 @@ In this module we look at questionares and what sorts of factors need to be take
 
 1. Formatting of the questions in the survey are important long compex questions are unlikely to gain affective responses from subjects
 2. Ideally questionare should be done in a phased approach testing the questions and answers with a subset of the target group before the full survey and data collection excerise.
+3. Questions shoudl not lead the subject to an answer questions should be worded in a way as to not lead the subject to a set answer. 
 
 
 I plan to continue working on the Submission for the rest of the week in preperation for the final submission of the document 
