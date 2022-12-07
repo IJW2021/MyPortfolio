@@ -23,4 +23,4 @@ I plan to continue working on the Submission for the rest of the week in prepera
 - [x] Best Practice
 
 **Happiness Level**
-😀😀😀😀
+😀😀
