@@ -401,6 +401,20 @@ Consider the filtration data of Data Set G. Open the Excel workbook Exe8.4G.xlsx
 
 Assuming the data to be suitably distributed, complete a two-tailed test of whether the population mean impurity differs between the two filtration agents, and interpret your findings.
 
+| Batch | Agent 1  | Agent 2 |
+|---|---|---|
+| 1 |7.7 |8.5 |
+| 2 |9.2 |9.6 |
+| 3 |6.8 |6.4 |
+| 4 |9.5 |9.8 |
+| 5 |8.7 |9.3 |
+| 6 |6.9 |7.6 |
+| 7 |7.5 |8.2 |
+| 8 |7.1 |7.7 |
+| 9 |8.7 |9.4 |
+| 10 |9.4 |8.9 |
+| 11 |9.4 |9.7 |
+| 12 |8.1 |9.1 |
 														
 
 **Weekly Skills Matrix New Knowledge Gained**
