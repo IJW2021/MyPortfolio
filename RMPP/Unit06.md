@@ -13,12 +13,14 @@ In this module we look at questionares and what sorts of factors need to be take
 5. Language used shoudl be approporate for the question and the target audience.
 6. Questions shoudl be limited to the scope of the research question i.e is the data collected resasonable for the research topic
 7. A survey shoudl be efficent a long survey will be less likely to be completed a max length of 10-15 mins shoudl be a goal.
+8. Questions shoudl capture the information required to carry out the research.
+9. Survey can accomidate subjects with special requirments e,g Visual Imparement , English not a first language etc
 
 
 I plan to continue working on the Submission for the rest of the week in preperation for the final submission of the document looking forward to finally getting this submitted mostly there but need to go through and trim the word count to meet the limits. Still not a fan of the word limits on submissions. 
 
-- [x] 
-- [x] 
+- [x] Questionare Structure
+- [x] Best Practice
 
 **Happiness Level**
 😀😀😀😀
