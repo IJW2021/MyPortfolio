@@ -397,6 +397,8 @@ From the data we can see people prefer "Other" brands rather then brand A or bra
 
 ### 8.4
 
+[Exe 8.4G.xlsx](/MyPortfolio/RMPP/Exe%208.4G.xlsx)
+
 Consider the filtration data of Data Set G. Open the Excel workbook Exe8.4G.xlsx which contains these data from the Exercises folder.
 
 Assuming the data to be suitably distributed, complete a two-tailed test of whether the population mean impurity differs between the two filtration agents, and interpret your findings.
@@ -436,6 +438,8 @@ Assuming the data to be suitably distributed, complete a two-tailed test of whet
 | t Critical two-tail  | 2.20098516009164  |   |
 | . |   |   |
 | Difference in Means  | 0.433333333   |   |
+
+### Conclusion
 
 **Weekly Skills Matrix New Knowledge Gained**
 
