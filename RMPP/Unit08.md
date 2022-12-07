@@ -151,7 +151,9 @@ print(sum(DATA)/len(DATA))
 | SD    | 2.769  |
 
 
-### 8.1 [8.1 Excel File](/MyPortfolio/RMPP/Exe%208.1B.xlsx)
+### 8.1 
+
+[Exe 8.1B.xlsx](/MyPortfolio/RMPP/Exe%208.1B.xlsx)
 
 Open the Excel workbook in Exe 8.1B.xlsx from the Exercises folder. Obtain the sample size, sample mean weight loss and the sample standard deviation of the weight loss for Diet B. Place these results in the block of cells F23 to F25, using the same format as that employed for the Diet A results in the above example.
 
