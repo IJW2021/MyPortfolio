@@ -135,6 +135,8 @@ print(sum(DATA)/len(DATA))
 
 **Diet A**
 
+![A](A.png)
+
 | Type  | Value   |
 |---|---|
 | Number  | 50   |
@@ -143,6 +145,8 @@ print(sum(DATA)/len(DATA))
 
 
 **Diet B**
+
+![B](B.png)
 
 | Type  | Value   |
 |---|---|
