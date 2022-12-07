@@ -19,6 +19,7 @@
 
 **Deliverable's** 📦
 
+- [Presentation Transcript](/MyPortfolio/RMPP/ProposalTranscriptSubmission.docx)
 
 **Skills Matrix** s🏆
 
