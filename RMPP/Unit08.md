@@ -10,6 +10,19 @@ New week new module this week we are looking at  Sample Mean and Sample Standard
 
 This is defined as "The sample mean (or "empirical mean") and the sample covariance are statistics computed from a sample of data on one or more random variables. The sample mean is the average value (or mean value) of a sample of numbers taken from a larger population of numbers," (Wikipedia 2022 Accessed from https://en.wikipedia.org/wiki/Sample_mean_and_covariance)
 
+This can be caculated by the formula
+
+n = sum of data items / number of data items
+
+| Value  |
+|---|
+| 1  |
+| 2  |
+| 6  |
+| 9  |
+
+For the example above the calculation would be 18/4 resulting in a sample mean of 4.5
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
