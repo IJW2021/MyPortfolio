@@ -424,9 +424,9 @@ Assuming the data to be suitably distributed, complete a two-tailed test of whet
 | Variance  | 1.059090909 | 1.077878788 |
 | Observations  | 12  | 12  |
 | Pearson Correlation  | 0.901055812 |   |
-| Hypothesized Mean Difference  |   |   |
-| df  |   |   |
-| t Stat  |   |   |
+| Hypothesized Mean Difference  | 0  |   |
+| df  | 11  |   |
+| t Stat  | -3.263938591|   |
 | P(T<=t) one-tail  |   |   |
 | t Critical one-tail  |   |   |
 | t Critical two-tail  |   |   |
