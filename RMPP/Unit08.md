@@ -427,11 +427,12 @@ Assuming the data to be suitably distributed, complete a two-tailed test of whet
 | Hypothesized Mean Difference  | 0  |   |
 | df  | 11  |   |
 | t Stat  | -3.263938591|   |
-| P(T<=t) one-tail  |   |   |
-| t Critical one-tail  |   |   |
-| t Critical two-tail  |   |   |
+| P(T<=t) one-tail  | 0.00377299731515574 |   |
+| t Critical one-tail  | 1.79588481870404  |   |
+|P(T<=t) two-tail |0.00754599463031149 |
+| t Critical two-tail  | 2.20098516009164  |   |
 | . |   |   |
-| Difference in Means  |   |   |
+| Difference in Means  | 0.433333333   |   |
 
 **Weekly Skills Matrix New Knowledge Gained**
 
