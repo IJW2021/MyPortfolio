@@ -4,6 +4,14 @@
 
 **Weekly Skills Matrix New Knowledge Gained**
 
+In this module we look at questionares and what sorts of factors need to be taken into consideration when designing a questionare a quite important if overlooked subject from looking at this area we need to consider
+
+1. Formatting of the questions in the survey are important long compex questions are unlikely to gain affective responses from subjects
+2. 
+
+
+I plan to continue working on the Submission for the rest of the week in preperation for the final submission of the document 
+
 - [x] 
 - [x] 
 
