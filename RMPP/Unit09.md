@@ -18,7 +18,7 @@ Briefly interpret your findings. What do these results tell you about the patter
 ![Logo](A1.png)
 ![Logo](A2.png)
 
-### Conslusion
+### Conclusion
 
 From the data we can concude the following Brand A is the least popular in both areas Brand B is the second most popular in both areas through more people pefer it in Area B then Area A and Other is the most popular in both areas.
 
@@ -31,6 +31,10 @@ Open the Excel workbook in Exe 9.2E.xlsx from the Exercises folder. This contain
 Briefly interpret your findings
 
 ![Logo](FR.png)
+
+### Conclusion
+
+
 
 Having now done the excerises This week’s exercises gave me a greater understanding of how to visualise data though still perfer other tooling rather then excel Power BI , Crystal Reports wouldl be my goto tools to visiulaise data but as a ease of access solution excel is not too bad.  
 
