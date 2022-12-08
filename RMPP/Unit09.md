@@ -24,10 +24,13 @@ From the data we can concude the following Brand A is the least popular in both 
 
 ### 9.2
 
+[Exe 9.2E.xlsx](/MyPortfolio/RMPP/Exe9.2E.xlsx)
+
 Open the Excel workbook in Exe 9.2E.xlsx from the Exercises folder. This contains the frequency distributions for Data Set E (see the Data Annexe) to which has been added the corresponding percentage frequency distributions. Complete a percentage frequency clustered column bar chart showing the heather species prevalences in the two different locations.
 
 Briefly interpret your findings
 
+![Logo](FR.png)
 
 Having now done the excerises This week’s exercises gave me a greater understanding of how to visualise data though still perfer other tooling rather then excel Power BI , Crystal Reports wouldl be my goto tools to visiulaise data but as a ease of access solution excel is not too bad.  
 
