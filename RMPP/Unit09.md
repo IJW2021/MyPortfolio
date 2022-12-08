@@ -38,6 +38,8 @@ From the Histogram we can see that in location A there are less absent frequenci
 
 ### 9.3
 
+[Exe 9.3B.xlsx](/MyPortfolio/RMPP/Exe9.3B.xlsx)
+
 Open the Excel workbook in Exe 9.3B.xlsx from the Exercises folder. This contains the relative frequency histogram for the Diet A weight loss produced in Example 9.3 together with some of the Diet B weight loss summary statistics. Add a relative frequency histogram of the weight loss for Diet B, where possible using the same classes as those employed for the Diet A results in the above example. 
 
 Briefly interpret your histogram. What do these results tell you about the patterns of weight loss for each of the two diets?
