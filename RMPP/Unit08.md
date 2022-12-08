@@ -465,6 +465,31 @@ Suppose instead a one-tailed test had been conducted to determine whether Filter
 |11|9.4|9.7|0.207629464205859|0.23790081903867|
 |12|8.1|9.1|0.383557281447112|0.354527367789783|
 
+|   | Variable 1  | Variable 2 |
+|---|---|---|
+| Mean  | 8.25  | 8.683333333 |
+| Variance  | 1.059090909 | 1.077878788 |
+| Observations  | 12  | 12  |
+| Pearson Correlation  | 0.901055812 |   |
+| Hypothesized Mean Difference  | 0  |   |
+| df  | 11  |   |
+| t Stat  | -3.263938591|   |
+| P(T<=t) one-tail  | 0.00377299731515574 |   |
+| t Critical one-tail  | 1.79588481870404  |   |
+|P(T<=t) two-tail |0.00754599463031149 |
+| t Critical two-tail  | 2.20098516009164  |   |
+| . |   |   |
+| Difference in Means  | 0.433333333   |   |
+
+One-tailed	0.00377299731515574	P-value
+Two-tailed	0.00754599463031149	P-value
+
+
+The associated one-tailed p-value is p = 0.00377299731515574, so the observed t is significant at the 1% level (two-tailed).
+
+
+The sample mean numbers of impurities for agents 1 and 2 were 8.25 and 8.683333333 The data therefore constitute strong evidence that the underlying mean number of impurities was fewer for Agent 1, by an estimated (8.683333333 - 8.25) 0.4333333 impurities per agent. The results indicate that Agent 1 is the better sample.
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Refresher on Python DataTypes
