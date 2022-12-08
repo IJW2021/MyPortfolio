@@ -3,7 +3,7 @@
 
 ### Week Nine [Hebdomada Novem]
 
-
+A New week this week is all about In this unit, we focused on visually representing data something I have some experience of having been involved in BI for a number of years so this hopfully may pick up some tips and tricks that I can also use in my day to day role.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
