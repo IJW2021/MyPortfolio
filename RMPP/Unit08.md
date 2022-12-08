@@ -623,6 +623,19 @@ Assuming the data to be suitably distributed, complete an appropriate test of wh
 
 ![CUR](CUR.png)
 
+F-Test Two-Sample for Variances
+
+|   | Variable 1  | Variable 2  |
+|---|---|---|
+| Mean  | 52.9133333333333  | 44.2333333333333  |
+| Variance  | 233.128971751412  | 190.175819209037  |
+| Observations  | 60  | 60  |
+| DF  | 59  | 59  |
+| F  | 1.22586022093146  |   |
+| P(F<=f) one-tail  | 0.218246240191807  |   |
+| F Critical one-tail  | 1.53995660740408  |   |
+| Mean Differential   | 8.68  |   |
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
