@@ -625,7 +625,7 @@ Assuming the data to be suitably distributed, complete an appropriate test of wh
 
 F-Test Two-Sample for Variances
 
-|   | Variable 1  | Variable 2  |
+|   | Variable 1 (M)  | Variable 2 (F)  |
 |---|---|---|
 | Mean  | 52.9133333333333  | 44.2333333333333  |
 | Variance  | 233.128971751412  | 190.175819209037  |
