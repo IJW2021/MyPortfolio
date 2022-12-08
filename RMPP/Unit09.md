@@ -47,7 +47,7 @@ Having now done the excerises This week’s exercises gave me a greater understa
 
 ### Diet B
 
-
+![Logo](D1.png)
 
 **Weekly Skills Matrix New Knowledge Gained**
 
