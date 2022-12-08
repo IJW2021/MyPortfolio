@@ -465,6 +465,7 @@ Suppose instead a one-tailed test had been conducted to determine whether Filter
 |11|9.4|9.7|0.207629464205859|0.23790081903867|
 |12|8.1|9.1|0.383557281447112|0.354527367789783|
 
+
 |   | Variable 1  | Variable 2 |
 |---|---|---|
 | Mean  | 8.25  | 8.683333333 |
