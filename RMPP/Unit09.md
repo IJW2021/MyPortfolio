@@ -34,7 +34,9 @@ Briefly interpret your findings
 
 ### Conclusion
 
+From the Histogram we can see that in location A there are less absent frequencies than in Location B we can also see that location B  absent frequencys are 31.2 % higher then location A we can also see that Sparse frequency is pretty even across both locations. We can also see that in Location A Abundent 46.4% making up nearly 50% of the total. 
 
+												
 
 Having now done the excerises This week’s exercises gave me a greater understanding of how to visualise data though still perfer other tooling rather then excel Power BI , Crystal Reports wouldl be my goto tools to visiulaise data but as a ease of access solution excel is not too bad.  
 
