@@ -481,6 +481,9 @@ Suppose instead a one-tailed test had been conducted to determine whether Filter
 | . |   |   |
 | Difference in Means  | 0.433333333   |   |
 
+
+### Conclusion
+
 One-tailed	0.00377299731515574	P-value
 Two-tailed	0.00754599463031149	P-value
 
