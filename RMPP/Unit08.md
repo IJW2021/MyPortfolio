@@ -444,6 +444,14 @@ Assuming the data to be suitably distributed, complete a two-tailed test of whet
 1. Data Point 1 from the second diagram appears to be a point that is outside the norm this so this shoud really be excluded from any analsys.
 2. Average (Mean) numbers of impurities for filtration agents 1 and 2 were 8.25 and 8.68 thus we can see that contanimation was lower for Agent 1 by  Approx 0.43333 per agent. Based on this Agent 1 should be used. if we remove the outlier point this changes the mean from 8.68 to 8.89 a difference of  0.64 so our choice to use agent 1 still stands.
 
+### 8.5
+
+Recall that in Exercise 8.4, a two-tailed test was undertaken of whether the population mean impurity differs between the two filtration agents in Data Set G.
+
+Suppose instead a one-tailed test had been conducted to determine whether Filter Agent 1 was the more effective. What would your conclusions have been?
+
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Refresher on Python DataTypes
