@@ -651,10 +651,12 @@ Using the Fomula **=TTEST(SUPER!B2:B61,SUPER!B62:B121,2,2)** we calculate the PT
 
 From our data we can see a 16.4% 8.68 difference between the mean values of Variable 1 (Males) and Variable 2 (Females) indicating that males earn more then Females. 
 
+Actually quite enjoyed the maths content this week not something I get to do that oftern brought back many hours spent doing A level physics but need to keep progressing with the module and making sure the upcomming submissions are done.
+
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] Refresher on Python DataTypes
-- [x] Infrastructure Build Out
+- [x] Refresher on Excel Formulas
+- [x] Maths and Stats 
 
 **Happiness Level**
 😀😀😀😀😀
