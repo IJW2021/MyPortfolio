@@ -44,9 +44,6 @@ Open the Excel workbook in Exe 9.3B.xlsx from the Exercises folder. This contain
 
 Briefly interpret your histogram. What do these results tell you about the patterns of weight loss for each of the two diets?
 
-
-Having now done the excerises This week’s exercises gave me a greater understanding of how to visualise data though still perfer other tooling rather then excel Power BI , Crystal Reports wouldl be my goto tools to visiulaise data but as a ease of access solution excel is not too bad.  
-
 ### Diet A
 
 ![Logo](D3.png)
@@ -57,10 +54,19 @@ Having now done the excerises This week’s exercises gave me a greater understa
 ![Logo](D1.png)
 ![Logo](D2.png)
 
+### Conclusion
+
+
+Diet A Appears to offer the people on it better outcomes as more people have lost weight on Diet A then Diet B that being said the number of people who gain weight on Diet B is greater then the number who gain weight on Diet A so from this we can conclude that diet A is superior to Diet B for people who wish to lose weight.  
+
+
+Having now done the excerises This week’s exercises gave me a greater understanding of how to visualise data though still perfer other tooling rather then excel Power BI , Crystal Reports wouldl be my goto tools to visiulaise data but as a ease of access solution excel is not too bad. Think these last two weeks have been the most enjoyable so far on this module so lets finish strong over the next couple of weeks.  
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Excel Graphics
+- [x] Excel Functions some new functions I had never used before 
 
 **Happiness Level**
-😀😀😀
+😀😀😀😀😀
