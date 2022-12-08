@@ -45,6 +45,9 @@ Briefly interpret your histogram. What do these results tell you about the patte
 
 Having now done the excerises This week’s exercises gave me a greater understanding of how to visualise data though still perfer other tooling rather then excel Power BI , Crystal Reports wouldl be my goto tools to visiulaise data but as a ease of access solution excel is not too bad.  
 
+### Diet B
+
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
