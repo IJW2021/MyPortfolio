@@ -36,7 +36,12 @@ Briefly interpret your findings
 
 From the Histogram we can see that in location A there are less absent frequencies than in Location B we can also see that location B  absent frequencys are 31.2 % higher then location A we can also see that Sparse frequency is pretty even across both locations. We can also see that in Location A Abundent 46.4% making up nearly 50% of the total. 
 
-												
+### 9.3
+
+Open the Excel workbook in Exe 9.3B.xlsx from the Exercises folder. This contains the relative frequency histogram for the Diet A weight loss produced in Example 9.3 together with some of the Diet B weight loss summary statistics. Add a relative frequency histogram of the weight loss for Diet B, where possible using the same classes as those employed for the Diet A results in the above example. 
+
+Briefly interpret your histogram. What do these results tell you about the patterns of weight loss for each of the two diets?
+
 
 Having now done the excerises This week’s exercises gave me a greater understanding of how to visualise data though still perfer other tooling rather then excel Power BI , Crystal Reports wouldl be my goto tools to visiulaise data but as a ease of access solution excel is not too bad.  
 
