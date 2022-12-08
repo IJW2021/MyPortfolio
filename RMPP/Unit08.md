@@ -492,6 +492,13 @@ The associated one-tailed p-value is p = 0.00377299731515574, so the observed t 
 
 The sample mean numbers of impurities for agents 1 and 2 were 8.25 and 8.683333333 The data therefore constitute strong evidence that the underlying mean number of impurities was fewer for Agent 1, by an estimated (8.683333333 - 8.25) 0.4333333 impurities per agent. The results indicate that Agent 1 is the better sample.
 
+### 8.6
+
+Consider the bank cardholder data of Data Set C. Open the Excel workbook Exe8.6C.xlsx which contains this data from the Exercises folder.
+
+Assuming the data to be suitably distributed, complete an appropriate test of whether the population mean income for males exceeds that of females and interpret your findings. What assumptions underpin the validity of your analysis, and how could you validate them?
+
+
 **Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Refresher on Python DataTypes
