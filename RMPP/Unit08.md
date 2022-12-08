@@ -646,7 +646,7 @@ F-Test Two-Sample for Variances
 
 ### PTEST
 
-Using the Fomula =TTEST(SUPER!B2:B61,SUPER!B62:B121,2,2) we calculate the PTEST value to be 0.00141947 so the observed t is significant at the 1% level (two-tailed).
+Using the Fomula **=TTEST(SUPER!B2:B61,SUPER!B62:B121,2,2)** we calculate the PTEST value to be 0.00141947 so the observed t is significant at the 1% level (two-tailed).
 
 
 From our data we can see a 16.4% 8.68 difference between the mean values of Variable 1 (Males) and Variable 2 (Females) indicating that males earn more then Females. 
