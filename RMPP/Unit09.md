@@ -13,8 +13,8 @@ Open the Excel workbook in Exe 9.1D.xlsx from the Exercises folder. This contain
 
 Briefly interpret your findings. What do these results tell you about the patterns of brand preferences for each of the two demographic areas?
 
-
-
+![Logo](A1.png)
+![Logo](A2.png)
 
 
 
