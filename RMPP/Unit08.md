@@ -644,6 +644,11 @@ F-Test Two-Sample for Variances
 
 "If the F-score is close to one, conclude that your hypothesis is correct and that the samples do come from populations with equal variances. If the F-score is far from one, then conclude that the populations probably have different variances."  (BCCAMPUS Chapter 6 F-TEST) Accessed from https://opentextbc.ca/introductorybusinessstatistics/chapter/f-test-and-one-way-anova-2/) as our value is 1.22 we can conclude that the data sets we are looking at are comparable
 
+### PTEST
+
+Using the Fomula =TTEST(SUPER!B2:B61,SUPER!B62:B121,2,2) we calculate the PTEST value to be 0.00141947 so the observed t is significant at the 1% level (two-tailed).
+
+
 From our data we can see a 16.4% 8.68 difference between the mean values of Variable 1 (Males) and Variable 2 (Females) indicating that males earn more then Females. 
 
 **Weekly Skills Matrix New Knowledge Gained**
