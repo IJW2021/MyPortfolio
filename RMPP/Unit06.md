@@ -2,8 +2,6 @@
 [1](/MyPortfolio/RMPP/Unit01.html) | [2](/MyPortfolio/RMPP/Unit02.html) | [3](/MyPortfolio/RMPP/Unit03.html) | [4](/MyPortfolio/RMPP/Unit04.html) | [5](/MyPortfolio/RMPP/Unit05.html) | [6](/MyPortfolio/RMPP/Unit06.html) | [7](/MyPortfolio/RMPP/Unit07.html) | [8](/MyPortfolio/RMPP/Unit08.html) | [9](/MyPortfolio/RMPP/Unit09.html) | [10](/MyPortfolio/RMPP/Unit10.html) | [11](/MyPortfolio/RMPP/Unit11.html) | [12](/MyPortfolio/RMPP/Unit12.html)
 ### Week Six [Hebdomada Sex]
 
-**Weekly Skills Matrix New Knowledge Gained**
-
 In this module we look at questionares and what sorts of factors need to be taken into consideration when designing a questionare a quite important if overlooked subject from looking at this area we need to consider
 
 1. Formatting of the questions in the survey are important long compex questions are unlikely to gain affective responses from subjects
@@ -17,7 +15,9 @@ In this module we look at questionares and what sorts of factors need to be take
 9. Survey can accomidate subjects with special requirments e,g Visual Imparement , English not a first language etc
 
 
-I plan to continue working on the Submission for the rest of the week in preperation for the final submission of the document looking forward to finally getting this submitted mostly there but need to go through and trim the word count to meet the limits. Still not a fan of the word limits on submissions. 
+I plan to continue working on the Submission for the rest of the week in preperation for the final submission of the document looking forward to finally getting this submitted mostly there but need to go through and trim the word count to meet the limits. Still not a fan of the word limits on submissions. This submission has been a challenge as found it quite hard to get out of the engineer mindset into the research mindset.  
+
+**Weekly Skills Matrix New Knowledge Gained**
 
 - [x] Questionare Structure
 - [x] Best Practice
