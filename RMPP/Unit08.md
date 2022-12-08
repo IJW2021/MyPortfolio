@@ -494,6 +494,8 @@ The sample mean numbers of impurities for agents 1 and 2 were 8.25 and 8.6833333
 
 ### 8.6
 
+[Exe 8.6C.xlsx](/MyPortfolio/RMPP/Exe%208.6C.xlsx)
+
 Consider the bank cardholder data of Data Set C. Open the Excel workbook Exe8.6C.xlsx which contains this data from the Exercises folder.
 
 Assuming the data to be suitably distributed, complete an appropriate test of whether the population mean income for males exceeds that of females and interpret your findings. What assumptions underpin the validity of your analysis, and how could you validate them?
