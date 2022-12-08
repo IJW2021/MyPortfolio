@@ -619,7 +619,9 @@ Assuming the data to be suitably distributed, complete an appropriate test of wh
 |F|32.6|
 |F|82.9|
 |F|42.3|
-|F|57.8|![image](https://user-images.githubusercontent.com/83661179/206414182-65629023-687f-4f1d-9b88-f56b904db16e.png)
+|F|57.8|
+
+![CUR](CUR.png)
 
 
 **Weekly Skills Matrix New Knowledge Gained**
