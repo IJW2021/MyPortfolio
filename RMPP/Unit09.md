@@ -9,6 +9,8 @@ A New week this week is all about In this unit, we focused on visually represent
 
 ### 9.1
 
+[Exe 9.1D.xlsx](/MyPortfolio/RMPP/Exe9.1D.xlsx)
+
 Open the Excel workbook in Exe 9.1D.xlsx from the Exercises folder. This contains the percentage frequencies together with the bar chart just created in the above example. Add a percentage frequency bar chart showing the brand preferences in Area 2, using the same format as that employed for the Area1 results in the above example. Drag your new chart so that it lies alongside that for Area 1.
 
 Briefly interpret your findings. What do these results tell you about the patterns of brand preferences for each of the two demographic areas?
