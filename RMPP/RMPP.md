@@ -19,6 +19,14 @@
 
 **Deliverable's** 📦
 
+- [Exe 8.1B.xlsx](/MyPortfolio/RMPP/Proposal/Exe%208.1B.xlsx)
+- [Exe 8.2B.xlsx](/MyPortfolio/RMPP/Proposal/Exe%208.2B.xlsx)
+- [Exe 8.3D.xlsx](/MyPortfolio/RMPP/Proposal/Exe%208.3D.xlsx)
+- [Exe 8.4G.xlsx](/MyPortfolio/RMPP/Proposal/Exe%208.4G.xlsx)
+- [Exe 8.6C.xlsx](/MyPortfolio/RMPP/Proposal/Exe%208.6C.xlsx)
+- [Exe9.1D.xlsx](/MyPortfolio/RMPP/Proposal/Exe9.1D.xlsx)
+- [Exe9.2E.xlsx](/MyPortfolio/RMPP/Proposal/Exe9.2E.xlsx)
+- [Exe9.3B.xlsx](/MyPortfolio/RMPP/Proposal/Exe9.3B.xlsx)
 - [Presentation Transcript](/MyPortfolio/RMPP/ProposalTranscriptSubmission.docx)
 
 **Skills Matrix** s🏆
