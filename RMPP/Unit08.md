@@ -488,8 +488,7 @@ One-tailed	0.00377299731515574	P-value
 Two-tailed	0.00754599463031149	P-value
 
 
-The associated one-tailed p-value is p = 0.00377299731515574, so the observed t is significant at the 1% level (two-tailed).
-
+The associated one-tailed p-value is p = 0.00377299731515574, so the observed t is significant at the 1% level (one-tailed).
 
 The sample mean numbers of impurities for agents 1 and 2 were 8.25 and 8.683333333 The data therefore constitute strong evidence that the underlying mean number of impurities was fewer for Agent 1, by an estimated (8.683333333 - 8.25) 0.4333333 impurities per agent. The results indicate that Agent 1 is the better sample.
 
