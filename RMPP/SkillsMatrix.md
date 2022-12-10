@@ -27,7 +27,7 @@
 | Graduate   | Skill    | Skill Level               | Evidence |
 | :--        | :--      | :--                       | :--      |
 | Cultural Awareness | Act in the best interest of the community at large - Social (Community) Responsibility |Proficient |No evidence from this module | 
-| Teamwork, Leadership and Resilience, Time Management | Collaborate effectively in diverse teams to achieve team goals |Proficient | Team Meetings| 
+| Teamwork, Leadership and Resilience, Time Management | Collaborate effectively in diverse teams to achieve team goals |Proficient | No evidence from this module | 
 | Teamwork, Leadership and Resilience, Time Management | Meeting team objectives using teamwork skills |Proficient | No evidence from this module | 
 | Teamwork, Leadership and Resilience, Time Management | Demonstrate skills in leadership and team building | Proficient| No evidence from this module | 
 | Creativity, Entrepreneurial, Problem solving, Initiative, Decision Making | Create, discuss and deliver strategies for sustainability for all stakeholders (company, community and environment) |Aware |No evidence from this module | 
