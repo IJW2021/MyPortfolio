@@ -13,21 +13,21 @@ In 2018, Cambridge Analytica was in the news in the United Kingdom and the USA (
 
 Consider how exactly this happened and why it was used. Find one or two further examples of inappropriate use of surveys and highlight the impact of all these examples from the various ethical, social, legal and professional standpoints that apply.
 
-The background to this case is quite interesiting and a lesson in how our lives are lived in a digital space the background in well known in that Cambridge Analytica were able to get access to approx 87 million facebook users profile what is less known is the process by how this was achieved the data access / breech was enabled through the work of a researcher Aleksandr Kogan. He had produced a app on facebook using the facebook SDK that was a simple quiz the same as anyone who has used facebook has seen countless times in their timeline. This quiz however took advantage of a weekness in the facebook platform as normally a facebook app would only have access to the profile of the person taking the quiz this quiz was written in such as way to also access the profile and data of all the friends of the person taking the quiz.
+The background to this case is quite interesting and a lesson in how our lives are lived in a digital space the background in well known in that Cambridge Analytica were able to get access to approx. 87 million Facebook users profile what is less known is the process by how this was achieved the data access / breech was enabled through the work of a researcher Aleksandr Kogan. He had produced an app on Facebook using the Facebook SDK that was a simple quiz the same as anyone who has used Facebook has seen countless times in their timeline. This quiz however took advantage of a weakness in the Facebook platform as normally a Facebook app would only have access to the profile of the person taking the quiz this quiz was written in such a way to also access the profile and data of all the friends of the person taking the quiz.
 
-Under the terms of service of facebook https://www.facebook.com/legal/terms the selling of this data is not permitted Cambridge Analytica did it anyway Facebook CEO Mark Zuxkerbrug said in response to the scandle
+Under the terms of service of Facebook https://www.facebook.com/legal/terms the selling of this data is not permitted Cambridge Analytica did it anyway Facebook CEO Mark Zuckerberg said in response to the scandal
 
 ```
 “We have a responsibility to protect your data, and if we can’t then we don’t deserve to serve you, I’ve been working to understand exactly what happened and how to make sure this doesn’t happen again. The good news is that the most important actions to prevent this from happening again today we have already taken years ago. But we also made mistakes, there’s more to do, and we need to step up and do it.” (Zuckerberg Mark 2018) 
 ```
 
-What this renforces is facebook as a company permitted 3rd party code to run with the sole purpose of harvesting user data with the use of the exploit the scope was far in excess of what should have been possible there were consequences Cambridge Analytica lost a number of clients as the story broke and facebook were forced to update their AUP and in the context of research a number of ethical researchers have lost access to the platform and data due to the actions by Cambridge Analytica.
+What this reenforces is Facebook as a company permitted 3rd party code to run with the sole purpose of harvesting user data with the use of the exploit the scope was far in excess of what should have been possible there were consequences Cambridge Analytica lost a number of clients as the story broke and Facebook were forced to update their AUP and in the context of research a number of ethical researchers have lost access to the platform and data due to the actions by Cambridge Analytica.
 
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] 
-- [x] 
+- [x] Ethical Issues and why it can be hard  
+- [x] Facebook and potential security flaws
 
 **Happiness Level**
 😀😀😀😀😀
