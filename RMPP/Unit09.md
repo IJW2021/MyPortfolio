@@ -3,9 +3,9 @@
 
 ### Week Nine [Hebdomada Novem]
 
-A New week this week is all about In this unit, we focused on visually representing data something I have some experience of having been involved in BI for a number of years so this hopfully may pick up some tips and tricks that I can also use in my day to day role. So going to spend some time this week reviewing content and doing the execerises.
+A New week this week is all about in this unit, we focused on visually representing data something I have some experience of having been involved in BI for a number of years so this hopefully may pick up some tips and tricks that I can also use in my day to day role. So going to spend some time this week reviewing content and doing the exercises.
 
-### Excerises
+### Exercises
 
 ### 9.1
 
@@ -20,7 +20,7 @@ Briefly interpret your findings. What do these results tell you about the patter
 
 ### Conclusion
 
-From the data we can concude the following Brand A is the least popular in both areas Brand B is the second most popular in both areas through more people pefer it in Area B then Area A and Other is the most popular in both areas.
+From the data we can conclude the following Brand A is the least popular in both areas Brand B is the second most popular in both areas through more people prefer it in Area B then Area A and Other is the most popular in both areas
 
 ### 9.2
 
@@ -34,7 +34,7 @@ Briefly interpret your findings
 
 ### Conclusion
 
-From the Histogram we can see that in location A there are less absent frequencies than in Location B we can also see that location B  absent frequencys are 31.2 % higher then location A we can also see that Sparse frequency is pretty even across both locations. We can also see that in Location A Abundent 46.4% making up nearly 50% of the total. 
+From the Histogram we can see that in location A there are less absent frequencies than in Location B we can also see that location B absent frequencies are 31.2 % higher than location A we can also see that Sparse frequency is pretty even across both locations. We can also see that in Location A Abundant 46.4% making up nearly 50% of the total.
 
 ### 9.3
 
@@ -57,11 +57,9 @@ Briefly interpret your histogram. What do these results tell you about the patte
 ### Conclusion
 
 
-Diet A Appears to offer the people on it better outcomes as more people have lost weight on Diet A then Diet B that being said the number of people who gain weight on Diet B is greater then the number who gain weight on Diet A so from this we can conclude that diet A is superior to Diet B for people who wish to lose weight.  
+Diet A Appears to offer the people on it better outcomes as more people have lost weight on Diet A then Diet B that being said the number of people who gain weight on Diet B is greater than the number who gain weight on Diet A so from this we can conclude that diet A is superior to Diet B for people who wish to lose weight.
 
-
-Having now done the excerises This week’s exercises gave me a greater understanding of how to visualise data though still perfer other tooling rather then excel Power BI , Crystal Reports wouldl be my goto tools to visiulaise data but as a ease of access solution excel is not too bad. Think these last two weeks have been the most enjoyable so far on this module so lets finish strong over the next couple of weeks.  
-
+Having now done the exercises This week’s exercises gave me a greater understanding of how to visualise data though still prefer other tooling rather than excel Power BI , Crystal Reports would still be my go to tools to visualise data but as a ease of access solution excel is not too bad. Think these last two weeks have been the most enjoyable so far on this module so let’s finish strong over the next couple of weeks.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
