@@ -651,6 +651,10 @@ Using the Formula **=TTEST(SUPER!B2:B61,SUPER!B62:B121,2,2)** we calculate the P
 
 From our data we can see a 16.4% 8.68 difference between the mean values of Variable 1 (Males) and Variable 2 (Females) indicating that males earn more than Females. Actually, quite enjoyed the maths content this week not something I get to do that often brought back many hours spent doing A level physics but need to keep progressing with the module and making sure the upcoming submissions are done.
 
+**References**
+
+<div class="csl-entry"><i>Chapter 6. F-Test and One-Way ANOVA – Introductory Business Statistics with Interactive Spreadsheets – 1st Canadian Edition</i>. (n.d.). Retrieved December 01, 2022, from https://opentextbc.ca/introductorybusinessstatistics/chapter/f-test-and-one-way-anova-2/</div>
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
