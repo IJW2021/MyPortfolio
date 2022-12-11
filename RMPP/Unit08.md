@@ -28,7 +28,7 @@ print(sum(DATA)/len(DATA))
 ```
 ![Ave](Mean.png)
 
-# Excerise 1
+# Exercise 1
 
 | Diet   | Weight Loss  |
 |---|---|
@@ -647,12 +647,10 @@ F-Test Two-Sample for Variances
 
 ### PTEST
 
-Using the Fomula **=TTEST(SUPER!B2:B61,SUPER!B62:B121,2,2)** we calculate the PTEST value to be 0.00141947 so the observed t is significant at the 1% level (two-tailed).
+Using the Formula **=TTEST(SUPER!B2:B61,SUPER!B62:B121,2,2)** we calculate the PTEST value to be 0.00141947 so the observed t is significant at the 1% level (two-tailed).
 
+From our data we can see a 16.4% 8.68 difference between the mean values of Variable 1 (Males) and Variable 2 (Females) indicating that males earn more than Females. Actually, quite enjoyed the maths content this week not something I get to do that often brought back many hours spent doing A level physics but need to keep progressing with the module and making sure the upcoming submissions are done.
 
-From our data we can see a 16.4% 8.68 difference between the mean values of Variable 1 (Males) and Variable 2 (Females) indicating that males earn more then Females. 
-
-Actually quite enjoyed the maths content this week not something I get to do that oftern brought back many hours spent doing A level physics but need to keep progressing with the module and making sure the upcomming submissions are done.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
