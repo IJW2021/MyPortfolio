@@ -64,6 +64,15 @@ Whistleblowing for employees (gov.uk n.d)
 
 https://www.gov.uk/whistleblowing
 
+Took part in the reasoning quiz did quite well though one question was 50/50 and just happened to choose the correct one.
+
+![Logo](QUIZ1.png)
+![Logo](QUIZ2.png)
+![Logo](QUIZ3.png)
+![Logo](QUIZ4.png)
+![Logo](QUIZ5.png)
+![Logo](QUIZ6.png)
+
 
 A Good start and looking forward to the rest of the content 
 
