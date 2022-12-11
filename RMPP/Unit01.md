@@ -3,7 +3,7 @@
 
 ### Week One [una sabbatorum]
 
-New module time and the first one in a while where it won't be a team project so will have to get back into the solo mindset from the couse plan looks like it is going to be a intresting module but its a from the schedule I wont be able to attend the seminars as the time they are scheduled for means I will be at work which is a pitty as its always nice to debate with the other students on the course. But will watch the videos to engage with the module content.
+New module time and the first one in a while where it won't be a team project so will have to get back into the solo mindset from the Couse plan looks like it is going to be an interesting module but it’s a from the schedule I won’t be able to attend the seminars as the time they are scheduled for means I will be at work which is a pity as its always nice to debate with the other students on the course. But will watch the videos to engage with the module content.
 
 ## Forum Post
 
