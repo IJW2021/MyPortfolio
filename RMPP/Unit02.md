@@ -3,14 +3,15 @@
 
 ### Week Two [Duo]
 
-This week I spent a fair amount of time going through the reading material some of this was quite heavy going but equally it was also quite interesting and makes a change from the heavy technology modules though being a engineer at heart some of these concepts are quite alien to me but happy to be outside of my comfort zone as that is where growth comes from. Covered topics in 
+This week I spent a fair amount of time going through the reading material some of this was quite heavy going but equally it was also quite interesting and makes a change from the heavy technology modules though being a engineer at heart some of these concepts are quite alien to me but happy to be outside of my comfort zone as that is where growth comes from. Covered topics in
 
-- What to choose as a research question
-- What is research, 
-- preparing a project proposal for submission
-- writing literature reviews what needs to be inclded. 
+-	What to choose as a research question
+-	What is research,
+-	preparing a project proposal for submission
+-	writing literature reviews what needs to be included.
 
-Also fedback from the forum post from last week 
+Also feedback from the forum post from last week
+
 
 ### Forum Response
 
