@@ -3,18 +3,17 @@
 
 ### Week Three [Tres Sabbati]
 
-After last week looking forward to some more details on what we will need to produce for the assignment part of the module though before that spent a good part of the week reading though the material while not the most engaging material ever written the topics covered did all tie together quite nicely the topics of how we classify research research and how we should design a research program.
-
-Starting to get a bit of a understanding of how we shoud classify research into three set areas
+After last week looking forward to some more details on what we will need to produce for the assignment part of the module though before that spent a good part of the week reading though the material while not the most engaging material ever written the topics covered did all tie together quite nicely the topics of how we classify research and how we should design a research program.
+Starting to get a bit of an understanding of how we should classify research into three set areas
 
 - Exploratory Research
 - Conclusive Research
 - Qualitative Research
 
+Starting to look at the topics for the review while not personally a fan of a majority of the topics leaning towards the COVID19 data reporting and dashboards topic as data is a area that I am quite familiar with and even have some experience of dashboards and covid19 so makes sense to do research in a area that I already have some knowledge of. That being said from what I have seen so far this looks like it could be quite a challenging module but will go in with a positive attitude.
 
-Starting to look at the topics for the review while not persoanlly a fan of a majority of the topics leaning torwards the COVID19 data reporting and dashboards topic as data is a area that I am quite familar with and even have some experence of dashboards and covid19 so makes sense to do research in a area that I allready have some knowledge of. That being said from what I have seen so far this looks like it could be quite a challenging module but will go in with a postive attidude.
+To help with this before next week will carry on with the background reading and may try to tap some of my own work contacts who have their doctorates to get some advice on how to best approach the upcoming work.
 
-To help with this before next week will carry on with the background reading and may try to tap some of my own work contacts who have their doctorates to get some advice on how to best approach the upcomming work.
 
 ### Seminar 2 Preparation
 
