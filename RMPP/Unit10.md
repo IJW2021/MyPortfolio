@@ -10,11 +10,51 @@ Have also been having a think about project Ideas while debating if I carryon to
 **Initial Proposal Ideas**
 
 - Active Transport Planning how to design clener cities
+
+| Idea  |
+|---|
+| Use GIS To Visulaise Data  |
+| Hook into Realtime Traffic Monitoring |
+| Hardware Some kind of microcontroler device to capture data on transport use|
+
 - Smart Energy IT systems to dynamicaly allocate energy based on AI Person Detection
+
+| Idea  |
+|---|
+|Python OpenCV based system |
+|Train Model to detect person|
+|CuDA GPU C++ to make near realtime|
+|Hook into Power Management APIs |
+
 - Traffic Flow Optimisation using AI and predictive analytics 
-- Reducing Data Centre Carbon foot prints by Predective scaling of resorces   
-- Physical Access Secrity Detection Methods to allow verification of
+
+| Idea  |
+|---|
+|Route Prediction using Model traffic flow weightings|
+|Tom Tom API for realtime Traffic|
+|Python produce GIS export to feed into GIS or Gmaps|
+
+
+- Reducing Data Centre Carbon foot prints by Predective scaling of resorces  
+
+| Idea  |
+|---|
+|Monitor system use via APIs|
+|On-prem , Cloud and Hybrid|
+|Front End , Back End|
+|K8S , Docker Swarm , Bare Metal |
+
 - Troubled Family Support allocation / intervention based on AI analyitcs of disperte data points (Education , Social Care , Youth Justice , Housing)  
+
+| Idea  |
+|---|
+|Golden Record|
+|Live Access or Flat File|
+|Data Conform prcedures|
+|Data Rules GDPR|
+|Strong Access Controls|
+|Model from known interventions triggers to alert that family may need support|
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
