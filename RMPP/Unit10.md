@@ -3,9 +3,9 @@
 
 ### Week Ten [Hebdomada Decem]
 
-So have made it to week 10 and this is the week where my proposal presentation needs to be completed and submitted. Progress has been pretty good and apart from a microphone not working when plugged in to a Macbook no problems in recording the voice over sections really dont like to hear myself speak wihout a audience as there is nothing to fill the voids in the presentation but we shoudl be ok for submission one thing that I did overlook was due to the fact tha the audio was recorded at CD quality 44khz WAV files the size of the presentation was quite large it may have been better to reencode as MP3 or AAC but checked and the filesize was still below the limit for the VLE Moodle environment.  
+So have made it to week 10 and this is the week where my proposal presentation needs to be completed and submitted. Progress has been pretty good and apart from a microphone not working when plugged in to a MacBook no problems in recording the voice over sections really don’t like to hear myself speak without an audience as there is nothing to fill the voids in the presentation but we should be ok for submission one thing that I did overlook was due to the fact the audio was recorded at CD quality 44khz WAV files the size of the presentation was quite large it may have been better to reencode as MP3 or AAC but checked and the file size was still below the limit for the VLE Moodle environment.
 
-Have also been having a think about project Ideas while debating if I carryon to the MSC part of the course for a number of reasons decided to at least have a idea about what to do if and when I make that decison. As someone who has a keen iterest in both city design and green issues I wanted to look at some of these types of issues research for research sake is a valid point of view as it enhances the pool of human knowledge. But on a personal level I would like my research to have a possible real world application. 
+Have also been having a think about project Ideas while debating if I carryon to the MSC part of the course for a number of reasons decided to at least have an idea about what to do if and when I make that decision. As someone who has a keen interest in both city design and green issues, I wanted to look at some of these types of issues research for research’s sake is a valid point of view as it enhances the pool of human knowledge. But on a personal level I would like my research to have a possible real world application.
 
 **Initial Proposal Ideas**
 
@@ -55,6 +55,8 @@ Have also been having a think about project Ideas while debating if I carryon to
 |Strong Access Controls|
 |Model from known interventions triggers to alert that family may need support|
 
+
+Of the Ideas The one I think I would take forward is the Troubled Family Support allocation having contacts in that area I could get access to real world data and having seen the impact that a successful intervention can have and knowing that eary intevention can imporve a childs life chances this resaerch while having a CS element such as data searching pattern matching also has the social element that if I did take this forward there is a real posibility that it could go from just a project to actually being used.  
 
 **Weekly Skills Matrix New Knowledge Gained**
 
