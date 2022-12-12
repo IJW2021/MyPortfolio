@@ -11,7 +11,7 @@ This is Ian Signing off 🥳
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-- [x] Public Presenting
+- [x] Mop Up of topics
 
 **Happiness Level**
 😀😀😀😀😀
