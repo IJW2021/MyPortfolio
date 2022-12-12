@@ -655,6 +655,8 @@ From our data we can see a 16.4% 8.68 difference between the mean values of Vari
 
 Chapter 6. F-Test and One-Way ANOVA – Introductory Business Statistics with Interactive Spreadsheets – 1st Canadian Edition</i>. (n.d.). Retrieved December 01, 2022, from https://opentextbc.ca/introductorybusinessstatistics/chapter/f-test-and-one-way-anova-2/
 
+Sample mean and covariance - Wikipedia</i>. (n.d.). Retrieved December 01, 2022, from https://en.wikipedia.org/wiki/Sample_mean_and_covariance</div>
+
 
 **Weekly Skills Matrix New Knowledge Gained**
 
