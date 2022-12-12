@@ -1,51 +1,15 @@
 ![Logo](Images/Logo.png)
-[1](/MyPortfolio/SEPM/Unit01.html) | [2](/MyPortfolio/SEPM/Unit02.html) | [3](/MyPortfolio/SEPM/Unit03.html) | [4](/MyPortfolio/SEPM/Unit04.html) | [5](/MyPortfolio/SEPM/Unit05.html) | [6](/MyPortfolio/SEPM/Unit06.html) | [7](/MyPortfolio/SEPM/Unit07.html) | [8](/MyPortfolio/SEPM/Unit08.html) | [9](/MyPortfolio/SEPM/Unit09.html) | [10](/MyPortfolio/SEPM/Unit10.html) | [11](/MyPortfolio/SEPM/Unit11.html) | [12](/MyPortfolio/SEPM/Unit12.html)
+[1](/MyPortfolio/RMPP/Unit01.html) | [2](/MyPortfolio/RMPP/Unit02.html) | [3](/MyPortfolio/RMPP/Unit03.html) | [4](/MyPortfolio/RMPP/Unit04.html) | [5](/MyPortfolio/RMPP/Unit05.html) | [6](/MyPortfolio/RMPP/Unit06.html) | [7](/MyPortfolio/RMPP/Unit07.html) | [8](/MyPortfolio/RMPP/Unit08.html) | [9](/MyPortfolio/RMPP/Unit09.html) | [10](/MyPortfolio/RMPP/Unit10.html) | [11](/MyPortfolio/RMPP/Unit11.html) | [12](/MyPortfolio/RMPP/Unit12.html)
 
-![Logo](Images/Diary.png)
 ### Week Eleven [Hebdomada undecim]
 
-Submission week so alot of the week has been spent getting the slides ready and recording the audio so we can get the presentation ready internal debates about how the slides shoudl be presented but happy within reason to how the slides came out. Getting towards the end of the module just a presentation to do after we have submitted the slides. 
+End of the module and it’s been a journey have I enjoyed the module I think it’s fair to say given a free choice It is not one I would have personally chosen to do I think my brain is more wired for the practical side of CS give me a problem and I will find a solution and produce a product that will solve the problem. Which is good as that is how I make my living. That being said the module has made me think quite a bit as apart from the maths where there is 100% a correct answer the other parts open up interpretation and in a lot of ways are dictated by individual experience and personal moral compass. So, it was nice to travel down that road even for just a bit but will also be happy to get back algorithms, DMBS optimisation writing efficient secure code.   
 
-Looking now to the project report, I am happy thatwe had achieved most of the requirements agreed upon with the client. Was it perfect no there were still some rough edges but one thing I have learnt from working in IT development is a solution is never done you just stop working on it there are always things you can improve. One area where I am happy was the module gave me expereince of leading a project and also the foundations of how to successfully deviver a project. Being a 100% remote though post covid that is not as different as it use to be and working with a international team in some ways the project was more challenging then a typical project I would work on and because of this I think I am now a more confident person when it comes to project management there is a saying the bristish army have
-
-**Train Hard Fight Easy**
-
-And that is a good summary of the module it has given skills that we can use in the real world will I ever manage a international team developing a childs to again I would say unlikely but when I do manage projects I will take some of the skills and lessons gained during the childs toy process into those projects.
-
-During this week also put together the slidepack for the seminar session 
-
-## Slides
-
-![Logo](Images/Slide1.jpeg)
-
-![Logo](Images/Slide2.jpeg)
-
-![Logo](Images/Slide3.jpeg)
-
-![Logo](Images/Slide4.jpeg)
-
-![Logo](Images/Slide5.jpeg)
-
-![Logo](Images/Slide6.jpeg)
-
-![Logo](Images/Slide7.jpeg)
-
-![Logo](Images/Slide8.jpeg)
-
-![Logo](Images/Slide9.jpeg)
-
-![Logo](Images/Slide10.jpeg)
-
-![Logo](Images/Slide11.jpeg)
-
-![Logo](Images/Slide12.jpeg)
+The Royal Air Force have a moto **Per ardua ad astra** which translates to through adversity to the stars and that I think is how I feel having completed the module will I use what I have learned in the real world? yes Ethics I use every day to guide what I do as IT professionals we tend to have access to quite sensitive data so being able to know what can be done and who we can give that data to is a skill we all need. Otherwise, it makes for less than pleasant discussions with internal and external agencies. As someone who has had to report failures to the ICO it’s something I am very aware of. Personally, Disappointed with my own performance in this module not sure why some of the unforced errors happened but not something I plan to repeat we cannot change the past only learn from it so will take this as a lesson learn from it and try to do better going forward.
 
 **Weekly Skills Matrix New Knowledge Gained**
 
-
-
-- [x] Audio Recording 
-- [x] Crafting an Argument
+- [x] Personal Reflection
 
 **Happiness Level**
-😀😀😀😀😀
+😀😀
