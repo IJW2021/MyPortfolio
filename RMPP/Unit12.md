@@ -3,9 +3,11 @@
 
 ### Week Twelve [Duo Decim]
 
-Did the reading and carried out the week 12 Quiz
+Did the reading and carried out the week 12 Quiz.
 
 ![Logo](12Q.png)
+
+And so we come to the end of the module and the end of the non project elements it has been some interesting content over the last year have met some talented people both on the staff and students and now I feel I have have a broader view of the industry I have worked in for most of my Adult life and also have enjoyed this trip back into education.
 
 This is Ian Signing off 🥳
 
