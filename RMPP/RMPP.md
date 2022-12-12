@@ -15,7 +15,6 @@
 - [Unit 09](/MyPortfolio/RMPP/Unit09.html)
 - [Unit 10](/MyPortfolio/RMPP/Unit10.html)
 - [Unit 11](/MyPortfolio/RMPP/Unit11.html)
-- [Unit 12](/MyPortfolio/RMPP/Unit12.html)
 
 **Deliverable's** 📦
 - [Forum Post.docx](/MyPortfolio/RMPP/ForumPost.docx)
